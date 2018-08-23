@@ -4,7 +4,7 @@
     <property name="created">2018-08-23T15:13:56</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-08-23T16:05:50</property>
+    <property name="modified">2018-08-23T16:54:03</property>
     <property name="originalScheme">Halflife (rainglow)</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
@@ -612,7 +612,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="52d928" />
+        <option name="FOREGROUND" value="31b358" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -2976,12 +2976,12 @@
     </option>
     <option name="ReSharper.DELEGATE_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="52d928" />
+        <option name="FOREGROUND" value="31b358" />
       </value>
     </option>
     <option name="ReSharper.ENUM_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="52d928" />
+        <option name="FOREGROUND" value="31b358" />
       </value>
     </option>
     <option name="ReSharper.EXTENSION_METHOD_IDENTIFIER">
@@ -3005,6 +3005,11 @@
         <option name="FOREGROUND" value="cccccc" />
       </value>
     </option>
+    <option name="ReSharper.NAMESPACE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="797979" />
+      </value>
+    </option>
     <option name="ReSharper.OUTLINED_ENTITY">
       <value>
         <option name="FOREGROUND" value="ffaa00" />
@@ -3017,7 +3022,7 @@
     </option>
     <option name="ReSharper.STRUCT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="52d928" />
+        <option name="FOREGROUND" value="31b358" />
       </value>
     </option>
     <option name="ReSharper.TYPE_PARAMETER_IDENTIFIER">
