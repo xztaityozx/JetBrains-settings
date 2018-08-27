@@ -1,9 +1,9 @@
 <application>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
-    <option name="FONT_FAMILY" value="Ricty Diminished for Powerline" />
   </component>
   <component name="EditorSettings">
+    <option name="IS_VIRTUAL_SPACE" value="true" />
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
