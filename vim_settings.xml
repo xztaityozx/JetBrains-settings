@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" timestamp="1539100673293">
-        <mark key="'" line="34" column="35" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" timestamp="1539102112118">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -19,44 +18,44 @@
       <jump line="34" column="35" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CSJnaXRodWIuY29tL3NwZjEzL2NvYnJhIgopCgovLyBleHRyYWN0Q21kIHJlcHJlc2VudHMgdGhlIGV4dHJhY3QgY29tbWFuZAp2YXIgZXh0cmFjdENtZCA9ICZjb2JyYS5Db21tYW5kew==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly92YXIgZXh0cmFjdENtZCA9ICZjb2JyYS5Db21tYW5kewoJVXNlOiAgICJleHRyYWN0IiwK</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>a</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CSJnaXRodWIuY29tL3NwZjEzL2NvYnJhIgopCgovLyBleHRyYWN0Q21kIHJlcHJlc2VudHMgdGhlIGV4dHJhY3QgY29tbWFuZAp2YXIgZXh0cmFjdENtZCA9ICZjb2JyYS5Db21tYW5kew==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly92YXIgZXh0cmFjdENtZCA9ICZjb2JyYS5Db21tYW5kewoJVXNlOiAgICJleHRyYWN0IiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VGhlIGFib3ZlIGNvcHlyaWdodCBub3RpY2UgYW5kIHRoaXMgcGVybWlzc2lvbiBub3RpY2Ugc2hhbGwgYmUgaW5jbHVkZWQgaW4KLy8gYWxsIGNvcGllcyBvciBzdWJzdGFudGlhbCBwb3J0aW9ucyBvZiB0aGUgU29mdHdhcmUuCg==</text>
+        <text encoding="base64">CVVzZTogICAiZXh0cmFjdCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vImdpdGh1Yi5jb20vc3BmMTMvY29icmEiCikK</text>
+        <text encoding="base64">Ly92YXIgZXh0cmFjdENtZCA9ICZjb2JyYS5Db21tYW5kewoJVXNlOiAgICJleHRyYWN0IiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TElBQklMSVRZLCBXSEVUSEVSIElOIEFOIEFDVElPTiBPRiBDT05UUkFDVCwgVE9SVCBPUiBPVEhFUldJU0UsIEFSSVNJTkcgRlJPTSwKLy8gT1VUIE9GIE9SIElOIENPTk5FQ1RJT04gV0lUSCBUSEUgU09GVFdBUkUgT1IgVEhFIFVTRSBPUiBPVEhFUiBERUFMSU5HUyBJTgo=</text>
+        <text encoding="base64">Ly92YXIgZXh0cmFjdENtZCA9ICZjb2JyYS5Db21tYW5kewoJVXNlOiAgICJleHRyYWN0IiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8KLy8gUGVybWlzc2lvbiBpcyBoZXJlYnkgZ3JhbnRlZCwgZnJlZSBvZiBjaGFyZ2UsIHRvIGFueSBwZXJzb24gb2J0YWluaW5nIGEgY29weQo=</text>
+        <text encoding="base64">Ly92YXIgZXh0cmFjdENtZCA9ICZjb2JyYS5Db21tYW5kewoJVXNlOiAgICJleHRyYWN0IiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW4gdGhlIFNvZnR3YXJlIHdpdGhvdXQgcmVzdHJpY3Rpb24sIGluY2x1ZGluZyB3aXRob3V0IGxpbWl0YXRpb24gdGhlIHJpZ2h0cwovLyB0byB1c2UsIGNvcHksIG1vZGlmeSwgbWVyZ2UsIHB1Ymxpc2gsIGRpc3RyaWJ1dGUsIHN1YmxpY2Vuc2UsIGFuZC9vciBzZWxsCg==</text>
+        <text encoding="base64">fQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b2YgdGhpcyBzb2Z0d2FyZSBhbmQgYXNzb2NpYXRlZCBkb2N1bWVudGF0aW9uIGZpbGVzICh0aGUgIlNvZnR3YXJlIiksIHRvIGRlYWwKLy8gaW4gdGhlIFNvZnR3YXJlIHdpdGhvdXQgcmVzdHJpY3Rpb24sIGluY2x1ZGluZyB3aXRob3V0IGxpbWl0YXRpb24gdGhlIHJpZ2h0cwo=</text>
+        <text encoding="base64">Ly99Cgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CX0sCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">dmFyIGV4dHJhY3RDbWQgPSAmY29icmEuQ29tbWFuZHsKCVVzZTogICAiZXh0cmFjdCIsCglTaG9ydDogIiIsCglMb25nOiBgYCwKCVJ1bjogZnVuYyhjbWQgKmNvYnJhLkNvbW1hbmQsIGFyZ3MgW11zdHJpbmcpIHsKCQlmbXQuUHJpbnRsbigiZXh0cmFjdCBjYWxsZWQiKQoJfSwKfQ==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Ly92YXIgZXh0cmFjdENtZCA9ICZjb2JyYS5Db21tYW5kewovLwlVc2U6ICAgImV4dHJhY3QiLAovLwlTaG9ydDogIiIsCi8vCUxvbmc6IGBgLAovLwlSdW46IGZ1bmMoY21kICpjb2JyYS5Db21tYW5kLCBhcmdzIFtdc3RyaW5nKSB7</text>
+        <text encoding="base64">dmFyIGV4dHJhY3RDbWQgPSAmY29icmEuQ29tbWFuZHsKCVVzZTogICAiZXh0cmFjdCIsCglTaG9ydDogIiIsCglMb25nOiBgYCwKCVJ1bjogZnVuYyhjbWQgKmNvYnJhLkNvbW1hbmQsIGFyZ3MgW11zdHJpbmcpIHsKCQlmbXQuUHJpbnRsbigiZXh0cmFjdCBjYWxsZWQiKQoJfSwKfQ==</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>map</text>
       </register>
     </registers>
     <search>
@@ -73,21 +72,26 @@
         <entry>a</entry>
       </history-search>
       <history-cmd>
-        <entry>action Find</entry>
-        <entry>action Comment With Line Comment</entry>
-        <entry>actionlist</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5QmxvY2tDb21tZW50</entry>
-        <entry encoding="base64">bWFwIHMgPE5vcD4=</entry>
-        <entry encoding="base64">bWFwISBzIDxOb3A+</entry>
-        <entry>cl</entry>
         <entry encoding="base64">bm9yZW1hcCBjbCA8Tk9QPg==</entry>
         <entry encoding="base64">bm5vcmVtYXAgcyA8bGVhZGVyPg==</entry>
-        <entry>action AceAction</entry>
-        <entry encoding="base64">bm5vcmVtYXAgcyA8TGVhZGVyPg==</entry>
         <entry>w</entry>
+        <entry>nmap s</entry>
+        <entry encoding="base64">bm1hcCBzIA==</entry>
+        <entry encoding="base64">bm5vcmVtYXAgcyA8TGVhZGVyPg==</entry>
+        <entry>nmap s [Prefix]</entry>
+        <entry>nmap</entry>
+        <entry>nnoremap s [Prefix]</entry>
+        <entry encoding="base64">bm5vcmVtYXAgW1ByZWZpeF1jIDo8Qy11PmFjdGlvbiBDb21tZW50QnlMaW5lQ29tbWVudDxDUj4=</entry>
+        <entry encoding="base64">bm5vcmVtYXAgPHNpbGVudD4gW1ByZWZpeF1jIDo8Qy11PmFjdGlvbiBDb21tZW50QnlMaW5lQ29tbWVudDxDUj4=</entry>
+        <entry>action AceAction</entry>
+        <entry>vmap</entry>
+        <entry encoding="base64">dm5vcmVtYXAgPHNpbGVudD4gW1ByZWZpeF1jIDxDLS8+</entry>
+        <entry>actionlist</entry>
+        <entry>vnoremap</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>map</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -101,6 +105,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
