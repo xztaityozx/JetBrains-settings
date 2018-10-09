@@ -3,27 +3,88 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" timestamp="1539097673394">
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="32" column="11" />
-        <mark key="^" line="32" column="11" />
-        <mark key="." line="32" column="11" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" timestamp="1539099506493">
+        <mark key="'" line="34" column="35" />
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="17" column="1" />
+        <mark key="^" line="17" column="1" />
+        <mark key="." line="17" column="1" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="13" column="0" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" />
+      <jump line="29" column="28" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" />
+      <jump line="30" column="16" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" />
+      <jump line="33" column="23" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" />
+      <jump line="34" column="35" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" />
+    </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>a</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">TElBQklMSVRZLCBXSEVUSEVSIElOIEFOIEFDVElPTiBPRiBDT05UUkFDVCwgVE9SVCBPUiBPVEhFUldJU0UsIEFSSVNJTkcgRlJPTSwKLy8gT1VUIE9GIE9SIElOIENPTk5FQ1RJT04gV0lUSCBUSEUgU09GVFdBUkUgT1IgVEhFIFVTRSBPUiBPVEhFUiBERUFMSU5HUyBJTgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8KLy8gUGVybWlzc2lvbiBpcyBoZXJlYnkgZ3JhbnRlZCwgZnJlZSBvZiBjaGFyZ2UsIHRvIGFueSBwZXJzb24gb2J0YWluaW5nIGEgY29weQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW4gdGhlIFNvZnR3YXJlIHdpdGhvdXQgcmVzdHJpY3Rpb24sIGluY2x1ZGluZyB3aXRob3V0IGxpbWl0YXRpb24gdGhlIHJpZ2h0cwovLyB0byB1c2UsIGNvcHksIG1vZGlmeSwgbWVyZ2UsIHB1Ymxpc2gsIGRpc3RyaWJ1dGUsIHN1YmxpY2Vuc2UsIGFuZC9vciBzZWxsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">b2YgdGhpcyBzb2Z0d2FyZSBhbmQgYXNzb2NpYXRlZCBkb2N1bWVudGF0aW9uIGZpbGVzICh0aGUgIlNvZnR3YXJlIiksIHRvIGRlYWwKLy8gaW4gdGhlIFNvZnR3YXJlIHdpdGhvdXQgcmVzdHJpY3Rpb24sIGluY2x1ZGluZyB3aXRob3V0IGxpbWl0YXRpb24gdGhlIHJpZ2h0cwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CX0sCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">Ly92YXIgZXh0cmFjdENtZCA9ICZjb2JyYS5Db21tYW5kewovLwlVc2U6ICAgImV4dHJhY3QiLAovLwlTaG9ydDogIiIsCi8vCUxvbmc6IGBgLAovLwlSdW46IGZ1bmMoY21kICpjb2JyYS5Db21tYW5kLCBhcmdzIFtdc3RyaW5nKSB7</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">dmFyIGV4dHJhY3RDbWQgPSAmY29icmEuQ29tbWFuZHsKCVVzZTogICAiZXh0cmFjdCIsCglTaG9ydDogIiIsCglMb25nOiBgYCwKCVJ1bjogZnVuYyhjbWQgKmNvYnJhLkNvbW1hbmQsIGFyZ3MgW11zdHJpbmcpIHs=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">dmFyIGV4dHJhY3RDbWQgPSAmY29icmEuQ29tbWFuZHsKCVVzZTogICAiZXh0cmFjdCIsCglTaG9ydDogIiIsCglMb25nOiBgYCwKCVJ1bjogZnVuYyhjbWQgKmNvYnJhLkNvbW1hbmQsIGFyZ3MgW11zdHJpbmcpIHs=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">dmFyIGV4dHJhY3RDbWQgPSAmY29icmEuQ29tbWFuZHsK</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>a</last-search>
+      <last-offset />
+      <last-pattern>a</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search>
+        <entry>abc</entry>
+        <entry>call</entry>
+        <entry>a</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>action Find</entry>
+        <entry>action AceAction</entry>
+        <entry>action Comment With Line Comment</entry>
+        <entry>actionlist</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5QmxvY2tDb21tZW50</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
@@ -31,6 +92,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
