@@ -1,0 +1,10 @@
+<templateSet group="Go">
+  <template name="subtest" value="t.Run(&quot;$NAME$&quot;,func(t *testing.T){&#10;    $END$&#10;})" description="insert sub test" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="forrange" value="for $i$, $v$ := range $container$ {&#10;    $END$&#10;}" description="insert for  range" toReformat="false" toShortenFQNames="true">
+    <variable name="i" expression="" defaultValue="_" alwaysStopAt="true" />
+    <variable name="v" expression="" defaultValue="v" alwaysStopAt="true" />
+    <variable name="container" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
