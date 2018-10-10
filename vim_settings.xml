@@ -3,11 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" timestamp="1539102112118">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="28" column="0" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1539160760970">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" timestamp="1539159866372">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -19,40 +25,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly92YXIgZXh0cmFjdENtZCA9ICZjb2JyYS5Db21tYW5kewoJVXNlOiAgICJleHRyYWN0IiwK</text>
+        <text encoding="base64">bm5vcmVtYXAgLyA8Tm9wPgpubm9yZW1hcCA8c2lsZW50PiBqaiA8Qy1cPjxDLW4+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>a</text>
       </register>
+      <register name="0" type="2">
+        <text encoding="base64">CVJ1bjogZnVuYyhjbWQgKmNvYnJhLkNvbW1hbmQsIGFyZ3MgW11zdHJlaW5nKSB7Cg==</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly92YXIgZXh0cmFjdENtZCA9ICZjb2JyYS5Db21tYW5kewoJVXNlOiAgICJleHRyYWN0IiwK</text>
+        <text encoding="base64">bm5vcmVtYXAgLyA8Tm9wPgpubm9yZW1hcCA8c2lsZW50PiBqaiA8Qy1cPjxDLW4+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CVVzZTogICAiZXh0cmFjdCIsCg==</text>
+        <text encoding="base64">bm5vcmVtYXAgPHNpbGVudD4gXlwgPEVORD4Kbm5vcmVtYXAgPHNpbGVudD4gc2MgOmFjdGlvbiBDb21tZW50QnlMaW5lQ29tbWVudDxDUj48Qy1cPjxDLW4+PEMtXD48Qy1uPgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly92YXIgZXh0cmFjdENtZCA9ICZjb2JyYS5Db21tYW5kewoJVXNlOiAgICJleHRyYWN0IiwK</text>
+      <register name="3" type="8">
+        <text>[Prefix]
+[Prefix]
+[Prefix]
+[Prefix]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly92YXIgZXh0cmFjdENtZCA9ICZjb2JyYS5Db21tYW5kewoJVXNlOiAgICJleHRyYWN0IiwK</text>
+        <text encoding="base64">bWFwIHMgdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly92YXIgZXh0cmFjdENtZCA9ICZjb2JyYS5Db21tYW5kewoJVXNlOiAgICJleHRyYWN0IiwK</text>
+        <text encoding="base64">bWFwIHMgdApubm9yZW1hcCAvIDxOb3A+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQoK</text>
+        <text encoding="base64">CVJ1bjogZnVuYyhjbWQgKmNvYnJhLkNvbW1hbmQsIGFyZ3MgW11zdHJpbmcpIHsKCQlmbXQuUHJpbnRsbigiZXh0cmFjdCBjYWxsZWQiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly99Cgo=</text>
+        <text encoding="base64">CQkvL2ZtdC5QcmludGxuKCJleHRyYWN0IGNhbGxlZCIpCgl9LAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">dmFyIGV4dHJhY3RDbWQgPSAmY29icmEuQ29tbWFuZHsKCVVzZTogICAiZXh0cmFjdCIsCglTaG9ydDogIiIsCglMb25nOiBgYCwKCVJ1bjogZnVuYyhjbWQgKmNvYnJhLkNvbW1hbmQsIGFyZ3MgW11zdHJpbmcpIHsKCQlmbXQuUHJpbnRsbigiZXh0cmFjdCBjYWxsZWQiKQoJfSwKfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly92YXIgZXh0cmFjdENtZCA9ICZjb2JyYS5Db21tYW5kewoJVXNlOiAgICJleHRyYWN0IiwK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">dmFyIGV4dHJhY3RDbWQgPSAmY29icmEuQ29tbWFuZHsKCVVzZTogICAiZXh0cmFjdCIsCglTaG9ydDogIiIsCglMb25nOiBgYCwKCVJ1bjogZnVuYyhjbWQgKmNvYnJhLkNvbW1hbmQsIGFyZ3MgW11zdHJpbmcpIHsKCQlmbXQuUHJpbnRsbigiZXh0cmFjdCBjYWxsZWQiKQoJfSwKfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CVVzZTogICAiZXh0cmFjdCIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>map</text>
@@ -72,15 +84,6 @@
         <entry>a</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">bm9yZW1hcCBjbCA8Tk9QPg==</entry>
-        <entry encoding="base64">bm5vcmVtYXAgcyA8bGVhZGVyPg==</entry>
-        <entry>w</entry>
-        <entry>nmap s</entry>
-        <entry encoding="base64">bm1hcCBzIA==</entry>
-        <entry encoding="base64">bm5vcmVtYXAgcyA8TGVhZGVyPg==</entry>
-        <entry>nmap s [Prefix]</entry>
-        <entry>nmap</entry>
-        <entry>nnoremap s [Prefix]</entry>
         <entry encoding="base64">bm5vcmVtYXAgW1ByZWZpeF1jIDo8Qy11PmFjdGlvbiBDb21tZW50QnlMaW5lQ29tbWVudDxDUj4=</entry>
         <entry encoding="base64">bm5vcmVtYXAgPHNpbGVudD4gW1ByZWZpeF1jIDo8Qy11PmFjdGlvbiBDb21tZW50QnlMaW5lQ29tbWVudDxDUj4=</entry>
         <entry>action AceAction</entry>
@@ -88,9 +91,18 @@
         <entry encoding="base64">dm5vcmVtYXAgPHNpbGVudD4gW1ByZWZpeF1jIDxDLS8+</entry>
         <entry>actionlist</entry>
         <entry>vnoremap</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
-        <entry>source ~/.ideavimrc</entry>
+        <entry>noremap s [Prefix]</entry>
+        <entry>set cmdline=2</entry>
+        <entry>cmdheight=2</entry>
+        <entry>set cmdheight=2</entry>
+        <entry>action ShowIntentionActions</entry>
+        <entry>setfiletype vim</entry>
+        <entry>w</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>map s</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry>help s</entry>
+        <entry>source ~/.ideavimrc</entry>
         <entry>map</entry>
       </history-cmd>
       <history-expr />
@@ -108,6 +120,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
