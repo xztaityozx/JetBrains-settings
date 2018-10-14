@@ -21,6 +21,12 @@
         <mark key="^" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract.go" timestamp="1539498500270">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="76" column="22" />
+        <mark key="." line="76" column="22" />
+        <mark key="^" line="76" column="22" />
+      </file>
       <file name="C:/Go/src/cmd/go/internal/get/vcs.go" timestamp="1539165037583">
         <mark key="'" line="1092" column="28" />
       </file>
@@ -30,16 +36,23 @@
         <mark key="^" line="8" column="32" />
         <mark key="." line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/utils.go" timestamp="1539432166362">
-        <mark key="]" line="67" column="4" />
-        <mark key="^" line="67" column="4" />
-        <mark key="." line="67" column="4" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/utils.go" timestamp="1539497901891">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extaract_test.go" timestamp="1539484687320">
         <mark key="[" line="77" column="10" />
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
         <mark key="^" line="77" column="8" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract_test.go" timestamp="1539498682460">
+        <mark key="'" line="31" column="22" />
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="27" column="22" />
+        <mark key="." line="27" column="22" />
+        <mark key="^" line="27" column="22" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/summary_test.go" timestamp="1539437210608">
         <mark key="[" line="15" column="0" />
@@ -53,22 +66,15 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/config.go" timestamp="1539432824690">
-        <mark key="'" line="9" column="16" />
-        <mark key="[" line="73" column="56" />
-        <mark key="]" line="73" column="55" />
-        <mark key="^" line="73" column="55" />
-        <mark key="." line="73" column="55" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/summary.go" timestamp="1539436375119">
         <mark key="[" line="11" column="25" />
         <mark key="]" line="11" column="20" />
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" timestamp="1539484717360">
-        <mark key="[" line="57" column="5" />
-        <mark key="]" line="71" column="18" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" timestamp="1539496542040">
+        <mark key="[" line="163" column="4" />
+        <mark key="]" line="166" column="61" />
         <mark key="." line="71" column="18" />
         <mark key="^" line="71" column="18" />
       </file>
@@ -89,63 +95,64 @@
       <jump line="26" column="0" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extaract_test.go" />
       <jump line="28" column="0" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extaract_test.go" />
       <jump line="9" column="16" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/config.go" />
+      <jump line="31" column="22" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract_test.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkvL3Rhc2suUnVuKCkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YWN0dWFsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">YWN0dWFsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>A</text>
+        <text>dst</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlzdW0sIGVyciA6PSB0YXNrLlJ1bigpCg==</text>
+        <text encoding="base64">CQlhY3R1YWwgOj0gTmV3TXVsdGlUYXNrKFtdc3RyaW5neyJBIiwiQiJ9LDIuNSw3LjUsMTcuNSwiRHN0IiwxMCxmYWxzZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvL3Rhc2suUnVuKCkK</text>
+        <text encoding="base64">CW10IDo9IE5ld011bHRpVGFzayhbXXN0cmluZ3siQSJ9KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvL0Fzc2VydChzdW0uU3RhdHVzLCB0KQo=</text>
+        <text encoding="base64">CQlSZW1vdmVGaWxlKGRzdCkK</text>
       </register>
-      <register name="3" type="8">
-        <text>sum</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZnVuYyBMcyhwIHN0cmluZykgW11zdHJpbmcgewoJbGlzdCwgZXJyIDo9IGlvdXRpbC5SZWFkRGlyKHApCglpZiBlcnIgIT0gbmlsIHsKCQlGYXRhbChlcnIpCgl9CgkKCXZhciBydCBbXXN0cmluZwoJZm9yIF8sIHZhbHVlIDo9IHJhbmdlIGxpc3QgewoJCWlmIHZhbHVlLklzRGlyKCkgewoJCQljb250aW51ZQoJCX0KCQlydCA9IGFwcGVuZChydCwgUGF0aEpvaW4ocCx2YWx1ZS5OYW1lKCkpKQoJfQoJcmV0dXJuIHJ0Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvL0Fzc2VydChzdW0uU3RhdHVzLCB0KQoJfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlBc3NlcnQoZXJyICE9IG5pbCwgdCkK</text>
+        <text encoding="base64">ZnVuYyAodGhpcyBNdWx0aVRhc2spKCkgIHsKCQp9Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">c3VtLCBlcnIgOj0g</text>
+      <register name="6" type="2">
+        <text encoding="base64">CVRhc2tzIFtdVGFzawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvL3N1bSwgZXJyIDo9IHRhc2suUnVuKCkKCQkvL0Fzc2VydChlcnIgIT0gbmlsLCB0KQo=</text>
+        <text encoding="base64">CgkvLyBIZXJlIHlvdSB3aWxsIGRlZmluZSB5b3VyIGZsYWdzIGFuZCBjb25maWd1cmF0aW9uIHNldHRpbmdzLgoKCS8vIENvYnJhIHN1cHBvcnRzIFBlcnNpc3RlbnQgRmxhZ3Mgd2hpY2ggd2lsbCB3b3JrIGZvciB0aGlzIGNvbW1hbmQKCS8vIGFuZCBhbGwgc3ViY29tbWFuZHMsIGUuZy46CgkvLyBtdWx0aWV4dHJhY3RDbWQuUGVyc2lzdGVudEZsYWdzKCkuU3RyaW5nKCJmb28iLCAiIiwgIkEgaGVscCBmb3IgZm9vIikKCgkvLyBDb2JyYSBzdXBwb3J0cyBsb2NhbCBmbGFncyB3aGljaCB3aWxsIG9ubHkgcnVuIHdoZW4gdGhpcyBjb21tYW5kCgkvLyBpcyBjYWxsZWQgZGlyZWN0bHksIGUuZy46CgkvLyBtdWx0aWV4dHJhY3RDbWQuRmxhZ3MoKS5Cb29sUCgidG9nZ2xlIiwgInQiLCBmYWxzZSwgIkhlbHAgbWVzc2FnZSBmb3IgdG9nZ2xlIikK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkvL0Fzc2VydChlcnIgIT0gbmlsLCB0KQoJCS8vQXNzZXJ0KHN1bS5TdGF0dXMsIHQpCg==</text>
+      <register name="8" type="8">
+        <text>A longer description that spans multiple lines and likely contains examples</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0YXNrLndyaXRlQWNlKCkK</text>
+        <text encoding="base64">YW5kIHVzYWdlIG9mIHVzaW5nIHlvdXIgY29tbWFuZC4gRm9yIGV4YW1wbGU6CgpDb2JyYSBpcyBhIENMSSBsaWJyYXJ5IGZvciBHbyB0aGF0IGVtcG93ZXJzIGFwcGxpY2F0aW9ucy4KVGhpcyBhcHBsaWNhdGlvbiBpcyBhIHRvb2wgdG8gZ2VuZXJhdGUgdGhlIG5lZWRlZCBmaWxlcwp0byBxdWlja2x5IGNyZWF0ZSBhIENvYnJhIGFwcGxpY2F0aW9uLmAsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text encoding="base64">JzwsJz5zL2RzdC9zcmMvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>A</last-search>
+      <last-search>dst</last-search>
       <last-offset />
-      <last-pattern>A</last-pattern>
-      <last-replace>C</last-replace>
-      <last-substitute>A</last-substitute>
+      <last-pattern>dst</last-pattern>
+      <last-replace>src</last-replace>
+      <last-substitute>dst</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -155,9 +162,9 @@
         <entry>call</entry>
         <entry>a</entry>
         <entry>A</entry>
+        <entry>dst</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">dm1hcCBjIDxOT1A+</entry>
         <entry>set showmode</entry>
         <entry encoding="base64">YWN0aW9uIA==</entry>
         <entry>action ActivateTerminalWindow</entry>
@@ -177,6 +184,7 @@
         <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action CommentByLineComment</entry>
+        <entry encoding="base64">JzwsJz5zL2RzdC9zcmMvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -217,6 +225,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
