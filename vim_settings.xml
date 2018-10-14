@@ -21,10 +21,10 @@
         <mark key="^" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract.go" timestamp="1539500685590">
-        <mark key="[" line="72" column="62" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract.go" timestamp="1539504269717">
+        <mark key="[" line="103" column="48" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="C:/Go/src/cmd/go/internal/get/vcs.go" timestamp="1539165037583">
         <mark key="'" line="1092" column="28" />
@@ -98,7 +98,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJUHJpbnQodmFsdWUpCgkJCVByaW50KGV4cGVjdFtrZXldKQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YWN0dWFsIA==</text>
@@ -110,37 +110,37 @@
         <text encoding="base64">CQkJCURzdERpcjpQYXRoSm9pbihob21lLCJSZXN1bHQvU0VFRDAwMiIpLAoJCQkJU3JjRGlyOlBhdGhKb2luKHNyYywiU0VFRDAwMiIpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJUHJpbnQodmFsdWUpCgkJCVByaW50KGV4cGVjdFtrZXldKQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCURzdERpcjpzcmMgKyAiL1Jlc3VsdC9TRUVEMDAxIiwKCQkJCVNyY0RpcjpzcmMgKyAiL1NFRUQwMDEiLAo=</text>
+        <text encoding="base64">CQkJaWYgZXJyICE9IG5pbCB7CgkJCQkKCQkJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlydCA9IGFwcGVuZChydCwgTmV3VGFzaygpKQo=</text>
+        <text encoding="base64">CQkJcmV0dXJuIHZhbHVlLlJ1bigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZvciBrZXksIHZhbHVlIDo9IHJhbmdlIHRoaXMuU2lnbmFscyB7CgkJCgl9CQo=</text>
+        <text encoding="base64">CQlzdW0uU3RhdHVzID0gc3VtLlN0YXR1cyAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJewoJCQkJCgkJCX0K</text>
+        <text encoding="base64">CQkJUHJpbnQodmFsdWUpCgkJCVByaW50KGV4cGVjdFtrZXldKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CW10IDo9IE5ld011bHRpVGFzayhbXXN0cmluZ3siQSJ9KQo=</text>
+        <text encoding="base64">CQkJCURzdERpcjpzcmMgKyAiL1Jlc3VsdC9TRUVEMDAxIiwKCQkJCVNyY0RpcjpzcmMgKyAiL1NFRUQwMDEiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlSZW1vdmVGaWxlKGRzdCkK</text>
+        <text encoding="base64">CQlydCA9IGFwcGVuZChydCwgTmV3VGFzaygpKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuYyBMcyhwIHN0cmluZykgW11zdHJpbmcgewoJbGlzdCwgZXJyIDo9IGlvdXRpbC5SZWFkRGlyKHApCglpZiBlcnIgIT0gbmlsIHsKCQlGYXRhbChlcnIpCgl9CgkKCXZhciBydCBbXXN0cmluZwoJZm9yIF8sIHZhbHVlIDo9IHJhbmdlIGxpc3QgewoJCWlmIHZhbHVlLklzRGlyKCkgewoJCQljb250aW51ZQoJCX0KCQlydCA9IGFwcGVuZChydCwgUGF0aEpvaW4ocCx2YWx1ZS5OYW1lKCkpKQoJfQoJcmV0dXJuIHJ0Cn0K</text>
+        <text encoding="base64">CWZvciBrZXksIHZhbHVlIDo9IHJhbmdlIHRoaXMuU2lnbmFscyB7CgkJCgl9CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJewoJCQkJCgkJCX0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3NyYy9ob21lL2c=</text>
