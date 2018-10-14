@@ -21,11 +21,10 @@
         <mark key="^" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract.go" timestamp="1539498500270">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="76" column="22" />
-        <mark key="." line="76" column="22" />
-        <mark key="^" line="76" column="22" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract.go" timestamp="1539500685590">
+        <mark key="[" line="72" column="62" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="C:/Go/src/cmd/go/internal/get/vcs.go" timestamp="1539165037583">
         <mark key="'" line="1092" column="28" />
@@ -47,12 +46,11 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="77" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract_test.go" timestamp="1539498689400">
-        <mark key="'" line="31" column="22" />
-        <mark key="[" line="50" column="24" />
-        <mark key="]" line="27" column="22" />
-        <mark key="." line="27" column="22" />
-        <mark key="^" line="27" column="22" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract_test.go" timestamp="1539501567511">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="56" column="45" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/summary_test.go" timestamp="1539437210608">
         <mark key="[" line="15" column="0" />
@@ -96,63 +94,64 @@
       <jump line="28" column="0" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extaract_test.go" />
       <jump line="9" column="16" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/config.go" />
       <jump line="31" column="22" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract_test.go" />
+      <jump line="49" column="25" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract_test.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YWN0dWFsIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJUHJpbnQodmFsdWUpCgkJCVByaW50KGV4cGVjdFtrZXldKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YWN0dWFsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>dst</text>
+        <text>src</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlhY3R1YWwgOj0gTmV3TXVsdGlUYXNrKFtdc3RyaW5neyJBIiwiQiJ9LDIuNSw3LjUsMTcuNSwiRHN0IiwxMCxmYWxzZSkK</text>
+        <text encoding="base64">CQkJCURzdERpcjpQYXRoSm9pbihob21lLCJSZXN1bHQvU0VFRDAwMiIpLAoJCQkJU3JjRGlyOlBhdGhKb2luKHNyYywiU0VFRDAwMiIpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CW10IDo9IE5ld011bHRpVGFzayhbXXN0cmluZ3siQSJ9KQo=</text>
+        <text encoding="base64">CQkJUHJpbnQodmFsdWUpCgkJCVByaW50KGV4cGVjdFtrZXldKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlSZW1vdmVGaWxlKGRzdCkK</text>
+        <text encoding="base64">CQkJCURzdERpcjpzcmMgKyAiL1Jlc3VsdC9TRUVEMDAxIiwKCQkJCVNyY0RpcjpzcmMgKyAiL1NFRUQwMDEiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuYyBMcyhwIHN0cmluZykgW11zdHJpbmcgewoJbGlzdCwgZXJyIDo9IGlvdXRpbC5SZWFkRGlyKHApCglpZiBlcnIgIT0gbmlsIHsKCQlGYXRhbChlcnIpCgl9CgkKCXZhciBydCBbXXN0cmluZwoJZm9yIF8sIHZhbHVlIDo9IHJhbmdlIGxpc3QgewoJCWlmIHZhbHVlLklzRGlyKCkgewoJCQljb250aW51ZQoJCX0KCQlydCA9IGFwcGVuZChydCwgUGF0aEpvaW4ocCx2YWx1ZS5OYW1lKCkpKQoJfQoJcmV0dXJuIHJ0Cn0K</text>
+        <text encoding="base64">CQlydCA9IGFwcGVuZChydCwgTmV3VGFzaygpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZvciBrZXksIHZhbHVlIDo9IHJhbmdlIHRoaXMuU2lnbmFscyB7CgkJCgl9CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuYyAodGhpcyBNdWx0aVRhc2spKCkgIHsKCQp9Cg==</text>
+        <text encoding="base64">CQkJewoJCQkJCgkJCX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CVRhc2tzIFtdVGFzawo=</text>
+        <text encoding="base64">CW10IDo9IE5ld011bHRpVGFzayhbXXN0cmluZ3siQSJ9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgkvLyBIZXJlIHlvdSB3aWxsIGRlZmluZSB5b3VyIGZsYWdzIGFuZCBjb25maWd1cmF0aW9uIHNldHRpbmdzLgoKCS8vIENvYnJhIHN1cHBvcnRzIFBlcnNpc3RlbnQgRmxhZ3Mgd2hpY2ggd2lsbCB3b3JrIGZvciB0aGlzIGNvbW1hbmQKCS8vIGFuZCBhbGwgc3ViY29tbWFuZHMsIGUuZy46CgkvLyBtdWx0aWV4dHJhY3RDbWQuUGVyc2lzdGVudEZsYWdzKCkuU3RyaW5nKCJmb28iLCAiIiwgIkEgaGVscCBmb3IgZm9vIikKCgkvLyBDb2JyYSBzdXBwb3J0cyBsb2NhbCBmbGFncyB3aGljaCB3aWxsIG9ubHkgcnVuIHdoZW4gdGhpcyBjb21tYW5kCgkvLyBpcyBjYWxsZWQgZGlyZWN0bHksIGUuZy46CgkvLyBtdWx0aWV4dHJhY3RDbWQuRmxhZ3MoKS5Cb29sUCgidG9nZ2xlIiwgInQiLCBmYWxzZSwgIkhlbHAgbWVzc2FnZSBmb3IgdG9nZ2xlIikK</text>
+        <text encoding="base64">CQlSZW1vdmVGaWxlKGRzdCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="8">
-        <text>A longer description that spans multiple lines and likely contains examples</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZnVuYyBMcyhwIHN0cmluZykgW11zdHJpbmcgewoJbGlzdCwgZXJyIDo9IGlvdXRpbC5SZWFkRGlyKHApCglpZiBlcnIgIT0gbmlsIHsKCQlGYXRhbChlcnIpCgl9CgkKCXZhciBydCBbXXN0cmluZwoJZm9yIF8sIHZhbHVlIDo9IHJhbmdlIGxpc3QgewoJCWlmIHZhbHVlLklzRGlyKCkgewoJCQljb250aW51ZQoJCX0KCQlydCA9IGFwcGVuZChydCwgUGF0aEpvaW4ocCx2YWx1ZS5OYW1lKCkpKQoJfQoJcmV0dXJuIHJ0Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YW5kIHVzYWdlIG9mIHVzaW5nIHlvdXIgY29tbWFuZC4gRm9yIGV4YW1wbGU6CgpDb2JyYSBpcyBhIENMSSBsaWJyYXJ5IGZvciBHbyB0aGF0IGVtcG93ZXJzIGFwcGxpY2F0aW9ucy4KVGhpcyBhcHBsaWNhdGlvbiBpcyBhIHRvb2wgdG8gZ2VuZXJhdGUgdGhlIG5lZWRlZCBmaWxlcwp0byBxdWlja2x5IGNyZWF0ZSBhIENvYnJhIGFwcGxpY2F0aW9uLmAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2RzdC9zcmMvZw==</text>
+        <text encoding="base64">JzwsJz5zL3NyYy9ob21lL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>dst</last-search>
+      <last-search>src</last-search>
       <last-offset />
-      <last-pattern>dst</last-pattern>
-      <last-replace>src</last-replace>
-      <last-substitute>dst</last-substitute>
+      <last-pattern>src</last-pattern>
+      <last-replace>home</last-replace>
+      <last-substitute>src</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -163,9 +162,9 @@
         <entry>a</entry>
         <entry>A</entry>
         <entry>dst</entry>
+        <entry>src</entry>
       </history-search>
       <history-cmd>
-        <entry>set showmode</entry>
         <entry encoding="base64">YWN0aW9uIA==</entry>
         <entry>action ActivateTerminalWindow</entry>
         <entry>action ActivateTerminalToolWindow</entry>
@@ -185,6 +184,7 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action CommentByLineComment</entry>
         <entry encoding="base64">JzwsJz5zL2RzdC9zcmMvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3NyYy9ob21lL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
