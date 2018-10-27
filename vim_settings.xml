@@ -15,7 +15,7 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/root.go" timestamp="1539165189406">
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/root.go" timestamp="1540612089410">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="97" column="0" />
         <mark key="^" line="97" column="0" />
@@ -36,9 +36,14 @@
         <mark key="^" line="8" column="32" />
         <mark key="." line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/utils.go" timestamp="1539497901891" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/utils.go" timestamp="1540613147910">
+        <mark key="[" line="85" column="1" />
+        <mark key="]" line="30" column="14" />
+        <mark key="^" line="30" column="14" />
+        <mark key="." line="30" column="14" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extaract_test.go" timestamp="1539752031096">
-        <mark key="[" line="41" column="24" />
+        <mark key="[" line="22" column="24" />
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
         <mark key="^" line="77" column="8" />
@@ -60,6 +65,12 @@
         <mark key="]" line="11" column="20" />
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/join.go" timestamp="1540613963239">
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" timestamp="1539496542040">
         <mark key="[" line="163" column="4" />
@@ -89,7 +100,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlmaWxlLCBlcnIgOj0gaW91dGlsLlJlYWRGaWxlKHZhbHVlKQoJCWlmIGVyciAhPSBuaWwgewoJCQlGYXRhbChlcnIpCgkJfQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YWN0dWFsIA==</text>
@@ -101,40 +112,40 @@
         <text encoding="base64">CQkJCURzdERpcjpQYXRoSm9pbihob21lLCJSZXN1bHQvU0VFRDAwMiIpLAoJCQkJU3JjRGlyOlBhdGhKb2luKHNyYywiU0VFRDAwMiIpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlmaWxlLCBlcnIgOj0gaW91dGlsLlJlYWRGaWxlKHZhbHVlKQoJCWlmIGVyciAhPSBuaWwgewoJCQlGYXRhbChlcnIpCgkJfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJaWYgZXJyICE9IG5pbCB7CgkJCQkKCQkJfQo=</text>
+        <text encoding="base64">CQlpZiBsZW4oYXJncykgPT0gMHsKCQkJRmF0YWwoIiIpCgkJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIHZhbHVlLlJ1bigpCg==</text>
+        <text encoding="base64">YW5kIHVzYWdlIG9mIHVzaW5nIHlvdXIgY29tbWFuZC4gRm9yIGV4YW1wbGU6CgpDb2JyYSBpcyBhIENMSSBsaWJyYXJ5IGZvciBHbyB0aGF0IGVtcG93ZXJzIGFwcGxpY2F0aW9ucy4KVGhpcyBhcHBsaWNhdGlvbiBpcyBhIHRvb2wgdG8gZ2VuZXJhdGUgdGhlIG5lZWRlZCBmaWxlcwp0byBxdWlja2x5IGNyZWF0ZSBhIENvYnJhIGFwcGxpY2F0aW9uLmAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlzdW0uU3RhdHVzID0gc3VtLlN0YXR1cyAK</text>
+        <text encoding="base64">CgkvLyBIZXJlIHlvdSB3aWxsIGRlZmluZSB5b3VyIGZsYWdzIGFuZCBjb25maWd1cmF0aW9uIHNldHRpbmdzLgoKCS8vIENvYnJhIHN1cHBvcnRzIFBlcnNpc3RlbnQgRmxhZ3Mgd2hpY2ggd2lsbCB3b3JrIGZvciB0aGlzIGNvbW1hbmQKCS8vIGFuZCBhbGwgc3ViY29tbWFuZHMsIGUuZy46CgkvLyBqb2luQ21kLlBlcnNpc3RlbnRGbGFncygpLlN0cmluZygiZm9vIiwgIiIsICJBIGhlbHAgZm9yIGZvbyIpCgoJLy8gQ29icmEgc3VwcG9ydHMgbG9jYWwgZmxhZ3Mgd2hpY2ggd2lsbCBvbmx5IHJ1biB3aGVuIHRoaXMgY29tbWFuZAoJLy8gaXMgY2FsbGVkIGRpcmVjdGx5LCBlLmcuOgoJLy8gam9pbkNtZC5GbGFncygpLkJvb2xQKCJ0b2dnbGUiLCAidCIsIGZhbHNlLCAiSGVscCBtZXNzYWdlIGZvciB0b2dnbGUiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJUHJpbnQodmFsdWUpCgkJCVByaW50KGV4cGVjdFtrZXldKQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCURzdERpcjpzcmMgKyAiL1Jlc3VsdC9TRUVEMDAxIiwKCQkJCVNyY0RpcjpzcmMgKyAiL1NFRUQwMDEiLAo=</text>
+        <text encoding="base64">CQkJaWYgZXJyICE9IG5pbCB7CgkJCQkKCQkJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlydCA9IGFwcGVuZChydCwgTmV3VGFzaygpKQo=</text>
+        <text encoding="base64">CQkJcmV0dXJuIHZhbHVlLlJ1bigpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZvciBrZXksIHZhbHVlIDo9IHJhbmdlIHRoaXMuU2lnbmFscyB7CgkJCgl9CQo=</text>
+        <text encoding="base64">CQlzdW0uU3RhdHVzID0gc3VtLlN0YXR1cyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJewoJCQkJCgkJCX0K</text>
+        <text encoding="base64">CQkJUHJpbnQodmFsdWUpCgkJCVByaW50KGV4cGVjdFtrZXldKQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3NyYy9ob21lL2c=</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
@@ -171,11 +182,11 @@
         <entry>action Back</entry>
         <entry>actionlist</entry>
         <entry>w</entry>
-        <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action CommentByLineComment</entry>
         <entry encoding="base64">JzwsJz5zL2RzdC9zcmMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3NyYy9ob21lL2c=</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
