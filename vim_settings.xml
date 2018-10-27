@@ -9,7 +9,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539752070621">
+      <file name="/Dummy.txt" timestamp="1540628144603">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -59,10 +59,11 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/join_test.go" timestamp="1540627381691">
-        <mark key="[" line="45" column="4" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/join_test.go" timestamp="1540628616136">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="23" column="62" />
+        <mark key="." line="23" column="62" />
+        <mark key="^" line="23" column="62" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/summary.go" timestamp="1539436375119">
         <mark key="[" line="11" column="25" />
@@ -150,7 +151,7 @@
         <text encoding="base64">CQlXcml0ZUFwcGVuZChmaWxlc1swXSwpCgkJV3JpdGVBcHBlbmQoZmlsZXNbMF0sKQoJCVdyaXRlQXBwZW5kKGZpbGVzWzBdLCkK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -184,7 +185,6 @@
         <entry>action TestTreePopupMenu</entry>
         <entry encoding="base64">JzwsJz5zL0EvQi9n</entry>
         <entry encoding="base64">JzwsJz5zL0EvQy9n</entry>
-        <entry>action Back</entry>
         <entry>actionlist</entry>
         <entry>w</entry>
         <entry>action CommentByLineComment</entry>
@@ -192,6 +192,7 @@
         <entry encoding="base64">JzwsJz5zL3NyYy9ob21lL2c=</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
