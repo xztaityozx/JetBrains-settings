@@ -9,7 +9,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540909771835">
+      <file name="/Dummy.txt" timestamp="1540913414907">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -21,12 +21,10 @@
         <mark key="^" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract.go" timestamp="1540904780323">
-        <mark key="'" line="115" column="28" />
-        <mark key="[" line="46" column="22" />
-        <mark key="]" line="115" column="28" />
-        <mark key="." line="115" column="28" />
-        <mark key="^" line="115" column="28" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract.go" timestamp="1540913381647">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="C:/Go/src/cmd/go/internal/get/vcs.go" timestamp="1539165037583">
         <mark key="'" line="1092" column="28" />
@@ -46,6 +44,11 @@
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/utils.go" timestamp="1540826901031">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="90" column="1" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/.gitignore" timestamp="1540913592540">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extaract_test.go" timestamp="1540907776970">
         <mark key="'" line="62" column="27" />
@@ -124,10 +127,12 @@
       <jump line="49" column="14" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" />
       <jump line="115" column="28" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract.go" />
       <jump line="62" column="27" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extaract_test.go" />
+      <jump line="15" column="0" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlSZW1vdmVGaWxlKFBhdGhKb2luKHNyYywiQS5jc3YiKSkK</text>
+        <text encoding="base64">IyBCaW5hcmllcyBmb3IgcHJvZ3JhbXMgYW5kIHBsdWdpbnMKKi5leGUKKi5leGV+CiouZGxsCiouc28KKi5keWxpYgoKIyBUZXN0IGJpbmFyeSwgYnVpbGQgd2l0aCBgZ28gdGVzdCAtY2AKKi50ZXN0CgojIE91dHB1dCBvZiB0aGUgZ28gY292ZXJhZ2UgdG9vbCwgc3BlY2lmaWNhbGx5IHdoZW4gdXNlZCB3aXRoIExpdGVJREUKKi5vdXQKCi8KCi5pZGVhL3dvcmtzcGFjZS54bWwK</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -139,37 +144,37 @@
         <text encoding="base64">CQlSZW1vdmVGaWxlKFBhdGhKb2luKHNyYywiQS5jc3YiKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigiY291bnQgY2FsbGVkIikK</text>
+        <text encoding="base64">IyBCaW5hcmllcyBmb3IgcHJvZ3JhbXMgYW5kIHBsdWdpbnMKKi5leGUKKi5leGV+CiouZGxsCiouc28KKi5keWxpYgoKIyBUZXN0IGJpbmFyeSwgYnVpbGQgd2l0aCBgZ28gdGVzdCAtY2AKKi50ZXN0CgojIE91dHB1dCBvZiB0aGUgZ28gY292ZXJhZ2UgdG9vbCwgc3BlY2lmaWNhbGx5IHdoZW4gdXNlZCB3aXRoIExpdGVJREUKKi5vdXQKCi8KCi5pZGVhL3dvcmtzcGFjZS54bWwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlmb3IgXywgdiA6PSByYW5nZSByZXMgewoJCQkKCQl9Cg==</text>
+        <text encoding="base64">ZnVuYyAobXQgTXVsdGlUYXNrKSBSZW1vdmUoKSB7CglpZiAhbXQuR0MgewoJCXJldHVybgoJfQoJCgkKCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQltdCA6PSBOZXdNdWx0aVRhc2soamRkKQo=</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbigiY291bnQgY2FsbGVkIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlmb3IgXywgdiA6PSByYW5nZSByZXMgewoJCQkKCQl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWlmIHN1bS5TdGF0dXMgJiYgdGFzay5HQyB7CgkJCgl9Cg==</text>
+        <text encoding="base64">CQltdCA6PSBOZXdNdWx0aVRhc2soamRkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXZhciByZXN1bHQgW11pbnQ2NAoJbGltIDo9IG1ha2UoY2hhbiBpbnQ2NCwgY3QuUGFyYWxsZWwpCglmb3IgXywgdiA6PSByYW5nZSBkaXJzIHsKCQlzcmMgOj0gUGF0aEpvaW4odixjdC5UYXJnZXQpCgkJaWYgIUlzRXhpc3RzRmlsZShzcmMpIHsKCQkJUHJpbnQoImF3eCBjb3VudDogIixzcmMsIm5vdCBmb3VuZCIpCgkJfQoJfQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCX17S2V5OiAsIFZhbHVlOiB9Cg==</text>
+        <text encoding="base64">CWlmIHN1bS5TdGF0dXMgJiYgdGFzay5HQyB7CgkJCgl9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXJlY2VpdmVyIDo9bWFrZShjaGFuIGludDY0KQoKCWZvciBrZXksIHZhbHVlIDo9IHJhbmdlIGNvbGxlY3Rpb24gewoJCQoJfQoJCgkKCXJldHVybiByZWNlaXZlcgo=</text>
+        <text encoding="base64">CXZhciByZXN1bHQgW11pbnQ2NAoJbGltIDo9IG1ha2UoY2hhbiBpbnQ2NCwgY3QuUGFyYWxsZWwpCglmb3IgXywgdiA6PSByYW5nZSBkaXJzIHsKCQlzcmMgOj0gUGF0aEpvaW4odixjdC5UYXJnZXQpCgkJaWYgIUlzRXhpc3RzRmlsZShzcmMpIHsKCQkJUHJpbnQoImF3eCBjb3VudDogIixzcmMsIm5vdCBmb3VuZCIpCgkJfQoJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCX17S2V5OiAsIFZhbHVlOiB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
