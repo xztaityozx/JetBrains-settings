@@ -37,11 +37,11 @@
         <mark key="^" line="8" column="32" />
         <mark key="." line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/count.go" timestamp="1540864250449">
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/count.go" timestamp="1540865116290">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="129" column="16" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
+        <mark key="[" line="111" column="5" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/utils.go" timestamp="1540826901031">
         <mark key="'" line="11" column="0" />
@@ -125,7 +125,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJbGltIDwtIHN0cnVjdHt9e30K</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
         <text>strconv.ParseInt(string(out),10,64))</text>
@@ -137,37 +137,37 @@
         <text encoding="base64">IiQxPj0xICYmICQyPj0yIg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJbGltIDwtIHN0cnVjdHt9e30K</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXJlc3BvbnNlIDo9IG1ha2UoY2hhbiBpbnQ2NCwgbGVuKGRpcnMpKQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJcmVzcG9uc2U8LXJlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuYyAoY3QgQ291bnRUYXNrKSBHZXREaXJlY3RvcmllcygpIFtdb3MuRmlsZUluZm97CgkKfQo=</text>
+        <text encoding="base64">CXZhciB3ZyBzeW5jLldhaXRHcm91cAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUlnbm9yZVNpZ21hICAgICAgICBib29sCg==</text>
+        <text encoding="base64">CQl3Zy5BZGQoMSkJCgkJCgkJZ28gZnVuYyhwIHN0cmluZykgewoJCQlkZWZlciB3Zy5Eb25lKCkKCQkJCgkJCQoJCQljb21tYW5kIDo9IGV4ZWMuQ29tbWFuZCgiYXd4IixwLGN0LkdldFJ1bGVTY3JpcHQoKSkKCQkJb3V0LCBlcnIgOj0gY29tbWFuZC5PdXRwdXQoKQoJCQlpZiBlcnIgIT0gbmlsIHsKCQkJCUZhdGFsKGVycikKCQkJfQoJCQlyZXMsIGVyciA6PSBzdHJjb252LlBhcnNlSW50KHN0cmluZyhvdXQpLDEwLDY0KQoJCQlpZiBlcnIgIT0gbmlsIHsKCQkJCUZhdGFsKGVycikKCQkJfQoJCQkKCQkJbGltPC1yZXMKCQl9KHNyYykKCQkKCQl3Zy5XYWl0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJSWdub3JlU2lnbWE6ICAgICAgICBmYWxzZSwK</text>
+        <text encoding="base64">CQkJbGltIDwtIHN0cnVjdHt9e30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJSWdub3JlU2lnbWE6ICAgICAgICB0cnVlLAo=</text>
+        <text encoding="base64">CXJlc3BvbnNlIDo9IG1ha2UoY2hhbiBpbnQ2NCwgbGVuKGRpcnMpKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlJZ25vcmVTaWdtYSA9IHRydWUK</text>
+        <text encoding="base64">CQkJcmVzcG9uc2U8LXJlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlJZ25vcmVTaWdtYSA9IGZhbHNlCg==</text>
+        <text encoding="base64">ZnVuYyAoY3QgQ291bnRUYXNrKSBHZXREaXJlY3RvcmllcygpIFtdb3MuRmlsZUluZm97CgkKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/this/mt/g</text>
