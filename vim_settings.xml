@@ -21,12 +21,12 @@
         <mark key="^" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract.go" timestamp="1540904306385">
-        <mark key="'" line="112" column="28" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract.go" timestamp="1540904780323">
+        <mark key="'" line="115" column="28" />
         <mark key="[" line="46" column="22" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="48" column="8" />
+        <mark key="]" line="115" column="28" />
+        <mark key="." line="115" column="28" />
+        <mark key="^" line="115" column="28" />
       </file>
       <file name="C:/Go/src/cmd/go/internal/get/vcs.go" timestamp="1539165037583">
         <mark key="'" line="1092" column="28" />
@@ -118,6 +118,7 @@
       <jump line="11" column="0" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/utils.go" />
       <jump line="106" column="28" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract.go" />
       <jump line="49" column="14" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" />
+      <jump line="115" column="28" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
