@@ -9,7 +9,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540907687307">
+      <file name="/Dummy.txt" timestamp="1540909771835">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -49,9 +49,9 @@
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extaract_test.go" timestamp="1540907776970">
         <mark key="'" line="62" column="27" />
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="21" column="34" />
-        <mark key="." line="21" column="34" />
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="19" column="34" />
+        <mark key="." line="19" column="34" />
         <mark key="^" line="19" column="37" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/summary_test.go" timestamp="1539437210608">
