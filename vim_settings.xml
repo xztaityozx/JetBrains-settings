@@ -21,10 +21,11 @@
         <mark key="^" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract.go" timestamp="1541075515135">
-        <mark key="[" line="111" column="5" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract.go" timestamp="1541643220959">
+        <mark key="[" line="91" column="12" />
+        <mark key="]" line="91" column="12" />
+        <mark key="." line="91" column="12" />
+        <mark key="^" line="91" column="12" />
       </file>
       <file name="C:/Go/src/cmd/go/internal/get/vcs.go" timestamp="1539165037583">
         <mark key="'" line="1092" column="28" />
