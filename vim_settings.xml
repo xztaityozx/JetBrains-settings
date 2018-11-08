@@ -6,12 +6,6 @@
       <file name="/Dummy.txt" timestamp="1539177713551">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/awx/cmd/config.go" timestamp="1541656776041">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" timestamp="1539177556597">
         <mark key="[" line="45" column="31" />
         <mark key="]" line="49" column="0" />
@@ -91,7 +85,7 @@
         <text encoding="base64">CWZvciBpLCB2Oj1yYW5nZSB0LkFjZVBhdGh7CgkJaWYgdiAhPSBzLkFjZVBhdGhbaV0gewoJCQlyZXR1cm4gZmFsc2UKCQl9Cgl9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>set</text>
       </register>
     </registers>
     <search>
@@ -111,9 +105,6 @@
         <entry>A</entry>
       </history-search>
       <history-cmd>
-        <entry>action Test</entry>
-        <entry>action TestTreePopupMenu</entry>
-        <entry encoding="base64">JzwsJz5zL0EvQi9n</entry>
         <entry encoding="base64">JzwsJz5zL0EvQy9n</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action Back</entry>
@@ -131,6 +122,9 @@
         <entry>actionlist</entry>
         <entry>action ReformatCode</entry>
         <entry>mode</entry>
+        <entry>showmode</entry>
+        <entry>set showmode</entry>
+        <entry>set</entry>
       </history-cmd>
       <history-expr />
       <history-input />
