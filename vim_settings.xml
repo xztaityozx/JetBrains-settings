@@ -18,6 +18,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/awx/cmd/multiextract.go" timestamp="1541659374616">
+        <mark key="[" line="91" column="6" />
+        <mark key="]" line="91" column="10" />
+        <mark key="." line="91" column="10" />
+        <mark key="^" line="91" column="10" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/root.go" timestamp="1539165189406">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="97" column="0" />
@@ -40,7 +46,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlGYXRhbCgiYXd4IHRhc2sgZXJyb3I6IFNpZ25hbHMgbGVuZ3RoIGlzIDAiKQo=</text>
+        <text encoding="base64">Ly8gVE9ETzog44GT44GT44Gu6Z2e5ZCM5pyf5Yem55CG44GM44Kv44K944Gj44G944GE44Gu44Gn5pu444GN55u044Gd44GG44GtCg==</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -52,37 +58,37 @@
         <text>_%.2f</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlGYXRhbCgiYXd4IHRhc2sgZXJyb3I6IFNpZ25hbHMgbGVuZ3RoIGlzIDAiKQo=</text>
+        <text encoding="base64">Ly8gVE9ETzog44GT44GT44Gu6Z2e5ZCM5pyf5Yem55CG44GM44Kv44K944Gj44G944GE44Gu44Gn5pu444GN55u044Gd44GG44GtCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9zZXQgd3d3IFsgc3hfZmluZF93YXZlX2luX2ZpbGUgJHhtbCAlcyBdCi8vc3hfZXhwb3J0X2RhdGEgICJzdG9yZS5jc3YiICR3d3dgCg==</text>
+        <text encoding="base64">CQlGYXRhbCgiYXd4IHRhc2sgZXJyb3I6IFNpZ25hbHMgbGVuZ3RoIGlzIDAiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXBhdGggOj0gUGF0aEpvaW4odGFzay5TcmNEaXIsZm10LlNwcmludGYoIiIpKQo=</text>
+        <text encoding="base64">Ly9zZXQgd3d3IFsgc3hfZmluZF93YXZlX2luX2ZpbGUgJHhtbCAlcyBdCi8vc3hfZXhwb3J0X2RhdGEgICJzdG9yZS5jc3YiICR3d3dgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWFjZSA6PSBta0V4dHJhY3RBY2UoKnRhc2spCglwYXRoIDo9IFBhdGhKb2luKCkK</text>
+        <text encoding="base64">CXBhdGggOj0gUGF0aEpvaW4odGFzay5TcmNEaXIsZm10LlNwcmludGYoIiIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ci8vIG1ha2UgQUNFIHNjcmlwdCBmb3Igd2F2ZSB2aWV3ZXIK</text>
+        <text encoding="base64">CWFjZSA6PSBta0V4dHJhY3RBY2UoKnRhc2spCglwYXRoIDo9IFBhdGhKb2luKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl2YXIgdGFzayBUYXNrID0gTmV3VGFzayhkc3Qsc3JjLHIsc2lnbmFscykKCX0pCg==</text>
+        <text encoding="base64">Ci8vIG1ha2UgQUNFIHNjcmlwdCBmb3Igd2F2ZSB2aWV3ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXZhciBhcHAgW11zdHJpbmcKCWZvciBfLCB2IDo9IHJhbmdlIHRhc2suU2lnbmFscyB7CgkJYWNlIDo9IG1rRXh0cmFjdEFjZSh2LCB0YXNrLlJhbmdlKQoJCXAgOj0gUGF0aEpvaW4odGFzay5TcmNEaXIsIGZtdC5TcHJpbnRmKCIlc18lLjJmXyUuMmZfJS4yZi5hY2UiLCB2LCB0YXNrLlJhbmdlLlN0YXJ0LCB0YXNrLlJhbmdlLlN0ZXAsIHRhc2suUmFuZ2UuU3RvcCkpCgkJYXBwID0gYXBwZW5kKGFwcCwgcCkKCQlXcml0ZShwLCBhY2UpCgl9Cgl0YXNrLkFjZVBhdGggPSBhcHAK</text>
+        <text encoding="base64">CQl2YXIgdGFzayBUYXNrID0gTmV3VGFzayhkc3Qsc3JjLHIsc2lnbmFscykKCX0pCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXZhciBhcHAgW11zdHJpbmcKCWZvciBfLCB2IDo9IHJhbmdlIHRhc2suU2lnbmFscyB7CgkJYWNlIDo9IG1rRXh0cmFjdEFjZSh2LCB0YXNrLlJhbmdlKQoJCXAgOj0gUGF0aEpvaW4odGFzay5TcmNEaXIsIGZtdC5TcHJpbnRmKCIlc18lLjJmXyUuMmZfJS4yZi5hY2UiLCB2LCB0YXNrLlJhbmdlLlN0YXJ0LCB0YXNrLlJhbmdlLlN0ZXAsIHRhc2suUmFuZ2UuU3RvcCkpCgkJYXBwID0gYXBwZW5kKGFwcCwgcCkKCQlXcml0ZShwLCBhY2UpCgl9Cgl0YXNrLkFjZVBhdGggPSBhcHAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZvciBpLCB2Oj1yYW5nZSB0LkFjZVBhdGh7CgkJaWYgdiAhPSBzLkFjZVBhdGhbaV0gewoJCQlyZXR1cm4gZmFsc2UKCQl9Cgl9Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>set</text>
@@ -108,7 +114,6 @@
         <entry encoding="base64">JzwsJz5zL0EvQy9n</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action Back</entry>
-        <entry>action AceAction</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>wq</entry>
         <entry>action RefromatCode</entry>
@@ -125,6 +130,7 @@
         <entry>showmode</entry>
         <entry>set showmode</entry>
         <entry>set</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
