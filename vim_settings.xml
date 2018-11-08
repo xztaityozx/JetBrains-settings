@@ -3,16 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1539177713551">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/awx/cmd/config.go" timestamp="1541656776041">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" timestamp="1539177556597">
+        <mark key="[" line="45" column="31" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1539160760970">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539177713551">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/utils.go" timestamp="1539173849652" />
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/root.go" timestamp="1539165189406">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="97" column="0" />
@@ -21,13 +32,6 @@
       </file>
       <file name="C:/Go/src/cmd/go/internal/get/vcs.go" timestamp="1539165037583">
         <mark key="'" line="1092" column="28" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/config_test.go" timestamp="1539176628758" />
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" timestamp="1539177556597">
-        <mark key="[" line="45" column="31" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="49" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -87,7 +91,7 @@
         <text encoding="base64">CWZvciBpLCB2Oj1yYW5nZSB0LkFjZVBhdGh7CgkJaWYgdiAhPSBzLkFjZVBhdGhbaV0gewoJCQlyZXR1cm4gZmFsc2UKCQl9Cgl9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -107,26 +111,26 @@
         <entry>A</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">dm1hcCBjIDxOT1A+</entry>
-        <entry>set showmode</entry>
-        <entry encoding="base64">YWN0aW9uIA==</entry>
-        <entry>action ActivateTerminalWindow</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
-        <entry>action CommentByLineComment</entry>
-        <entry>map</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>w</entry>
-        <entry>new</entry>
-        <entry>action ReFormatCode</entry>
-        <entry>action ReformatCode</entry>
         <entry>action Test</entry>
-        <entry>actionlist</entry>
         <entry>action TestTreePopupMenu</entry>
         <entry encoding="base64">JzwsJz5zL0EvQi9n</entry>
         <entry encoding="base64">JzwsJz5zL0EvQy9n</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action Back</entry>
         <entry>action AceAction</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>wq</entry>
+        <entry>action RefromatCode</entry>
+        <entry>action ReFormatCode</entry>
+        <entry>action list</entry>
+        <entry>action</entry>
+        <entry encoding="base64">YWN0aW9uIA==</entry>
+        <entry>actions</entry>
+        <entry>list</entry>
+        <entry>command</entry>
+        <entry>actionlist</entry>
+        <entry>action ReformatCode</entry>
+        <entry>mode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
