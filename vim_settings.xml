@@ -21,7 +21,11 @@
         <mark key="^" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract.go" timestamp="1541943873616" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract.go" timestamp="1541946336986">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="60" />
+        <mark key="." line="128" column="0" />
+      </file>
       <file name="C:/Go/src/cmd/go/internal/get/vcs.go" timestamp="1539165037583">
         <mark key="'" line="1092" column="28" />
       </file>
@@ -121,7 +125,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQlzcGluLlN1ZmZpeD0gZm10LlNwcmludGYoIlRhc2sgJWQvJWQiLGksIGxlbih0YXNrcykpCg==</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -133,37 +137,37 @@
         <text encoding="base64">CQlSZW1vdmVGaWxlKFBhdGhKb2luKHNyYywiQS5jc3YiKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQlzcGluLlN1ZmZpeD0gZm10LlNwcmludGYoIlRhc2sgJWQvJWQiLGksIGxlbih0YXNrcykpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZvciBpIDo9IDA7IGk8dGhpcy47ICB7Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWxpbSA6PSBtYWtlKGNoYW4gc3RydWN0e30sIHRoaXMuUGFyYWxsZWwpCgl2YXIgd2cgc3luYy5XYWl0R3JvdXAKCglmb3IgXywgdmFsdWUgOj0gcmFuZ2UgdGhpcy5HZW5lcmF0ZVRhc2tTbGljZSgpIHsKCQl3Zy5BZGQoMSkKCQlsaW0gPC0gc3RydWN0e317fQoKCQlnbyBmdW5jKHYgVGFzaywgc3VtIFN1bW1hcnkpIHsKCQkJZGVmZXIgd2cuRG9uZSgpCgoJCQlyZXMsIGVyciA6PSB2LlJ1bigpCgkJCWlmIGVyciAhPSBuaWwgewoJCQkJRmF0YWwoZXJyKQoJCQl9CgkJCXN1bS5TdGF0dXMgPSBzdW0uU3RhdHVzIHx8IHJlcy5TdGF0dXMKCQkJc3VtLkZpbGVzID0gYXBwZW5kKHN1bS5GaWxlcywgcmVzLkZpbGVzLi4uKQoJCX0odmFsdWUsIHN1bSkKCgkJPC1saW0KCX0KCXdnLldhaXQoKQo=</text>
+        <text encoding="base64">CWZvciBpIDo9IDA7IGk8dGhpcy47ICB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWxpbSA6PSBtYWtlKGNoYW4gc3RydWN0e30sIHRoaXMuUGFyYWxsZWwpCgl2YXIgd2cgc3luYy5XYWl0R3JvdXAKCglmb3IgXywgdmFsdWUgOj0gcmFuZ2UgdGhpcy5HZW5lcmF0ZVRhc2tTbGljZSgpIHsKCQl3Zy5BZGQoMSkKCQlsaW0gPC0gc3RydWN0e317fQoKCQlnbyBmdW5jKHYgVGFzaywgc3VtIFN1bW1hcnkpIHsKCQkJZGVmZXIgd2cuRG9uZSgpCgoJCQlyZXMsIGVyciA6PSB2LlJ1bigpCgkJCWlmIGVyciAhPSBuaWwgewoJCQkJRmF0YWwoZXJyKQoJCQl9CgkJCXN1bS5TdGF0dXMgPSBzdW0uU3RhdHVzIHx8IHJlcy5TdGF0dXMKCQkJc3VtLkZpbGVzID0gYXBwZW5kKHN1bS5GaWxlcywgcmVzLkZpbGVzLi4uKQoJCX0odmFsdWUsIHN1bSkKCgkJPC1saW0KCX0KCXdnLldhaXQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlnbyBmdW5jKHQgVGFzayl7CgkJCXJlcyxlcnIgOj0gdC5SdW4oKQoJCQlpZiBlcnIgIT0gbmlsIHsKCQkJCUZhdGFsKGVycikKCQkJfQoJCQlydDwtcmVzCgkJfSgpCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJcmVzLCBlcnIgOj10LlJ1bigpCg==</text>
+        <text encoding="base64">CQlnbyBmdW5jKHQgVGFzayl7CgkJCXJlcyxlcnIgOj0gdC5SdW4oKQoJCQlpZiBlcnIgIT0gbmlsIHsKCQkJCUZhdGFsKGVycikKCQkJfQoJCQlydDwtcmVzCgkJfSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlkZWZlciAgd2cuRG9uZSgpCgkJCgkJcmVzLCBlcnIgOj0gdC5SdW4oKQoJCWlmIGVyciAhPSBuaWwgewoJCQlGYXRhbChlcnIpCgkJfQoJCQo=</text>
+        <text encoding="base64">CQkJcmVzLCBlcnIgOj10LlJ1bigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
