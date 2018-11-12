@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="KeyPairGen" type="CLASS" />
       <mapping pattern="SKdecrypt" type="JAVA" />
       <mapping pattern="SKdecrypt.java" type="PLAIN_TEXT" />
     </extensionMap>
