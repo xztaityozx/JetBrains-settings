@@ -9,7 +9,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542548657163">
+      <file name="/Dummy.txt" timestamp="1542552468517">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -83,11 +83,11 @@
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/join.go" timestamp="1540627110451">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="75" column="73" />
-        <mark key="." line="75" column="73" />
-        <mark key="^" line="75" column="73" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/join.go" timestamp="1542552465150">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="75" column="74" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/config.go" timestamp="1540882512022">
         <mark key="[" line="37" column="18" />
@@ -155,31 +155,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CVByaW50KGNvbW1hbmQpCg==</text>
+        <text encoding="base64">CS8vIFRPRE86IIKxgrGCzINlg1iDZ5LKgueCyIKtgsiCwYK9gsyCxZKyjbiCtYLEgUgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlzcGluLlN1ZmZpeD0gZm10LlNwcmludGYoIlRhc2sgJWQvJWQiLGksIGxlbih0YXNrcykpCg==</text>
+        <text encoding="base64">CVByaW50KGNvbW1hbmQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQlzcGluLlN1ZmZpeD0gZm10LlNwcmludGYoIlRhc2sgJWQvJWQiLGksIGxlbih0YXNrcykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWZvciBpIDo9IDA7IGk8dGhpcy47ICB7Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWxpbSA6PSBtYWtlKGNoYW4gc3RydWN0e30sIHRoaXMuUGFyYWxsZWwpCgl2YXIgd2cgc3luYy5XYWl0R3JvdXAKCglmb3IgXywgdmFsdWUgOj0gcmFuZ2UgdGhpcy5HZW5lcmF0ZVRhc2tTbGljZSgpIHsKCQl3Zy5BZGQoMSkKCQlsaW0gPC0gc3RydWN0e317fQoKCQlnbyBmdW5jKHYgVGFzaywgc3VtIFN1bW1hcnkpIHsKCQkJZGVmZXIgd2cuRG9uZSgpCgoJCQlyZXMsIGVyciA6PSB2LlJ1bigpCgkJCWlmIGVyciAhPSBuaWwgewoJCQkJRmF0YWwoZXJyKQoJCQl9CgkJCXN1bS5TdGF0dXMgPSBzdW0uU3RhdHVzIHx8IHJlcy5TdGF0dXMKCQkJc3VtLkZpbGVzID0gYXBwZW5kKHN1bS5GaWxlcywgcmVzLkZpbGVzLi4uKQoJCX0odmFsdWUsIHN1bSkKCgkJPC1saW0KCX0KCXdnLldhaXQoKQo=</text>
+        <text encoding="base64">CWZvciBpIDo9IDA7IGk8dGhpcy47ICB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWxpbSA6PSBtYWtlKGNoYW4gc3RydWN0e30sIHRoaXMuUGFyYWxsZWwpCgl2YXIgd2cgc3luYy5XYWl0R3JvdXAKCglmb3IgXywgdmFsdWUgOj0gcmFuZ2UgdGhpcy5HZW5lcmF0ZVRhc2tTbGljZSgpIHsKCQl3Zy5BZGQoMSkKCQlsaW0gPC0gc3RydWN0e317fQoKCQlnbyBmdW5jKHYgVGFzaywgc3VtIFN1bW1hcnkpIHsKCQkJZGVmZXIgd2cuRG9uZSgpCgoJCQlyZXMsIGVyciA6PSB2LlJ1bigpCgkJCWlmIGVyciAhPSBuaWwgewoJCQkJRmF0YWwoZXJyKQoJCQl9CgkJCXN1bS5TdGF0dXMgPSBzdW0uU3RhdHVzIHx8IHJlcy5TdGF0dXMKCQkJc3VtLkZpbGVzID0gYXBwZW5kKHN1bS5GaWxlcywgcmVzLkZpbGVzLi4uKQoJCX0odmFsdWUsIHN1bSkKCgkJPC1saW0KCX0KCXdnLldhaXQoKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</text>
