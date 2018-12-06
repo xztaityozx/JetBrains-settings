@@ -36,6 +36,12 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
+      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/CustomSource_test.go" timestamp="1544108829368">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/.go/src/github.com/xztaityozx/awx/cmd/version.go" timestamp="1541660660266">
         <mark key="[" line="29" column="52" />
         <mark key="]" line="29" column="51" />
@@ -96,11 +102,11 @@
         <mark key="." line="12" column="22" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/CustomSource.go" timestamp="1544094767711">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="16" column="3" />
-        <mark key="^" line="16" column="3" />
-        <mark key="." line="16" column="3" />
+      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/CustomSource.go" timestamp="1544108667290">
+        <mark key="[" line="55" column="23" />
+        <mark key="]" line="55" column="22" />
+        <mark key="." line="55" column="22" />
+        <mark key="^" line="55" column="22" />
       </file>
       <file name="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/file_test.go" timestamp="1544094817097">
         <mark key="[" line="115" column="34" />
@@ -188,49 +194,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuYyBnZXRDdXN0b21Tb3JjZShuYW1lIHN0cmluZykgKHN0cmluZywgZXJyb3IpIHsKCWZvciBfLCB2IDo9IHJhbmdlIGNvbmZpZy5DdXN0b21Tb3VyY2UgewoJCWlmIHYuTmFtZSA9PSBuYW1lIHsKCQkJcmV0dXJuIHYuQ29tbWFuZCwgbmlsCgkJfQoJfQoJcmV0dXJuICIiLCBlcnJvcnMuTmV3KGZtdC5TcHJpbnQobmFtZSwgImNvdWxkIG5vdCBmb3VuZCBpbiBjdXN0b20gc29yY2UiKSkKfQo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>AfterCommand</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlSZW1vdmVGaWxlKFBhdGhKb2luKHNyYywiQS5jc3YiKSkK</text>
+        <text encoding="base64">CQlhZnRlcmNvbW1hbmQgPSBmbXQuU3ByaW50ZigiJXM7JXMiLGFmdGVyY29tbWFuZCx2LkFmdGVyQ29tbWFuZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuYyBnZXRDdXN0b21Tb3JjZShuYW1lIHN0cmluZykgKHN0cmluZywgZXJyb3IpIHsKCWZvciBfLCB2IDo9IHJhbmdlIGNvbmZpZy5DdXN0b21Tb3VyY2UgewoJCWlmIHYuTmFtZSA9PSBuYW1lIHsKCQkJcmV0dXJuIHYuQ29tbWFuZCwgbmlsCgkJfQoJfQoJcmV0dXJuICIiLCBlcnJvcnMuTmV3KGZtdC5TcHJpbnQobmFtZSwgImNvdWxkIG5vdCBmb3VuZCBpbiBjdXN0b20gc29yY2UiKSkKfQo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuYyBnZXRQYXRoV2l0aEZpbmRlcigpIChzdHJpbmcsIGVycm9yKSB7CglpZiB1c2VCb29rbWFyayB7Cg==</text>
+        <text encoding="base64">CQlzcmMgOj0gaWlpaWlpaWlpaWFhYWFhYWlpaWlhYWFhYWFhYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuYyAoY3MgQ3VzdG9tU291cmNlKSBUb1N0cmluZygpIHN0cmluZyB7CglyZXR1cm4gZm10LlNwcmludGYoIiVzXHRcdCVzXG4iLCBjcy5OYW1lLCBjcy5Db21tYW5kKQp9Cg==</text>
+        <text encoding="base64">CXZhciBydCBDdXN0b21Tb3VyY2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWlmIHVzZUJvb2ttYXJrIHsKCQlyZXR1cm4gZ2V0UGF0aFdpdGhGaW5kZXJGcm9tRmlsZShjb25maWcuQm9va01hcmtGaWxlKSwgbmlsCg==</text>
+        <text encoding="base64">CS8vIENvbW1hbmQgOiBjYXTjgbjmlL7jgorovrzjgoAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuYyBwcmludEN1c3RvbVNvdXJjZXMoKSB7Cglvcy5TdGRlcnIuV3JpdGVTdHJpbmcoImNkeCAtYyBbbmFtZV1cblxuW25hbWVdXHRcdFtjb21tYW5kXVxuIikKCWZvciBfLCB2IDo9IHJhbmdlIGNvbmZpZy5DdXN0b21Tb3VyY2UgewoJCW9zLlN0ZGVyci5Xcml0ZVN0cmluZyh2LlRvU3RyaW5nKCkpCgl9Cglvcy5TdGRlcnIuQ2xvc2UoKQoJb3MuRXhpdCgwKQp9Cg==</text>
+        <text encoding="base64">CUFjdGlvbjogZm10LlNwcmludGYoInB3ZCA+PiAlcyIsY29uZmlnLkJvb2tNYXJrRmlsZSksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJldHVybiBmbXQuU3ByaW50ZigiWyU0ZF1cdCVzIiwgcmNkLk51bWJlciwgcmNkLlBhdGgpCn0K</text>
+        <text encoding="base64">CXQuUnVuKCIwMDFfIikJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHlwZSBDdXN0b21Tb3VyY2Ugc3RydWN0IHsKCU5hbWUgICAgc3RyaW5nCglDb21tYW5kIHN0cmluZwp9Cg==</text>
+        <text encoding="base64">CUNvbW1hbmQ6Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWlmIGZyb21TdGRpbiB7Cg==</text>
+        <text encoding="base64">ZnVuYyBnZXRDdXN0b21Tb3JjZShuYW1lIHN0cmluZykgKHN0cmluZywgZXJyb3IpIHsKCWZvciBfLCB2IDo9IHJhbmdlIGNvbmZpZy5DdXN0b21Tb3VyY2UgewoJCWlmIHYuTmFtZSA9PSBuYW1lIHsKCQkJcmV0dXJuIHYuQ29tbWFuZCwgbmlsCgkJfQoJfQoJcmV0dXJuICIiLCBlcnJvcnMuTmV3KGZtdC5TcHJpbnQobmFtZSwgImNvdWxkIG5vdCBmb3VuZCBpbiBjdXN0b20gc29yY2UiKSkKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZ2V0UGF0aEZyb21TdGRpbihvcy5TdGRpbiksIG5pbAo=</text>
+        <text encoding="base64">ZnVuYyBnZXRQYXRoV2l0aEZpbmRlcigpIChzdHJpbmcsIGVycm9yKSB7CglpZiB1c2VCb29rbWFyayB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
