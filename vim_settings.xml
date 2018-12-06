@@ -36,11 +36,12 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/CustomSource_test.go" timestamp="1544108829368">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
+      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/CustomSource_test.go" timestamp="1544109157697">
+        <mark key="'" line="23" column="12" />
+        <mark key="[" line="30" column="41" />
+        <mark key="]" line="30" column="41" />
+        <mark key="^" line="30" column="40" />
+        <mark key="." line="30" column="25" />
       </file>
       <file name="$USER_HOME$/.go/src/github.com/xztaityozx/awx/cmd/version.go" timestamp="1541660660266">
         <mark key="[" line="29" column="52" />
@@ -102,10 +103,10 @@
         <mark key="." line="12" column="22" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/CustomSource.go" timestamp="1544108667290">
-        <mark key="[" line="55" column="23" />
-        <mark key="]" line="55" column="22" />
-        <mark key="." line="55" column="22" />
+      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/CustomSource.go" timestamp="1544109135137">
+        <mark key="[" line="60" column="20" />
+        <mark key="]" line="58" column="19" />
+        <mark key="." line="58" column="19" />
         <mark key="^" line="55" column="22" />
       </file>
       <file name="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/file_test.go" timestamp="1544094817097">
@@ -191,63 +192,65 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/.gitignore" />
       <jump line="2" column="10" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/stub/wv" />
       <jump line="64" column="29" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extaract_test.go" />
+      <jump line="17" column="16" filename="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/CustomSource_test.go" />
+      <jump line="23" column="12" filename="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/CustomSource_test.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">PChjb21tYW5kIGZpcnN0KQ==</text>
       </register>
       <register name="-" type="4">
-        <text>AfterCommand</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>this</text>
+        <text>second</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlhZnRlcmNvbW1hbmQgPSBmbXQuU3ByaW50ZigiJXM7JXMiLGFmdGVyY29tbWFuZCx2LkFmdGVyQ29tbWFuZCkK</text>
+      <register name="0" type="8">
+        <text encoding="base64">PChjb21tYW5kIGZpcnN0KQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlzcmMgOj0gaWlpaWlpaWlpaWFhYWFhYWlpaWlhYWFhYWFhYQo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXZhciBydCBDdXN0b21Tb3VyY2UK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIENvbW1hbmQgOiBjYXTjgbjmlL7jgorovrzjgoAK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUFjdGlvbjogZm10LlNwcmludGYoInB3ZCA+PiAlcyIsY29uZmlnLkJvb2tNYXJrRmlsZSksCg==</text>
+        <text encoding="base64">CQlzcmMgOj0gaWlpaWlpaWlpaWFhYWFhYWlpaWlhYWFhYWFhYQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXQuUnVuKCIwMDFfIikJCg==</text>
+        <text encoding="base64">CXZhciBydCBDdXN0b21Tb3VyY2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUNvbW1hbmQ6Cg==</text>
+        <text encoding="base64">CS8vIENvbW1hbmQgOiBjYXTjgbjmlL7jgorovrzjgoAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuYyBnZXRDdXN0b21Tb3JjZShuYW1lIHN0cmluZykgKHN0cmluZywgZXJyb3IpIHsKCWZvciBfLCB2IDo9IHJhbmdlIGNvbmZpZy5DdXN0b21Tb3VyY2UgewoJCWlmIHYuTmFtZSA9PSBuYW1lIHsKCQkJcmV0dXJuIHYuQ29tbWFuZCwgbmlsCgkJfQoJfQoJcmV0dXJuICIiLCBlcnJvcnMuTmV3KGZtdC5TcHJpbnQobmFtZSwgImNvdWxkIG5vdCBmb3VuZCBpbiBjdXN0b20gc29yY2UiKSkKfQo=</text>
+        <text encoding="base64">CUFjdGlvbjogZm10LlNwcmludGYoInB3ZCA+PiAlcyIsY29uZmlnLkJvb2tNYXJrRmlsZSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuYyBnZXRQYXRoV2l0aEZpbmRlcigpIChzdHJpbmcsIGVycm9yKSB7CglpZiB1c2VCb29rbWFyayB7Cg==</text>
+        <text encoding="base64">CXQuUnVuKCIwMDFfIikJCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text encoding="base64">JzwsJz5zL3NlY29uZC90aGlyZC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>this</last-search>
+      <last-search>second</last-search>
       <last-offset />
-      <last-pattern>this</last-pattern>
-      <last-replace>mt</last-replace>
-      <last-substitute>this</last-substitute>
+      <last-pattern>second</last-pattern>
+      <last-replace>third</last-replace>
+      <last-substitute>second</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -257,10 +260,10 @@
         <entry>call</entry>
         <entry>a</entry>
         <entry>A</entry>
+        <entry>first</entry>
+        <entry>second</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">YWN0aW9uIA==</entry>
-        <entry>actions</entry>
         <entry>list</entry>
         <entry>command</entry>
         <entry>mode</entry>
@@ -279,6 +282,8 @@
         <entry>action SplitVertically</entry>
         <entry>action AceAction</entry>
         <entry>GoRename</entry>
+        <entry encoding="base64">JzwsJz5zL2ZpcnN0L3NlY29uZC9n</entry>
+        <entry encoding="base64">JzwsJz5zL3NlY29uZC90aGlyZC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
