@@ -66,10 +66,10 @@
         <mark key="." line="129" column="34" />
         <mark key="^" line="129" column="34" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1539160760970">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1544524516484">
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="23" />
+        <mark key="." line="20" column="23" />
         <mark key="^" line="3" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1544114771273">
@@ -234,7 +234,7 @@
         <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzoiLzoiZWNobyAvZw==</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -257,7 +257,6 @@
         <entry>:&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>command</entry>
         <entry>mode</entry>
         <entry>showmode</entry>
         <entry>set showmode</entry>
@@ -270,13 +269,14 @@
         <entry>action SplitHorizontally</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>q</entry>
-        <entry>action ReformatCode</entry>
         <entry>action SplitVertically</entry>
         <entry>action AceAction</entry>
         <entry>GoRename</entry>
         <entry encoding="base64">JzwsJz5zL2ZpcnN0L3NlY29uZC9n</entry>
         <entry encoding="base64">JzwsJz5zL3NlY29uZC90aGlyZC9n</entry>
         <entry encoding="base64">JzwsJz5zLzoiLzoiZWNobyAvZw==</entry>
+        <entry>action ReFormatCode</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
