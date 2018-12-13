@@ -3,71 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/config_test.go" timestamp="1539661000341">
-        <mark key="[" line="47" column="43" />
-        <mark key="]" line="8" column="32" />
-        <mark key="^" line="8" column="32" />
-        <mark key="." line="8" column="32" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/root.go" timestamp="1540612089410">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541947849109">
+      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/root.go" timestamp="1543509467575">
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/file_test.go" timestamp="1544094817097">
+        <mark key="[" line="115" column="34" />
+      </file>
+      <file name="/sbtShell" timestamp="1544455303799">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-        <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/utils.go" timestamp="1540826901031">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="90" column="1" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/summary.go" timestamp="1539436375119">
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="11" column="20" />
-        <mark key="^" line="11" column="20" />
-        <mark key="." line="11" column="20" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" timestamp="1541947386242">
-        <mark key="[" line="94" column="18" />
-        <mark key="]" line="94" column="17" />
-        <mark key="." line="94" column="17" />
-        <mark key="^" line="94" column="17" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/join.go" timestamp="1540627110451">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="75" column="73" />
-        <mark key="." line="75" column="73" />
-        <mark key="^" line="75" column="73" />
-      </file>
-      <file name="C:/Go/src/cmd/go/internal/get/vcs.go" timestamp="1539165037583">
-        <mark key="'" line="1092" column="28" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/join_test.go" timestamp="1540631579206">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="15" column="5" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="23" column="62" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/.travis.yml" timestamp="1539436430140">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="5" column="26" />
-        <mark key="." line="5" column="26" />
-        <mark key="^" line="5" column="26" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/summary_test.go" timestamp="1539437210608">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="19" column="4" />
-        <mark key="^" line="19" column="4" />
-        <mark key="." line="19" column="4" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/.gitignore" timestamp="1540913592540">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1539160760970">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/file.go" timestamp="1544094775419">
+        <mark key="[" line="84" column="32" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/stub/wv" timestamp="1541947252630">
         <mark key="'" line="2" column="10" />
@@ -76,31 +30,86 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/join.go" timestamp="1542552465150">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="75" column="74" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/summary.go" timestamp="1539436375119">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="20" />
+        <mark key="^" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/config.go" timestamp="1540882512022">
         <mark key="[" line="37" column="18" />
         <mark key="]" line="37" column="0" />
         <mark key="^" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/count_test.go" timestamp="1540826646911">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/.travis.yml" timestamp="1539436430140">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/root.go" timestamp="1540612089410">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="97" column="0" />
-        <mark key="." line="97" column="0" />
+      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/awx/cmd/multiextract.go" timestamp="1541663945715">
+        <mark key="[" line="102" column="43" />
+        <mark key="]" line="129" column="34" />
+        <mark key="." line="129" column="34" />
+        <mark key="^" line="129" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/RecursiveLeastSquares/RecursiveLeastSquares/Program.cs" timestamp="1544701627777">
-        <mark key="[" line="0" column="13" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1539160760970">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/count.go" timestamp="1540906983697">
+      <file name="/Dummy.txt" timestamp="1544114771273">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/version.go" timestamp="1543897129275">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+        <mark key="^" line="12" column="22" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/config_test.go" timestamp="1539661000341">
+        <mark key="[" line="47" column="43" />
+        <mark key="]" line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/cd_test.go" timestamp="1544114413327">
+        <mark key="[" line="23" column="16" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/awx/cmd/extaract_test.go" timestamp="1541660304507">
+        <mark key="[" line="98" column="30" />
+        <mark key="]" line="98" column="29" />
+        <mark key="." line="98" column="29" />
+        <mark key="^" line="98" column="29" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/count.go" timestamp="1542548362895">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="6" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="108" column="24" />
+        <mark key="]" line="108" column="24" />
+        <mark key="^" line="108" column="24" />
+        <mark key="." line="108" column="24" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/awx/cmd/extract.go" timestamp="1541662936765">
+        <mark key="[" line="50" column="70" />
+        <mark key="]" line="55" column="16" />
+        <mark key="." line="55" column="16" />
+        <mark key="^" line="55" column="16" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/.gitignore" timestamp="1540913592540">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extaract_test.go" timestamp="1541948130941">
         <mark key="'" line="64" column="29" />
@@ -108,6 +117,35 @@
         <mark key="]" line="57" column="28" />
         <mark key="." line="57" column="28" />
         <mark key="^" line="57" column="28" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/summary_test.go" timestamp="1539437210608">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="19" column="4" />
+        <mark key="^" line="19" column="4" />
+        <mark key="." line="19" column="4" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/count_test.go" timestamp="1540826646911">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/join_test.go" timestamp="1540631579206">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="15" column="5" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="23" column="62" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/awx/cmd/version.go" timestamp="1541660660266">
+        <mark key="[" line="29" column="52" />
+        <mark key="]" line="29" column="51" />
+        <mark key="^" line="29" column="51" />
+        <mark key="." line="29" column="51" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" timestamp="1541947386242">
+        <mark key="[" line="94" column="18" />
+        <mark key="]" line="94" column="17" />
+        <mark key="." line="94" column="17" />
+        <mark key="^" line="94" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -136,40 +174,42 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/.gitignore" />
       <jump line="2" column="10" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/stub/wv" />
       <jump line="64" column="29" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extaract_test.go" />
+      <jump line="17" column="16" filename="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/CustomSource_test.go" />
+      <jump line="23" column="28" filename="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/CustomSource_test.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CS8vIFRPRE86IO+/ve+/ve+/ve+/ve+/vcyDZe+/vVjvv71n77+9yoLvv73Igu+/ve+/vciC77+977+977+977+9zILFku+/ve+/ve+/ve+/ve+/ve+/vcSBSAo=</text>
+        <text encoding="base64">CQlsYywgXyA6PSBleGVjLkNvbW1hbmQoImJhc2giLCItYyIsdi5Db21tYW5kLCJ8d2MgLWwiKS5PdXRwdXQoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>this</text>
+        <text>:&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlSZW1vdmVGaWxlKFBhdGhKb2luKHNyYywiQS5jc3YiKSkK</text>
+      <register name="0" type="8">
+        <text encoding="base64">PChjb21tYW5kIGZpcnN0KQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIFRPRE86IO+/ve+/ve+/ve+/ve+/vcyDZe+/vVjvv71n77+9yoLvv73Igu+/ve+/vciC77+977+977+977+9zILFku+/ve+/ve+/ve+/ve+/ve+/vcSBSAo=</text>
+        <text encoding="base64">CQlsYywgXyA6PSBleGVjLkNvbW1hbmQoImJhc2giLCItYyIsdi5Db21tYW5kLCJ8d2MgLWwiKS5PdXRwdXQoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CVByaW50KGNvbW1hbmQpCg==</text>
+        <text encoding="base64">CQkvLyBhY3Rpb24gOiA744Gn44Gk44Gq44E/Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlzcGluLlN1ZmZpeD0gZm10LlNwcmludGYoIlRhc2sgJWQvJWQiLGksIGxlbih0YXNrcykpCg==</text>
+        <text encoding="base64">CXN0cmNvbnYuQXRvaShsaW5lTnVtLDMyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CXN0cmNvbnYuQXRvaShsaW5lTnVtLDMyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWZvciBpIDo9IDA7IGk8dGhpcy47ICB7Cg==</text>
+        <text encoding="base64">CQkJW11zdHJpbmd7ImJhc2giLCItYyIsY3MuQWZ0ZXJDb21tYW5kfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWxpbSA6PSBtYWtlKGNoYW4gc3RydWN0e30sIHRoaXMuUGFyYWxsZWwpCgl2YXIgd2cgc3luYy5XYWl0R3JvdXAKCglmb3IgXywgdmFsdWUgOj0gcmFuZ2UgdGhpcy5HZW5lcmF0ZVRhc2tTbGljZSgpIHsKCQl3Zy5BZGQoMSkKCQlsaW0gPC0gc3RydWN0e317fQoKCQlnbyBmdW5jKHYgVGFzaywgc3VtIFN1bW1hcnkpIHsKCQkJZGVmZXIgd2cuRG9uZSgpCgoJCQlyZXMsIGVyciA6PSB2LlJ1bigpCgkJCWlmIGVyciAhPSBuaWwgewoJCQkJRmF0YWwoZXJyKQoJCQl9CgkJCXN1bS5TdGF0dXMgPSBzdW0uU3RhdHVzIHx8IHJlcy5TdGF0dXMKCQkJc3VtLkZpbGVzID0gYXBwZW5kKHN1bS5GaWxlcywgcmVzLkZpbGVzLi4uKQoJCX0odmFsdWUsIHN1bSkKCgkJPC1saW0KCX0KCXdnLldhaXQoKQo=</text>
+        <text encoding="base64">CXJldHVybiBzdHJpbmdzLlRyaW0oc3RyaW5nKGIpLCJcbiIpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -178,21 +218,21 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCQo=</text>
+      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</text>
+        <text encoding="base64">JzwsJz5zLzoiLzoiZWNobyAvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>this</last-search>
+      <last-search>:&quot;</last-search>
       <last-offset />
-      <last-pattern>this</last-pattern>
-      <last-replace>mt</last-replace>
-      <last-substitute>this</last-substitute>
+      <last-pattern>:&quot;</last-pattern>
+      <last-replace encoding="base64">OiJlY2hvIA==</last-replace>
+      <last-substitute>:&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -202,31 +242,31 @@
         <entry>call</entry>
         <entry>a</entry>
         <entry>A</entry>
-        <entry>dst</entry>
-        <entry>src</entry>
-        <entry>this</entry>
+        <entry>first</entry>
+        <entry>second</entry>
+        <entry>:&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>action ActivateTerminalWindow</entry>
-        <entry>action ActivateTerminalToolWindow</entry>
-        <entry>map</entry>
-        <entry>source ~/.ideavimrc</entry>
+        <entry>command</entry>
+        <entry>mode</entry>
+        <entry>showmode</entry>
+        <entry>set showmode</entry>
+        <entry>set</entry>
+        <entry>vnew</entry>
         <entry>new</entry>
-        <entry>action ReFormatCode</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action Test</entry>
-        <entry>action TestTreePopupMenu</entry>
-        <entry encoding="base64">JzwsJz5zL0EvQi9n</entry>
-        <entry encoding="base64">JzwsJz5zL0EvQy9n</entry>
+        <entry>action SplitHorizontary</entry>
+        <entry>action SplitHorizontry</entry>
         <entry>actionlist</entry>
-        <entry>action CommentByLineComment</entry>
-        <entry encoding="base64">JzwsJz5zL2RzdC9zcmMvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL3NyYy9ob21lL2c=</entry>
-        <entry>action Back</entry>
-        <entry>%s/this/mt/g</entry>
+        <entry>action SplitHorizontally</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>q</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action SplitVertically</entry>
         <entry>action AceAction</entry>
-        <entry>w</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry>GoRename</entry>
+        <entry encoding="base64">JzwsJz5zL2ZpcnN0L3NlY29uZC9n</entry>
+        <entry encoding="base64">JzwsJz5zL3NlY29uZC90aGlyZC9n</entry>
+        <entry encoding="base64">JzwsJz5zLzoiLzoiZWNobyAvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -258,6 +298,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
