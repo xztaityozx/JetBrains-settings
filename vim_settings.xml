@@ -53,13 +53,6 @@
       <file name="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/file.go" timestamp="1544094775419">
         <mark key="[" line="84" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/stub/wv" timestamp="1541947252630">
-        <mark key="'" line="2" column="10" />
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="10" />
-        <mark key="^" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bb830db8-7d26-4b82-935e-8b2692728a6f/console.sql" timestamp="1544867323600">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -114,6 +107,12 @@
         <mark key="." line="12" column="22" />
         <mark key="^" line="12" column="22" />
       </file>
+      <file name="$USER_HOME$/Development/scala/intern2020_Scala_TakemuraKenta/test/RepositorySpec.scala" timestamp="1544887239359">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="16" column="1" />
+        <mark key="^" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/config_test.go" timestamp="1539661000341">
         <mark key="[" line="47" column="43" />
         <mark key="]" line="8" column="32" />
@@ -129,13 +128,6 @@
         <mark key="." line="98" column="29" />
         <mark key="^" line="98" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/count.go" timestamp="1542548362895">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="108" column="24" />
-        <mark key="]" line="108" column="24" />
-        <mark key="^" line="108" column="24" />
-        <mark key="." line="108" column="24" />
-      </file>
       <file name="$USER_HOME$/.go/src/github.com/xztaityozx/awx/cmd/extract.go" timestamp="1541662936765">
         <mark key="[" line="50" column="70" />
         <mark key="]" line="55" column="16" />
@@ -147,18 +139,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/scala/intern2020_Scala_TakemuraKenta/test/PostSpec.scala" timestamp="1544869464785">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="2" column="15" />
-        <mark key="^" line="2" column="15" />
-        <mark key="." line="2" column="15" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extaract_test.go" timestamp="1541948130941">
-        <mark key="'" line="64" column="29" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="28" />
-        <mark key="." line="57" column="28" />
-        <mark key="^" line="57" column="28" />
+      <file name="$USER_HOME$/Development/scala/intern2020_Scala_TakemuraKenta/test/PostSpec.scala" timestamp="1544886906669">
+        <mark key="[" line="9" column="58" />
+        <mark key="]" line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+        <mark key="." line="9" column="9" />
       </file>
       <file name="$USER_HOME$/Development/scala/intern2020_Scala_TakemuraKenta/app/controllers/TodoController.scala" timestamp="1544523697580">
         <mark key="[" line="7" column="6" />
@@ -175,11 +160,11 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/scala/intern2020_Scala_TakemuraKenta/conf/evolutions/default/1.sql" timestamp="1544865688500">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="30" column="1" />
-        <mark key="^" line="30" column="1" />
-        <mark key="." line="30" column="1" />
+      <file name="$USER_HOME$/Development/scala/intern2020_Scala_TakemuraKenta/conf/evolutions/default/1.sql" timestamp="1544886432255">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="31" column="1" />
+        <mark key="^" line="31" column="1" />
+        <mark key="." line="31" column="1" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/join_test.go" timestamp="1540631579206">
         <mark key="[" line="11" column="0" />
