@@ -205,7 +205,7 @@
       <file name="$USER_HOME$/Development/scala/microblog/app/controllers/SampleController.scala" timestamp="1545012939570">
         <mark key="[" line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/Development/scala/microblog/conf/evolutions/default/1.sql" timestamp="1545033621029">
+      <file name="$USER_HOME$/Development/scala/microblog/conf/evolutions/default/1.sql" timestamp="1545051473848">
         <mark key="[" line="13" column="21" />
         <mark key="]" line="13" column="53" />
       </file>
@@ -230,10 +230,6 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/scala/intern2020_Scala_TakemuraKenta/app/controllers/TodoController.scala" timestamp="1544523697580">
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="19" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/summary_test.go" timestamp="1539437210608">
         <mark key="[" line="15" column="0" />
