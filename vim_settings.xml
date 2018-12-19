@@ -17,14 +17,11 @@
       </file>
       <file name="$USER_HOME$/Development/scala/intern2020_Scala_TakemuraKenta/conf/routes" timestamp="1544946110344">
         <mark key="[" line="5" column="1" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Development/scala/intern2020_Scala_TakemuraKenta/conf/application.conf" timestamp="1544951300472">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="2" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="4" column="2" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/scala/microblog/app/models/UserModel.scala" timestamp="1545021274043">
         <mark key="[" line="2" column="6" />
@@ -89,11 +86,6 @@
         <mark key="." line="55" column="16" />
         <mark key="^" line="55" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/scala/intern2020_Scala_TakemuraKenta/app/controllers/PostController.scala" timestamp="1544950163293">
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/scala/microblog/app/models/PostModel.scala" timestamp="1545197976890">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -127,12 +119,6 @@
       </file>
       <file name="$USER_HOME$/Development/scala/intern2020_Scala_TakemuraKenta/test/PostSpec/scala.scala" timestamp="1544789778144">
         <mark key="[" line="0" column="16" />
-      </file>
-      <file name="$USER_HOME$/Development/scala/intern2020_Scala_TakemuraKenta/conf/evolutions/default/2.sql" timestamp="1544947632765">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="2" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/scala/microblog/conf/application.conf" timestamp="1544952709948">
         <mark key="[" line="13" column="21" />
