@@ -99,11 +99,12 @@
         <mark key="." line="55" column="16" />
         <mark key="^" line="55" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/root.go" timestamp="1547468738809">
-        <mark key="[" line="48" column="13" />
-        <mark key="]" line="32" column="12" />
-        <mark key="." line="32" column="12" />
-        <mark key="^" line="32" column="11" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/root.go" timestamp="1547473918146">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="58" column="9" />
+        <mark key="]" line="58" column="9" />
+        <mark key="." line="58" column="9" />
+        <mark key="^" line="58" column="8" />
       </file>
       <file name="$USER_HOME$/Development/scala/microblog/app/models/PostModel.scala" timestamp="1545197976890">
         <mark key="[" line="4" column="0" />
@@ -135,6 +136,12 @@
         <mark key="]" line="97" column="0" />
         <mark key="^" line="97" column="0" />
         <mark key="." line="97" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/.gitignore" timestamp="1547469628344">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="78" column="36" />
+        <mark key="^" line="78" column="36" />
+        <mark key="." line="78" column="36" />
       </file>
       <file name="$USER_HOME$/Development/scala/microblog/models/PostModel.scala" timestamp="1545012712745">
         <mark key="'" line="0" column="0" />
@@ -337,13 +344,14 @@
       <jump line="18" column="26" filename="$USER_HOME$/Development/scala/microblog/app/utils/Repository.scala" />
       <jump line="75" column="6" filename="$USER_HOME$/Development/scala/microblog/app/utils/Repository.scala" />
       <jump line="79" column="3" filename="$USER_HOME$/Development/scala/microblog/app/utils/Repository.scala" />
+      <jump line="56" column="0" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/root.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>application</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CS8vYyA6PSBHZXRXaWR0aCgpCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>application</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text>posted_at</text>
@@ -352,39 +360,37 @@
         <text encoding="base64">dXRpbHMuUmVwb3NpdG9yeS5GaW5kQ2hpbGRDb21tZW50KHBvc3RJZCkubWFwKHAgPT4gcC5Ub0pzb25TdHJpbmcoKSkubWtTdHJpbmcoIiwiKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhhbXBsZXMgYW5kIHVzYWdlIG9mIHVzaW5nIHlvdXIgYXBwbGljYXRpb24uIEZvciBleGFtcGxlOgoK</text>
+        <text encoding="base64">CS8vYyA6PSBHZXRXaWR0aCgpCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3dlcnMgYXBwbGljYXRpb25zLgogdGhlIG5lZWRlZCBmaWxlcwo=</text>
+        <text encoding="base64">CS8vCVBhZGRpbmdQcmludCh2LGMpCgkvL30K</text>
       </register>
-      <register name="3" type="8">
-        <text>Cobra is a CLI library for Go that emp
-This application is a tool to generate
-to quickly create a Cobra application.</text>
+      <register name="3" type="2">
+        <text encoding="base64">CUFBIDo9IFtdc3RyaW5newoJCSIiLAoJCSIiLAoJCSIiLAoJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIFVuY29tbWVudCB0aGUgZm9sbG93aW5nIGxpbmUgaWYgeW91ciBiYXJlIGFwcGxpY2F0aW9uCgkvLyBoYXMgYW4gYWN0aW9uIGFzc29jaWF0ZWQgd2l0aCBpdDoKCS8vCVJ1bjogZnVuYyhjbWQgKmNvYnJhLkNvbW1hbmQsIGFyZ3MgW11zdHJpbmcpIHsgfSwK</text>
+        <text encoding="base64">IJCnjeyBRZKYjewggm2CZ4JqIGAsdGV4dCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gRXhlY3V0ZSBhZGRzIGFsbCBjaGlsZCBjb21tYW5kcyB0byB0aGUgcm9vdCBjb21tYW5kIGFuZCBzZXRzIGZsYWdzIGFwcHJvcHJpYXRlbHkuCi8vIFRoaXMgaXMgY2FsbGVkIGJ5IG1haW4ubWFpbigpLiBJdCBvbmx5IG5lZWRzIHRvIGhhcHBlbiBvbmNlIHRvIHRoZSByb290Q21kLgo=</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CS8vIEhlcmUgeW91IHdpbGwgZGVmaW5lIHlvdXIgZmxhZ3MgYW5kIGNvbmZpZ3VyYXRpb24gc2V0dGluZ3MuCgkvLyBDb2JyYSBzdXBwb3J0cyBwZXJzaXN0ZW50IGZsYWdzLCB3aGljaCwgaWYgZGVmaW5lZCBoZXJlLAoJLy8gd2lsbCBiZSBnbG9iYWwgZm9yIHlvdXIgYXBwbGljYXRpb24uCgkvLyByb290Q21kLlBlcnNpc3RlbnRGbGFncygpLlN0cmluZ1ZhcigmY2ZnRmlsZSwgImNvbmZpZyIsICIiLCAiY29uZmlnIGZpbGUgKGRlZmF1bHQgaXMgJEhPTUUvLm93YXJpLnlhbWwpIikKCgkvLyBDb2JyYSBhbHNvIHN1cHBvcnRzIGxvY2FsIGZsYWdzLCB3aGljaCB3aWxsIG9ubHkgcnVuCgkvLyB3aGVuIHRoaXMgYWN0aW9uIGlzIGNhbGxlZCBkaXJlY3RseS4KCXJvb3RDbWQuRmxhZ3MoKS5Cb29sUCgidG9nZ2xlIiwgInQiLCBmYWxzZSwgIkhlbHAgbWVzc2FnZSBmb3IgdG9nZ2xlIikK</text>
+      <register name="6" type="8">
+        <text encoding="base64">gUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFACoFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQAqBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gREKCzINKg4mDgJa8gsZSZXF1ZXN0gsyDdINCgVuDi4NolryCqojqknaCt4LpguaCpILJjeyCwYLEgrWC3ILBgr2CzIKqg1+DgYK+gsaOdoKkCg==</text>
+        <text encoding="base64">CWMgOj0gR2V0V2lkdGgoKSAtIGxlbihbXWJ5dGUodGV4dCkpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJdyA6PSBHZXRXaWR0aCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CQlwYWRkaW5nIDo9IHcgLSBsZW4odikK</text>
       </register>
       <register name=":" type="4">
         <text>action CommentByLineComment</text>
