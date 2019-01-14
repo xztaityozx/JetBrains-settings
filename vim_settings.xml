@@ -99,8 +99,8 @@
         <mark key="." line="55" column="16" />
         <mark key="^" line="55" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/root.go" timestamp="1547468199531">
-        <mark key="[" line="32" column="12" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/root.go" timestamp="1547468738809">
+        <mark key="[" line="48" column="13" />
         <mark key="]" line="32" column="12" />
         <mark key="." line="32" column="12" />
         <mark key="^" line="32" column="11" />
@@ -387,7 +387,7 @@ to quickly create a Cobra application.</text>
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
@@ -422,7 +422,6 @@ to quickly create a Cobra application.</text>
         <entry encoding="base64">JzwsJz5zL0EvQi9n</entry>
         <entry encoding="base64">JzwsJz5zL0EvQy9n</entry>
         <entry>actionlist</entry>
-        <entry>action CommentByLineComment</entry>
         <entry encoding="base64">JzwsJz5zL2RzdC9zcmMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3NyYy9ob21lL2c=</entry>
         <entry>action Back</entry>
@@ -430,6 +429,7 @@ to quickly create a Cobra application.</text>
         <entry>action AceAction</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
