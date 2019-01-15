@@ -145,11 +145,11 @@
         <mark key="^" line="29" column="51" />
         <mark key="." line="29" column="51" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/PrintUtils.go" timestamp="1547559254528">
-        <mark key="[" line="95" column="9" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="78" column="12" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/PrintUtils.go" timestamp="1547560108201">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="80" column="0" />
       </file>
       <file name="$USER_HOME$/Development/scala/microblog/README.md" timestamp="1545201504907">
         <mark key="'" line="13" column="15" />
@@ -408,7 +408,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWN0aW9uKCkK</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -420,40 +420,40 @@
         <text encoding="base64">CQkJaWYgb3ZlcndyaXRlIHsKCQkJCWZtdC5QcmludGYoIlwwMzNbJWRHIixsZW5ndGgpCgkJCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWN0aW9uKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyBBQYLwj2+XzQoJCWZvciBfLCB2IDo9IHJhbmdlIGFhIHsKCQkJUGFkZGluZ1ByaW50KHYsIHBhZGRpbmcpCgkJfQoKCQkvLyCDSoFbg1yDi4jKknWC8I/jgsmW34K3CgkJaWYgb3ZlcndyaXRlICYmIGkgIT0gbGltaXQtMSB7CgkJCWFuc2kuQ3Vyc29yVXAobGVuZ3RoKQoJCX0KCgkJLy8glaGQlInxj2+XzYK3gumCyILnkdKLQAoJCWlmIGxpbWl0ICE9IDEgewoJCQl0aW1lLlNsZWVwKGQpCgkJfQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vII/jgsmW34K3Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWxvZy5QcmludGxuKGxlbmd0aCkK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZvciBfLCB2IDo9IHJhbmdlIEFBIHsKCQlQYWRkaW5nUHJpbnQodiwgYykKCX0K</text>
+        <text encoding="base64">CWFjdGlvbiA6PSBmdW5jKCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWlmIGNvdW50IDwgMCB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CXRlcm1ib3guSW5pdCgpCglkZWZlciB0ZXJtYm94LkNsb3NlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cglmb3IgaTo9MDtpPGNvdW50O2krK3sKCQlmb3IgXywgdiA6PSByYW5nZSBhYSB7CgkJCVBhZGRpbmdQcmludCh2LCBwYWRkaW5nKQoJCX0KCQlpZiBvdmVyd3JpdGUgewoJCQlmbXQuUHJpbnRmKCJcMDMzWyVkRyIsbGVuZ3RoKQoJCX0KCX0K</text>
+        <text encoding="base64">CQkJc3dpdGNoIGV2IDo9IHRlcm1ib3guUG9sbEV2ZW50KCk7IGV2LlR5cGUgewoJCQljYXNlIHRlcm1ib3guRXZlbnRLZXk6CgkJCQlzd2l0Y2ggZXYuS2V5IHsKCQkJCWNhc2UgdGVybWJveC5LZXlFc2MsIHRlcm1ib3guS2V5Q3RybFE6CgkJCQkJcmV0dXJuCgkJCQlkZWZhdWx0Ogo=</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -481,7 +481,6 @@
       <history-cmd>
         <entry>new</entry>
         <entry>action ReFormatCode</entry>
-        <entry>action ReformatCode</entry>
         <entry>action Test</entry>
         <entry>action TestTreePopupMenu</entry>
         <entry encoding="base64">JzwsJz5zL0EvQi9n</entry>
@@ -499,6 +498,7 @@
         <entry encoding="base64">JzwsJz5zL1Z0bi9WdHAvZw==</entry>
         <entry encoding="base64">JzwsJz5zL24vcC9n</entry>
         <entry>action AceAction</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
