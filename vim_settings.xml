@@ -39,11 +39,11 @@
         <mark key="." line="18" column="40" />
         <mark key="^" line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/UHA/cmd/version.go" timestamp="1547531996394">
-        <mark key="[" line="33" column="20" />
-        <mark key="]" line="31" column="15" />
-        <mark key="^" line="31" column="15" />
-        <mark key="." line="31" column="15" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/UHA/cmd/version.go" timestamp="1547697404903">
+        <mark key="[" line="33" column="21" />
+        <mark key="]" line="34" column="25" />
+        <mark key="^" line="34" column="25" />
+        <mark key="." line="34" column="25" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/summary.go" timestamp="1539436375119">
         <mark key="[" line="11" column="25" />
@@ -232,12 +232,6 @@
         <mark key="]" line="129" column="34" />
         <mark key="." line="129" column="34" />
         <mark key="^" line="129" column="34" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1547564066279">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-        <mark key="^" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/version.go" timestamp="1543897129275">
         <mark key="[" line="10" column="12" />
@@ -470,8 +464,6 @@ to quickly create a Cobra application.</text>
         <entry>n</entry>
       </history-search>
       <history-cmd>
-        <entry>action Back</entry>
-        <entry>%s/this/mt/g</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>52</entry>
@@ -490,6 +482,8 @@ to quickly create a Cobra application.</text>
         <entry>action AceLineAction</entry>
         <entry>actionlist</entry>
         <entry>action AceTargetAction</entry>
+        <entry>GoTest</entry>
+        <entry>action GoTest</entry>
       </history-cmd>
       <history-expr />
       <history-input />
