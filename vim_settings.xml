@@ -20,11 +20,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/UHA/cmd/srun.go" timestamp="1547694926297">
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/UHA/cmd/srun.go" timestamp="1547699654255">
         <mark key="'" line="2" column="72" />
-        <mark key="[" line="452" column="85" />
-        <mark key="]" line="454" column="0" />
-        <mark key="." line="454" column="0" />
+        <mark key="[" line="457" column="89" />
+        <mark key="]" line="458" column="53" />
+        <mark key="." line="458" column="53" />
+        <mark key="^" line="458" column="53" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/UHA/cmd/retry.go" timestamp="1547695788440">
         <mark key="[" line="194" column="8" />
@@ -232,6 +233,9 @@
         <mark key="]" line="129" column="34" />
         <mark key="." line="129" column="34" />
         <mark key="^" line="129" column="34" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1547699657123">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/version.go" timestamp="1543897129275">
         <mark key="[" line="10" column="12" />
