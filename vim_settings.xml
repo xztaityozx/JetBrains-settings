@@ -128,12 +128,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/boom.go" timestamp="1547909783957">
-        <mark key="'" line="39" column="14" />
-        <mark key="[" line="107" column="8" />
-        <mark key="]" line="110" column="9" />
-        <mark key="." line="107" column="0" />
-        <mark key="^" line="118" column="0" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/boom.go" timestamp="1547916110472">
+        <mark key="'" line="37" column="4" />
+        <mark key="[" line="106" column="32" />
+        <mark key="]" line="106" column="32" />
+        <mark key="^" line="210" column="78" />
+        <mark key="." line="106" column="32" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/default.go" timestamp="1547555814098">
         <mark key="[" line="82" column="0" />
@@ -153,12 +153,7 @@
         <mark key="^" line="29" column="51" />
         <mark key="." line="29" column="51" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/PrintUtils.go" timestamp="1547562511218">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="80" column="0" />
-      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/PrintUtils.go" timestamp="1547914366632" />
       <file name="$USER_HOME$/Development/scala/microblog/README.md" timestamp="1545201504907">
         <mark key="'" line="13" column="15" />
         <mark key="[" line="143" column="3" />
@@ -244,7 +239,7 @@
         <mark key="." line="129" column="34" />
         <mark key="^" line="129" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547893231268">
+      <file name="/Dummy.txt" timestamp="1547916115026">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/version.go" timestamp="1543897129275">
@@ -403,55 +398,58 @@
       <jump line="69" column="30" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/UHA/cmd/srun.go" />
       <jump line="2" column="72" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/UHA/cmd/srun.go" />
       <jump line="34" column="14" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/boom.go" />
+      <jump line="121" column="15" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/boom.go" />
+      <jump line="59" column="0" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/boom.go" />
+      <jump line="37" column="4" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/boom.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWlmIG92ZXJ3cml0ZSB7CgkJYW5zaS5DdXJzb3JVcChsaW5lKQoJfQo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">gUA=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlpZiBlcnIgIT0gbmlsIHsKCQkJbG9nLkZhdGFsKGVycikKCQl9Cg==</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbih0ZXh0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWlmIG92ZXJ3cml0ZSB7CgkJYW5zaS5DdXJzb3JVcChsaW5lKQoJfQo=</text>
+        <text encoding="base64">CW1heCA6PSAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJfQo=</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCWQgLCBfID0gdGltZS5QYXJzZUR1cmF0aW9uKCIxcyIpCgl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlsb2cuRmF0YWwoZXJyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgfHyBUIFQgVCBUIFQgVB8fGAsIlxuIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl0aW1lLlNsZWVwKHRpbWUuUGFyc2VEdXJhdGlvbihkdXJhdGlvbikpCg==</text>
+        <text encoding="base64">Li4gICAgIIFffHyBUIFQgVCBUIFQgVB8fAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl0aW1lLlNsZWVwKHRpbWUuUGFyc2VEdXJhdGlvbihkdXJhdGlvbikpCg==</text>
+        <text encoding="base64">CXJldHVybiBzdHJpbmdzLlNwbGl0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWQsIGVyciA6PSBzdHJjb252LkF0b2koZHVyYXRpb24pCglpZiBlcnIgIT0gbmlsIHsKCQlsb2cuRmF0YWwoZXJyKQoJfQo=</text>
+        <text encoding="base64">ICAgICAgICAgfHyBUIFQgVCBUIFQgVB8fGAsIlxuIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlhYSA6PSBhcHBlbmQoW11zdHJpbmd7Zm10LlNwcmludGYoKX0pCg==</text>
+        <text encoding="base64">Li4gICAgIIFffHyBUIFQgVCBUIFQgVB8fAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlmbXQuU3ByaW50ZigiJWQvJWQiLGJhLlNlcU51bSxiYS5NYXgpLAo=</text>
+        <text encoding="base64">CWFuc2kuQ3Vyc29yVXAoMSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQliYSA6PSBOZXdCb29tQUEodGV4dCxvZmZzZXQpCg==</text>
+        <text encoding="base64">CWFuc2kuQ3Vyc29yVXAoMSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text encoding="base64">YWN0aW9uIEFjZVRhcmdldEFjdGlvbiA=</text>
       </register>
     </registers>
     <search>
@@ -478,26 +476,26 @@
         <entry encoding="base64">gUA=</entry>
       </history-search>
       <history-cmd>
-        <entry>action CommentByLineComment</entry>
-        <entry encoding="base64">JzwsJz5zL1Z0bi9WdHAvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL24vcC9n</entry>
-        <entry>action AceAction</entry>
-        <entry>action ReformatCode</entry>
-        <entry encoding="base64">YWN0aW9uIEFjZUFjdGlvbiA=</entry>
         <entry>action list</entry>
         <entry>list action</entry>
         <entry>actions</entry>
         <entry>action AceActionn</entry>
         <entry>action AceWordAction</entry>
         <entry>action AceLineAction</entry>
-        <entry>action AceTargetAction</entry>
         <entry>GoTest</entry>
         <entry>action GoTest</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL4FALyAgL2c=</entry>
-        <entry>actionlist</entry>
         <entry>action RenameAttribute</entry>
         <entry>action RenameElement</entry>
+        <entry>action AceAction</entry>
+        <entry>action AceTarget</entry>
+        <entry>actionlist</entry>
+        <entry>action AceFullText</entry>
+        <entry>action AceFullTextAction</entry>
+        <entry>action AceTargetAction cmd</entry>
+        <entry>action AceTargetAction</entry>
+        <entry encoding="base64">YWN0aW9uIEFjZVRhcmdldEFjdGlvbiA=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
