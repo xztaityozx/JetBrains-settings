@@ -27,11 +27,11 @@
         <mark key="." line="458" column="53" />
         <mark key="^" line="458" column="53" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/UHA/cmd/retry.go" timestamp="1547695788440">
-        <mark key="[" line="194" column="8" />
-        <mark key="]" line="96" column="36" />
-        <mark key="." line="96" column="36" />
-        <mark key="^" line="96" column="36" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/UHA/cmd/retry.go" timestamp="1547879492699">
+        <mark key="[" line="191" column="23" />
+        <mark key="]" line="193" column="21" />
+        <mark key="." line="193" column="21" />
+        <mark key="^" line="193" column="21" />
       </file>
       <file name="$USER_HOME$/Development/scala/microblog/app/utils/Repository.scala" timestamp="1545201338643">
         <mark key="'" line="79" column="3" />
@@ -40,11 +40,11 @@
         <mark key="." line="18" column="40" />
         <mark key="^" line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/UHA/cmd/version.go" timestamp="1547697404903">
-        <mark key="[" line="33" column="21" />
-        <mark key="]" line="34" column="25" />
-        <mark key="^" line="34" column="25" />
-        <mark key="." line="34" column="25" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/UHA/cmd/version.go" timestamp="1547879553104">
+        <mark key="[" line="34" column="25" />
+        <mark key="]" line="31" column="15" />
+        <mark key="^" line="31" column="15" />
+        <mark key="." line="31" column="15" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/summary.go" timestamp="1539436375119">
         <mark key="[" line="11" column="25" />
@@ -234,7 +234,7 @@
         <mark key="." line="129" column="34" />
         <mark key="^" line="129" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547699657123">
+      <file name="/Dummy.txt" timestamp="1547879557685">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/version.go" timestamp="1543897129275">
@@ -442,7 +442,7 @@ to quickly create a Cobra application.</text>
         <text encoding="base64">CgkvLyBIZXJlIHlvdSB3aWxsIGRlZmluZSB5b3VyIGZsYWdzIGFuZCBjb25maWd1cmF0aW9uIHNldHRpbmdzLgoKCS8vIENvYnJhIHN1cHBvcnRzIFBlcnNpc3RlbnQgRmxhZ3Mgd2hpY2ggd2lsbCB3b3JrIGZvciB0aGlzIGNvbW1hbmQKCS8vIGFuZCBhbGwgc3ViY29tbWFuZHMsIGUuZy46CgkvLyBkb25DbWQuUGVyc2lzdGVudEZsYWdzKCkuU3RyaW5nKCJmb28iLCAiIiwgIkEgaGVscCBmb3IgZm9vIikKCgkvLyBDb2JyYSBzdXBwb3J0cyBsb2NhbCBmbGFncyB3aGljaCB3aWxsIG9ubHkgcnVuIHdoZW4gdGhpcyBjb21tYW5kCgkvLyBpcyBjYWxsZWQgZGlyZWN0bHksIGUuZy46CgkvLyBkb25DbWQuRmxhZ3MoKS5Cb29sUCgidG9nZ2xlIiwgInQiLCBmYWxzZSwgIkhlbHAgbWVzc2FnZSBmb3IgdG9nZ2xlIikK</text>
       </register>
       <register name=":" type="4">
-        <text>action AceTargetAction</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -468,7 +468,6 @@ to quickly create a Cobra application.</text>
         <entry>n</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>52</entry>
         <entry>99</entry>
@@ -488,6 +487,7 @@ to quickly create a Cobra application.</text>
         <entry>action AceTargetAction</entry>
         <entry>GoTest</entry>
         <entry>action GoTest</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
