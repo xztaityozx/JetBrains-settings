@@ -128,12 +128,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/boom.go" timestamp="1547908130034">
-        <mark key="'" line="36" column="14" />
-        <mark key="[" line="77" column="35" />
-        <mark key="]" line="77" column="41" />
-        <mark key="." line="77" column="41" />
-        <mark key="^" line="77" column="41" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/boom.go" timestamp="1547908710497">
+        <mark key="'" line="38" column="14" />
+        <mark key="[" line="98" column="32" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/default.go" timestamp="1547555814098">
         <mark key="[" line="82" column="0" />
@@ -406,7 +405,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQliYSA6PSBOZXdCb29tQUEodGV4dCxvZmZzZXQpCg==</text>
+        <text encoding="base64">CQlhYSA6PSBhcHBlbmQoW11zdHJpbmd7Zm10LlNwcmludGYoKX0pCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">CQ==</text>
@@ -418,37 +417,37 @@
         <text encoding="base64">CQlpZiBlcnIgIT0gbmlsIHsKCQkJbG9nLkZhdGFsKGVycikKCQl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQliYSA6PSBOZXdCb29tQUEodGV4dCxvZmZzZXQpCg==</text>
+        <text encoding="base64">CQlhYSA6PSBhcHBlbmQoW11zdHJpbmd7Zm10LlNwcmludGYoKX0pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQliYSA6PSBOZXdCb29tQUEoKQo=</text>
+        <text encoding="base64">CQlmbXQuU3ByaW50ZigiJWQvJWQiLGJhLlNlcU51bSxiYS5NYXgpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigiYm9vbSBjYWxsZWQiKQo=</text>
+        <text encoding="base64">CQliYSA6PSBOZXdCb29tQUEodGV4dCxvZmZzZXQpCg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">CWYKCQoJfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQliYSA6PSBOZXdCb29tQUEoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbigiYm9vbSBjYWxsZWQiKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CWlmIHVwcGVyICsgdGV4dGxlbmd0aCArIGxvd2VyID4gMTUgewo=</text>
+      <register name="6" type="8">
+        <text encoding="base64">CWYKCQoJfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkiLi4uICAgICAgICAgICAgICAgICB8gZN8IHwiLAoJCWJhLlRoaXJkTGluZSAsCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWlmIHVwcGVyICsgdGV4dGxlbmd0aCArIGxvd2VyID4gMTUgewo=</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAgICAgCiAgICAgIAogICAgICAKICAgICAgCiAgICAgIAogICAgICAKICAgICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkiLi4uICAgICAgICAgICAgICAgICB8gZN8IHwiLAoJCWJhLlRoaXJkTGluZSAsCg==</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
