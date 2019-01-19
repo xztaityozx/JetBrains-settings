@@ -128,11 +128,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/boom.go" timestamp="1547908710497">
-        <mark key="'" line="38" column="14" />
-        <mark key="[" line="98" column="32" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/boom.go" timestamp="1547909783957">
+        <mark key="'" line="39" column="14" />
+        <mark key="[" line="107" column="8" />
+        <mark key="]" line="110" column="9" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="118" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/default.go" timestamp="1547555814098">
         <mark key="[" line="82" column="0" />
@@ -171,7 +172,7 @@
         <mark key="^" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/.gitignore" timestamp="1547469628344">
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/.gitignore" timestamp="1547908998922">
         <mark key="[" line="11" column="4" />
         <mark key="]" line="78" column="36" />
         <mark key="^" line="78" column="36" />
@@ -405,7 +406,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlhYSA6PSBhcHBlbmQoW11zdHJpbmd7Zm10LlNwcmludGYoKX0pCg==</text>
+        <text encoding="base64">CWlmIG92ZXJ3cml0ZSB7CgkJYW5zaS5DdXJzb3JVcChsaW5lKQoJfQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">CQ==</text>
@@ -417,37 +418,37 @@
         <text encoding="base64">CQlpZiBlcnIgIT0gbmlsIHsKCQkJbG9nLkZhdGFsKGVycikKCQl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlhYSA6PSBhcHBlbmQoW11zdHJpbmd7Zm10LlNwcmludGYoKX0pCg==</text>
+        <text encoding="base64">CWlmIG92ZXJ3cml0ZSB7CgkJYW5zaS5DdXJzb3JVcChsaW5lKQoJfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlmbXQuU3ByaW50ZigiJWQvJWQiLGJhLlNlcU51bSxiYS5NYXgpLAo=</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQliYSA6PSBOZXdCb29tQUEodGV4dCxvZmZzZXQpCg==</text>
+        <text encoding="base64">CQlsb2cuRmF0YWwoZXJyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQliYSA6PSBOZXdCb29tQUEoKQo=</text>
+        <text encoding="base64">CQl0aW1lLlNsZWVwKHRpbWUuUGFyc2VEdXJhdGlvbihkdXJhdGlvbikpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigiYm9vbSBjYWxsZWQiKQo=</text>
+        <text encoding="base64">CQl0aW1lLlNsZWVwKHRpbWUuUGFyc2VEdXJhdGlvbihkdXJhdGlvbikpCg==</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">CWYKCQoJfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CWQsIGVyciA6PSBzdHJjb252LkF0b2koZHVyYXRpb24pCglpZiBlcnIgIT0gbmlsIHsKCQlsb2cuRmF0YWwoZXJyKQoJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQlhYSA6PSBhcHBlbmQoW11zdHJpbmd7Zm10LlNwcmludGYoKX0pCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWlmIHVwcGVyICsgdGV4dGxlbmd0aCArIGxvd2VyID4gMTUgewo=</text>
+        <text encoding="base64">CQlmbXQuU3ByaW50ZigiJWQvJWQiLGJhLlNlcU51bSxiYS5NYXgpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkiLi4uICAgICAgICAgICAgICAgICB8gZN8IHwiLAoJCWJhLlRoaXJkTGluZSAsCg==</text>
+        <text encoding="base64">CQliYSA6PSBOZXdCb29tQUEodGV4dCxvZmZzZXQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
