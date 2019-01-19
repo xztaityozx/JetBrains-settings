@@ -27,11 +27,11 @@
         <mark key="." line="458" column="53" />
         <mark key="^" line="458" column="53" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/UHA/cmd/retry.go" timestamp="1547879492699">
-        <mark key="[" line="191" column="23" />
-        <mark key="]" line="193" column="21" />
-        <mark key="." line="193" column="21" />
-        <mark key="^" line="193" column="21" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/UHA/cmd/retry.go" timestamp="1547891913306">
+        <mark key="[" line="246" column="64" />
+        <mark key="]" line="246" column="32" />
+        <mark key="." line="246" column="32" />
+        <mark key="^" line="246" column="64" />
       </file>
       <file name="$USER_HOME$/Development/scala/microblog/app/utils/Repository.scala" timestamp="1545201338643">
         <mark key="'" line="79" column="3" />
@@ -40,8 +40,8 @@
         <mark key="." line="18" column="40" />
         <mark key="^" line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/UHA/cmd/version.go" timestamp="1547879553104">
-        <mark key="[" line="34" column="25" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/UHA/cmd/version.go" timestamp="1547891753769">
+        <mark key="[" line="32" column="15" />
         <mark key="]" line="31" column="15" />
         <mark key="^" line="31" column="15" />
         <mark key="." line="31" column="15" />
@@ -394,11 +394,11 @@
       <jump line="2" column="72" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/UHA/cmd/srun.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXNydW5DbWQuUGVyc2lzdGVudEZsYWdzKCkuQm9vbFAoImNvbnRpbnVlIiwgIkMiLCBmYWxzZSwgIoLHgrGCqYLFg1aDfoOFg4yBW4NWg4eDk4KqjriUc4K1gsSC4JGxgq+C3IK3IikK</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>n</text>
