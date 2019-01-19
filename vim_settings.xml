@@ -125,6 +125,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="15" column="17" />
       </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/boom.go" timestamp="1547894060013">
+        <mark key="[" line="32" column="10" />
+        <mark key="]" line="32" column="11" />
+        <mark key="." line="32" column="11" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/default.go" timestamp="1547555814098">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="83" column="16" />
@@ -394,8 +399,8 @@
       <jump line="2" column="72" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/UHA/cmd/srun.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>start</text>
+      <register name="&quot;" type="8">
+        <text>A longer description that spans multiple lines and likely contains examples</text>
       </register>
       <register name="-" type="4">
         <text>start</text>
@@ -406,38 +411,38 @@
       <register name="0" type="2">
         <text encoding="base64">CQlzdGFydCwgZXJyIDo9IHN0cmNvbnYuQXRvaShhcmdzWzBdKQoJCWlmIGVyciAhPSBuaWwgewoJCQlsb2cuRmF0YWwoZXJyKQoJCX0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlmb3IgXywgdiA6PSByYW5nZSBmaWxlcyB7CgkJCQoJCX0K</text>
+      <register name="1" type="8">
+        <text>A longer description that spans multiple lines and likely contains examples</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXJldHJ5Q21kLkZsYWdzKCkuQm9vbFAoImxpc3QiLCJsIixmYWxzZSwijriUc4K1gr1TRUVEgvCDioNYg2eDQYNig3aCtYLcgrciKQo=</text>
+        <text encoding="base64">YW5kIHVzYWdlIG9mIHVzaW5nIHlvdXIgY29tbWFuZC4gRm9yIGV4YW1wbGU6CgpDb2JyYSBpcyBhIENMSSBsaWJyYXJ5IGZvciBHbyB0aGF0IGVtcG93ZXJzIGFwcGxpY2F0aW9ucy4KVGhpcyBhcHBsaWNhdGlvbiBpcyBhIHRvb2wgdG8gZ2VuZXJhdGUgdGhlIG5lZWRlZCBmaWxlcwp0byBxdWlja2x5IGNyZWF0ZSBhIENvYnJhIGFwcGxpY2F0aW9uLmAsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXNydW5DbWQuUGVyc2lzdGVudEZsYWdzKCkuQm9vbFAoImNvbnRpbnVlIiwgIkMiLCBmYWxzZSwgIoLHgrGCqYLFg1aDfoOFg4yBW4NWg4eDk4KqjriUc4K1gsSC4JGxgq+C3IK3IikK</text>
+        <text encoding="base64">CgkvLyBIZXJlIHlvdSB3aWxsIGRlZmluZSB5b3VyIGZsYWdzIGFuZCBjb25maWd1cmF0aW9uIHNldHRpbmdzLgoKCS8vIENvYnJhIHN1cHBvcnRzIFBlcnNpc3RlbnQgRmxhZ3Mgd2hpY2ggd2lsbCB3b3JrIGZvciB0aGlzIGNvbW1hbmQKCS8vIGFuZCBhbGwgc3ViY29tbWFuZHMsIGUuZy46CgkvLyBib29tQ21kLlBlcnNpc3RlbnRGbGFncygpLlN0cmluZygiZm9vIiwgIiIsICJBIGhlbHAgZm9yIGZvbyIpCgoJLy8gQ29icmEgc3VwcG9ydHMgbG9jYWwgZmxhZ3Mgd2hpY2ggd2lsbCBvbmx5IHJ1biB3aGVuIHRoaXMgY29tbWFuZAoJLy8gaXMgY2FsbGVkIGRpcmVjdGx5LCBlLmcuOgoJLy8gYm9vbUNtZC5GbGFncygpLkJvb2xQKCJ0b2dnbGUiLCAidCIsIGZhbHNlLCAiSGVscCBtZXNzYWdlIGZvciB0b2dnbGUiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAtIGAtLW9mZnNldCBpbnRgIIlFkluCqYLngsyLl5ejgvCOd5LogsWCq4LcgrcK</text>
+        <text encoding="base64">CQlmb3IgXywgdiA6PSByYW5nZSBmaWxlcyB7CgkJCQoJCX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gYGAK</text>
+        <text encoding="base64">CXJldHJ5Q21kLkZsYWdzKCkuQm9vbFAoImxpc3QiLCJsIixmYWxzZSwijriUc4K1gr1TRUVEgvCDioNYg2eDQYNig3aCtYLcgrciKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSBgYmlnYAo=</text>
+        <text encoding="base64">CXNydW5DbWQuUGVyc2lzdGVudEZsYWdzKCkuQm9vbFAoImNvbnRpbnVlIiwgIkMiLCBmYWxzZSwgIoLHgrGCqYLFg1aDfoOFg4yBW4NWg4eDk4KqjriUc4K1gsSC4JGxgq+C3IK3IikK</text>
       </register>
-      <register name="7" type="8">
-        <text>A longer description that spans multiple lines and likely contains examples</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAtIGAtLW9mZnNldCBpbnRgIIlFkluCqYLngsyLl5ejgvCOd5LogsWCq4LcgrcK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cm93ZXJzIGFwcGxpY2F0aW9ucy4KIHRoZSBuZWVkZWQgZmlsZXMK</text>
+        <text encoding="base64">ICAgIC0gYGAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YW5kIHVzYWdlIG9mIHVzaW5nIHlvdXIgY29tbWFuZC4gRm9yIGV4YW1wbGU6Cg==</text>
+        <text encoding="base64">LSBgYmlnYAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
