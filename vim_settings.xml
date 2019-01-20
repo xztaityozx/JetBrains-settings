@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task_test.go" timestamp="1547990145371">
-        <mark key="[" line="66" column="12" />
-        <mark key="]" line="68" column="8" />
-        <mark key="." line="68" column="8" />
-        <mark key="^" line="68" column="8" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task_test.go" timestamp="1547998090939">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="69" column="34" />
+        <mark key="." line="69" column="34" />
+        <mark key="^" line="69" column="34" />
       </file>
       <file name="$USER_HOME$/Development/scala/intern2020_Scala_TakemuraKenta/app/post.scala" timestamp="1544540714983">
         <mark key="[" line="1" column="0" />
@@ -41,11 +41,12 @@
       <file name="/a.dummy" timestamp="1547907245295">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/root.go" timestamp="1547994656440">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="96" column="20" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/root.go" timestamp="1547997216373">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="104" column="20" />
+        <mark key="." line="104" column="20" />
+        <mark key="^" line="104" column="20" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/.travis.yml" timestamp="1547970607111">
         <mark key="]" line="0" column="0" />
@@ -125,12 +126,12 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" timestamp="1547990042567">
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" timestamp="1547997592319">
         <mark key="'" line="106" column="0" />
-        <mark key="[" line="121" column="22" />
-        <mark key="]" line="123" column="4" />
-        <mark key="." line="123" column="4" />
-        <mark key="^" line="123" column="4" />
+        <mark key="[" line="112" column="8" />
+        <mark key="]" line="112" column="8" />
+        <mark key="." line="112" column="8" />
+        <mark key="^" line="112" column="8" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/config_test.go" timestamp="1539661000341">
         <mark key="[" line="47" column="43" />
@@ -475,7 +476,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlmb3IgXywgdiA6PSByYW5nZSB0YXNrLlNFRUQuUGF0aHMgewoJCQlpZiBfLCBlcnIgOj0gb3MuU3RhdCh2KTsgZXJyICE9IG5pbCB7CgkJCQlhcy5GYWlsKCJjYW5ub3QgZmluZCIsdikKCQkJfSBlbHNlIHsKCQkJCW9zLlJlbW92ZUFsbCh2KQoJCQl9CgkJfQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YWN0dWFsIA==</text>
@@ -487,37 +488,37 @@
         <text encoding="base64">CWFsLkZpbGUuRmF0YWwoYXJncy4uLikKCWFsLlN0ZC5GYXRhbChhcmdzLi4uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlmb3IgXywgdiA6PSByYW5nZSB0YXNrLlNFRUQuUGF0aHMgewoJCQlpZiBfLCBlcnIgOj0gb3MuU3RhdCh2KTsgZXJyICE9IG5pbCB7CgkJCQlhcy5GYWlsKCJjYW5ub3QgZmluZCIsdikKCQkJfSBlbHNlIHsKCQkJCW9zLlJlbW92ZUFsbCh2KQoJCQl9CgkJfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWxvZy5TZXRPdXRwdXQob3MuU3RkZXJyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgkvLyBNdWx0aSBXcml0ZXIKCW13IDo9IGlvLk11bHRpV3JpdGVyKGNvbG9yYWJsZS5OZXdDb2xvcmFibGVTdGRlcnIoKSwgbG9nRmlsZSkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIENyZWF0ZSBhbmQgT3BlbiBMb2dGaWxlCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWxvZ0ZpbGUsIF8gOj0gb3MuT3BlbkZpbGUoLG9zLk9fV1JPTkxZfG9zLk9fQ1JFQVRFLDA2NDQpCg==</text>
+        <text encoding="base64">CgkvLyBNdWx0aSBXcml0ZXIKCW13IDo9IGlvLk11bHRpV3JpdGVyKGNvbG9yYWJsZS5OZXdDb2xvcmFibGVTdGRlcnIoKSwgbG9nRmlsZSkK</text>
       </register>
-      <register name="6" type="8">
-        <text>PathJoin(config.LogDir,time.Now().Format(&quot;2006-01-02-15-04-05&quot;))</text>
+      <register name="6" type="2">
+        <text encoding="base64">CS8vIENyZWF0ZSBhbmQgT3BlbiBMb2dGaWxlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWxvZy5TZXRPdXRwdXQobXcpCg==</text>
+        <text encoding="base64">CWxvZ0ZpbGUsIF8gOj0gb3MuT3BlbkZpbGUoLG9zLk9fV1JPTkxZfG9zLk9fQ1JFQVRFLDA2NDQpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CS8vIENyZWF0ZSBhbmQgT3BlbiBMb2dGaWxlCg==</text>
+      <register name="8" type="8">
+        <text>PathJoin(config.LogDir,time.Now().Format(&quot;2006-01-02-15-04-05&quot;))</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWxvZ0ZpbGUsIF8gOj0gb3MuT3BlbkZpbGUoUGF0aEpvaW4oY29uZmlnLkxvZ0Rpcix0aW1lLk5vdygpLkZvcm1hdCgiMjAwNi0wMS0wMi0xNS0wNC0wNSIpKSxvcy5PX1dST05MWXxvcy5PX0NSRUFURSwwNjQ0KQoKCS8vIE11bHRpIFdyaXRlcgoJbXcgOj0gaW8uTXVsdGlXcml0ZXIoY29sb3JhYmxlLk5ld0NvbG9yYWJsZVN0ZGVycigpLCBsb2dGaWxlKQo=</text>
+        <text encoding="base64">CWxvZy5TZXRPdXRwdXQobXcpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2xvZ3J1cy9sb2cvZw==</text>
