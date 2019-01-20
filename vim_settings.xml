@@ -41,12 +41,11 @@
       <file name="/a.dummy" timestamp="1547907245295">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/root.go" timestamp="1547988041961">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="131" column="15" />
-        <mark key="." line="131" column="15" />
-        <mark key="^" line="131" column="15" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/root.go" timestamp="1547994656440">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="96" column="20" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/.travis.yml" timestamp="1547970607111">
         <mark key="]" line="0" column="0" />
@@ -476,7 +475,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CmZ1bmMgKGFsIEF2dkxvZ2dlcikgQ2xvc2UoKSB7CglhbC5mcC5DbG9zZSgpCn0K</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YWN0dWFsIA==</text>
@@ -488,37 +487,37 @@
         <text encoding="base64">CWFsLkZpbGUuRmF0YWwoYXJncy4uLikKCWFsLlN0ZC5GYXRhbChhcmdzLi4uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmZ1bmMgKGFsIEF2dkxvZ2dlcikgQ2xvc2UoKSB7CglhbC5mcC5DbG9zZSgpCn0K</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZSBjbWQKCmltcG9ydCAoCgkiZ2l0aHViLmNvbS9zaXJ1cHNlbi9sb2dydXMiCgkib3MiCikKCnR5cGUgQXZ2TG9nZ2VyIHN0cnVjdCB7CglTdGQgKmxvZ3J1cy5Mb2dnZXIKCUZpbGUgKmxvZ3J1cy5Mb2dnZXIKCWZwICpvcy5GaWxlCn0KCmZ1bmMgTmV3QXZ2TG9nZ2VyKGZpbGUgc3RyaW5nKSBBdnZMb2dnZXIgewoJZnAsXyA6PSBvcy5PcGVuRmlsZShmaWxlLG9zLk9fQ1JFQVRFfG9zLk9fV1JPTkxZLDA2NDQpCglmIDo9IGxvZ3J1cy5OZXcoKQoJZi5TZXRPdXRwdXQoZnApCglzdGQgOj0gbG9ncnVzLk5ldygpCglzdGQuU2V0Rm9ybWF0dGVyKCZsb2dydXMuVGV4dEZvcm1hdHRlcntGb3JjZUNvbG9yczp0cnVlfSkKCXJldHVybiBBdnZMb2dnZXJ7CgkJZnA6IGZwLAoJCVN0ZDpzdGQsCgkJRmlsZTpmLAoJfQp9CgpmdW5jIChhbCBBdnZMb2dnZXIpIEZhdGFsKGFyZ3MgLi4uaW50ZXJmYWNle30pIHsKCWFsLkZpbGUuRmF0YWwoYXJncy4uLikKCWFsLlN0ZC5GYXRhbChhcmdzLi4uKQp9CgpmdW5jIChhbCBBdnZMb2dnZXIpIEZhdGFsbG4oYXJncyAuLi5pbnRlcmZhY2V7fSkgewoJYWwuRmlsZS5GYXRhbGxuKGFyZ3MuLi4pCglhbC5TdGQuRmF0YWxsbihhcmdzLi4uKQp9CgpmdW5jIChhbCBBdnZMb2dnZXIpIFdhcm4oYXJncyAuLi5pbnRlcmZhY2V7fSkgewoJCn0K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">CQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CgkvLyBNdWx0aSBXcml0ZXIKCW13IDo9IGlvLk11bHRpV3JpdGVyKGNvbG9yYWJsZS5OZXdDb2xvcmFibGVTdGRlcnIoKSwgbG9nRmlsZSkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CWYuU2V0Rm9ybWF0dGVyKCZsb2dydXMuVGV4dEZvcm1hdHRlcnt9KQo=</text>
+        <text encoding="base64">CS8vIENyZWF0ZSBhbmQgT3BlbiBMb2dGaWxlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlGb3JjZUNvbG9yOiB0cnVlLAoJfSkpCg==</text>
+        <text encoding="base64">CWxvZ0ZpbGUsIF8gOj0gb3MuT3BlbkZpbGUoLG9zLk9fV1JPTkxZfG9zLk9fQ1JFQVRFLDA2NDQpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnVuYyBUZXN0VGFza19Na0RpcnModCAqdGVzdGluZy5UKSB7Cgl0YXNrIDo9IE5ld1Rhc2soIkRzdCIsICJTcmMiLCAiVGFza05hbWUiLCAxLCAyMDAwLCAwLjMsIDAuMywKCQkxLjIsIDAuMiwgMC43LCAxLjAsIDIuNSwgNy41LCAxNy41LCBbXXN0cmluZ3siQSIsICJCIiwgIkMifSwgdHJ1ZSkKfQo=</text>
+      <register name="6" type="8">
+        <text>PathJoin(config.LogDir,time.Now().Format(&quot;2006-01-02-15-04-05&quot;))</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuYyBUZXN0TmV3VGFzayh0ICp0ZXN0aW5nLlQpIHsKCWFzIDo9IGFzc2VydC5OZXcodCkKCn0K</text>
+        <text encoding="base64">CWxvZy5TZXRPdXRwdXQobXcpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWV4cGVjdCA6PSBUYXNrewoJCVBhcmFsbGVsQ29uZmlnOiBQYXJhbGxlbENvbmZpZ3sKCQkJQ291bnRVcDogIDEwLAoJCQlXYXZlVmlldzogMjAsCgkJCUhTUElDRTogICAzMCwKCQl9LAoJCVBsb3RQb2ludDogUGxvdFBvaW50ewoJCQlTaWduYWxOYW1lczogW11zdHJpbmd7IkEiLCAiQiIsICJDIn0sCgkJCVN0b3A6ICAgICAgICAxNy41LAoJCQlTdGVwOiAgICAgICAgNy41LAoJCQlTdGFydDogICAgICAgMi41LAoJCX0sCgkJU0VFRDogU0VFRHsKCQkJU3RhcnQ6IDEsCgkJCUVuZDogICAyMDAwLAoJCX0sCgkJVGFza05hbWVGaWxlTmFtZTogIlRhc2tOYW1lIiwKCQlTcmNEaXI6ICAgICAgICAgICAiU3JjIiwKCQlEc3REaXI6ICAgICAgICAgICAiRHN0IiwKCQlWdHA6IFRyYW5zaXN0b3J7CgkJCVNpZ21hOiAgICAgMC43LAoJCQlEZXZpYXRpb246IDEuMCwKCQkJVGhyZXNob2xkOiAwLjIsCgkJfSwKCQlWdG46IFRyYW5zaXN0b3J7CgkJCVRocmVzaG9sZDogMC4zLAoJCQlEZXZpYXRpb246IDEuMiwKCQkJU2lnbWE6ICAgICAwLjMsCgkJfSwKCQlBdXRvUmVtb3ZlOnRydWUsCgl9CgoJY29uZmlnLlBhcmFsbGVsQ29uZmlnID0gUGFyYWxsZWxDb25maWd7CgkJQ291bnRVcDogIDEwLAoJCVdhdmVWaWV3OiAyMCwKCQlIU1BJQ0U6ICAgMzAsCgl9CgoJYWN0dWFsIDo9IE5ld1Rhc2soIkRzdCIsICJTcmMiLCAiVGFza05hbWUiLCAxLCAyMDAwLCAwLjMsIDAuMywKCQkxLjIsIDAuMiwgMC43LCAxLjAsIDIuNSwgNy41LCAxNy41LCBbXXN0cmluZ3siQSIsICJCIiwgIkMifSwgdHJ1ZSkKCglhcy5FcXVhbChleHBlY3QsIGFjdHVhbCkK</text>
+        <text encoding="base64">CS8vIENyZWF0ZSBhbmQgT3BlbiBMb2dGaWxlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl0LmxvZ2dlci5JbmZvKCkK</text>
+        <text encoding="base64">CWxvZ0ZpbGUsIF8gOj0gb3MuT3BlbkZpbGUoUGF0aEpvaW4oY29uZmlnLkxvZ0Rpcix0aW1lLk5vdygpLkZvcm1hdCgiMjAwNi0wMS0wMi0xNS0wNC0wNSIpKSxvcy5PX1dST05MWXxvcy5PX0NSRUFURSwwNjQ0KQoKCS8vIE11bHRpIFdyaXRlcgoJbXcgOj0gaW8uTXVsdGlXcml0ZXIoY29sb3JhYmxlLk5ld0NvbG9yYWJsZVN0ZGVycigpLCBsb2dGaWxlKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2xvZ3J1cy9sb2cvZw==</text>
