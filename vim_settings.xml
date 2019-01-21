@@ -126,12 +126,12 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" timestamp="1548037780925">
-        <mark key="'" line="125" column="0" />
-        <mark key="[" line="18" column="1" />
-        <mark key="]" line="24" column="10" />
-        <mark key="." line="24" column="10" />
-        <mark key="^" line="24" column="10" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" timestamp="1548045726446">
+        <mark key="'" line="125" column="4" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="152" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/config_test.go" timestamp="1539661000341">
         <mark key="[" line="47" column="43" />
@@ -473,11 +473,15 @@
       <jump line="106" column="0" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" />
       <jump line="7" column="31" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task_test.go" />
       <jump line="16" column="18" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task_test.go" />
-      <jump line="125" column="0" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" />
+      <jump line="34" column="30" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" />
+      <jump line="32" column="33" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" />
+      <jump line="118" column="4" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" />
+      <jump line="18" column="0" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" />
+      <jump line="125" column="4" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlmb3IgXywgdiA6PSByYW5nZSB0YXNrLlNFRUQuUGF0aHMgewoJCQlpZiBfLCBlcnIgOj0gb3MuU3RhdCh2KTsgZXJyICE9IG5pbCB7CgkJCQlhcy5GYWlsKCJjYW5ub3QgZmluZCIsdikKCQkJfSBlbHNlIHsKCQkJCW9zLlJlbW92ZUFsbCh2KQoJCQl9CgkJfQo=</text>
+        <text encoding="base64">ZnVuYyAodCAqKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YWN0dWFsIA==</text>
@@ -489,40 +493,40 @@
         <text encoding="base64">CWFsLkZpbGUuRmF0YWwoYXJncy4uLikKCWFsLlN0ZC5GYXRhbChhcmdzLi4uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlmb3IgXywgdiA6PSByYW5nZSB0YXNrLlNFRUQuUGF0aHMgewoJCQlpZiBfLCBlcnIgOj0gb3MuU3RhdCh2KTsgZXJyICE9IG5pbCB7CgkJCQlhcy5GYWlsKCJjYW5ub3QgZmluZCIsdikKCQkJfSBlbHNlIHsKCQkJCW9zLlJlbW92ZUFsbCh2KQoJCQl9CgkJfQo=</text>
+        <text encoding="base64">ZnVuYyAodCAqKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWxvZy5TZXRPdXRwdXQob3MuU3RkZXJyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ZnVuYyBOZXdUYXNrRnJvbUNvbmZpZygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlmb3IgXywgdiA6PSByYW5nZSB0YXNrLlNFRUQuUGF0aHMgewoJCQlpZiBfLCBlcnIgOj0gb3MuU3RhdCh2KTsgZXJyICE9IG5pbCB7CgkJCQlhcy5GYWlsKCJjYW5ub3QgZmluZCIsdikKCQkJfSBlbHNlIHsKCQkJCW9zLlJlbW92ZUFsbCh2KQoJCQl9CgkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgkvLyBNdWx0aSBXcml0ZXIKCW13IDo9IGlvLk11bHRpV3JpdGVyKGNvbG9yYWJsZS5OZXdDb2xvcmFibGVTdGRlcnIoKSwgbG9nRmlsZSkK</text>
+        <text encoding="base64">CWxvZy5TZXRPdXRwdXQob3MuU3RkZXJyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIENyZWF0ZSBhbmQgT3BlbiBMb2dGaWxlCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWxvZ0ZpbGUsIF8gOj0gb3MuT3BlbkZpbGUoLG9zLk9fV1JPTkxZfG9zLk9fQ1JFQVRFLDA2NDQpCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="8">
-        <text>PathJoin(config.LogDir,time.Now().Format(&quot;2006-01-02-15-04-05&quot;))</text>
+      <register name="8" type="2">
+        <text encoding="base64">CgkvLyBNdWx0aSBXcml0ZXIKCW13IDo9IGlvLk11bHRpV3JpdGVyKGNvbG9yYWJsZS5OZXdDb2xvcmFibGVTdGRlcnIoKSwgbG9nRmlsZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWxvZy5TZXRPdXRwdXQobXcpCg==</text>
+        <text encoding="base64">CS8vIENyZWF0ZSBhbmQgT3BlbiBMb2dGaWxlCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2xvZ3J1cy9sb2cvZw==</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -552,7 +556,6 @@
         <entry>logrus</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL4FALyAgL2c=</entry>
         <entry>action RenameAttribute</entry>
         <entry>action AceTarget</entry>
         <entry>action AceFullText</entry>
@@ -568,10 +571,11 @@
         <entry>action GotoTest</entry>
         <entry>action TestTreePopupMenu</entry>
         <entry>action ReformatCode</entry>
-        <entry>action RenameElement</entry>
         <entry>%s/Println/Info/g</entry>
         <entry encoding="base64">JzwsJz5zL2xvZ3J1bi9sb2cvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2xvZ3J1cy9sb2cvZw==</entry>
+        <entry>source C:\Users\sldl77\.ideavimrc</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
