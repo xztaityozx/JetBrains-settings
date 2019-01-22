@@ -144,12 +144,12 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" timestamp="1548165423812">
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" timestamp="1548167338912">
         <mark key="'" line="65" column="8" />
-        <mark key="[" line="38" column="35" />
-        <mark key="]" line="38" column="35" />
-        <mark key="^" line="44" column="4" />
-        <mark key="." line="38" column="35" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="20" />
+        <mark key="^" line="50" column="20" />
+        <mark key="." line="50" column="20" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/config_test.go" timestamp="1539661000341">
         <mark key="[" line="47" column="43" />
