@@ -9,12 +9,11 @@
         <mark key="." line="64" column="32" />
         <mark key="^" line="69" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/simulationfile.go" timestamp="1548125988876">
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/simulationfile.go" timestamp="1548144131727">
         <mark key="'" line="10" column="4" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="37" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/transistor.go" timestamp="1548125001115">
         <mark key="[" line="3" column="4" />
@@ -27,8 +26,11 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/config.go" timestamp="1548139557694">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/config.go" timestamp="1548143870010">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/log.go" timestamp="1547975769383">
         <mark key="[" line="2" column="0" />
@@ -139,7 +141,12 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" timestamp="1548138116838" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" timestamp="1548144133104">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/config_test.go" timestamp="1539661000341">
         <mark key="[" line="47" column="43" />
         <mark key="]" line="8" column="32" />
@@ -394,12 +401,12 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/make.go" timestamp="1548127122508">
-        <mark key="'" line="47" column="75" />
-        <mark key="[" line="33" column="50" />
-        <mark key="]" line="34" column="23" />
-        <mark key="." line="34" column="23" />
-        <mark key="^" line="34" column="23" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/make.go" timestamp="1548144124433">
+        <mark key="'" line="51" column="75" />
+        <mark key="[" line="79" column="68" />
+        <mark key="]" line="85" column="61" />
+        <mark key="." line="85" column="61" />
+        <mark key="^" line="85" column="61" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/FileUtils.go" timestamp="1548124041781">
         <mark key="'" line="82" column="0" />
@@ -517,11 +524,11 @@
       <jump line="9" column="11" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>PersistentFlags()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gQ3JlYXRlIFNpbXVsYXRpb25GaWxlcyBzdHJ1Y3QKLy8gcmV0dXJuOiBTaW11bGF0aW9uRmlsZXMgc3RydWN0CmZ1bmMgTmV3U2ltdWxhdGlvbkZpbGVzKGFjZVNjcmlwdCBzdHJpbmcsIHMgU0VFRCwgdnRwLCB2dG4gVHJhbnNpc3RvcikgU2ltdWxhdGlvbkZpbGVzIHsKCXZhciBydCBTaW11bGF0aW9uRmlsZXMKCXJ0LkFDRVNjcmlwdCA9IGFjZVNjcmlwdAoKCXJldHVybiBydAp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>Vtn</text>
@@ -530,40 +537,40 @@
         <text>PersistentFlags()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNvYnJhLk9uSW5pdGlhbGl6ZShpbml0Q29uZmlnKQo=</text>
+        <text encoding="base64">Ly8gQ3JlYXRlIFNpbXVsYXRpb25GaWxlcyBzdHJ1Y3QKLy8gcmV0dXJuOiBTaW11bGF0aW9uRmlsZXMgc3RydWN0CmZ1bmMgTmV3U2ltdWxhdGlvbkZpbGVzKGFjZVNjcmlwdCBzdHJpbmcsIHMgU0VFRCwgdnRwLCB2dG4gVHJhbnNpc3RvcikgU2ltdWxhdGlvbkZpbGVzIHsKCXZhciBydCBTaW11bGF0aW9uRmlsZXMKCXJ0LkFDRVNjcmlwdCA9IGFjZVNjcmlwdAoKCXJldHVybiBydAp9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vcm9vdENtZC5QZXJzaXN0ZW50RmxhZ3MoKS5JbnQoInBDb3VudFVwIiwgMiwgIpCUgqaP44KwgsyVwJfxkJSCxYK3IikKCS8vCg==</text>
+        <text encoding="base64">CQkJbG9nLkluZm8oIk1ha2VUYXNrRmlsZXM6IFdyaXRlIHRhc2sgZmlsZSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUxvZ0RpciBzdHJpbmcKfQo=</text>
+        <text encoding="base64">CQkJRlUuVHJ5TWtEaXIocGF0aCkKCQkJCgkJCXBhdGggPSBQYXRoSm9pbihwYXRoLCApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ci8vZnVuYyBOZXdUYXNrKCkgVGFzayB7Cg==</text>
+        <text encoding="base64">CWNvYnJhLk9uSW5pdGlhbGl6ZShpbml0Q29uZmlnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUxvZ0RpciBzdHJpbmcKfQo=</text>
+        <text encoding="base64">CS8vcm9vdENtZC5QZXJzaXN0ZW50RmxhZ3MoKS5JbnQoInBDb3VudFVwIiwgMiwgIpCUgqaP44KwgsyVwJfxkJSCxYK3IikKCS8vCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vTWFjaGluZU5hbWUgc3RyaW5nCgkvL0xvZ0RpciBzdHJpbmcK</text>
+        <text encoding="base64">CUxvZ0RpciBzdHJpbmcKfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXZhciBjIENvbmZpZwo=</text>
+        <text encoding="base64">Ci8vZnVuYyBOZXdUYXNrKCkgVGFzayB7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIGNvbmZpZyA9IENvbmZpZ3t9Cg==</text>
+        <text encoding="base64">CUxvZ0RpciBzdHJpbmcKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWxvZ3J1cy5JbmZvKGNmZ0ZpbGUpCg==</text>
+        <text encoding="base64">CS8vTWFjaGluZU5hbWUgc3RyaW5nCgkvL0xvZ0RpciBzdHJpbmcK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -594,7 +601,6 @@
         <entry>Vtn</entry>
       </history-search>
       <history-cmd>
-        <entry>action AceTargetAction cmd</entry>
         <entry encoding="base64">YWN0aW9uIEFjZVRhcmdldEFjdGlvbiA=</entry>
         <entry>action AceAction</entry>
         <entry>e ~/.idevimrc</entry>
@@ -607,13 +613,14 @@
         <entry encoding="base64">JzwsJz5zL2xvZ3J1cy9sb2cvZw==</entry>
         <entry>source C:\Users\sldl77\.ideavimrc</entry>
         <entry>action RenameElement</entry>
-        <entry>action ReformatCode</entry>
         <entry>action AceTargetAction</entry>
         <entry encoding="base64">JzwsJz5zL3Avbi9n</entry>
         <entry encoding="base64">JzwsJz5zL1Z0bi9WdHAvZw==</entry>
         <entry>action Back</entry>
         <entry>action CommentByLineComment</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry>action ReformatCode</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
