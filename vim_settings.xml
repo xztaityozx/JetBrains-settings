@@ -11,10 +11,10 @@
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/simulationfile.go" timestamp="1548125988876">
         <mark key="'" line="10" column="4" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="38" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/transistor.go" timestamp="1548125001115">
         <mark key="[" line="3" column="4" />
@@ -27,11 +27,8 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/config.go" timestamp="1548129053378">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/config.go" timestamp="1548139557694">
+        <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/log.go" timestamp="1547975769383">
         <mark key="[" line="2" column="0" />
@@ -52,11 +49,12 @@
       <file name="/a.dummy" timestamp="1547907245295">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/root.go" timestamp="1548128488420">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="147" column="0" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/root.go" timestamp="1548139793020">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="71" column="93" />
+        <mark key="]" line="71" column="99" />
+        <mark key="." line="71" column="99" />
+        <mark key="^" line="71" column="99" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/.travis.yml" timestamp="1547970607111">
         <mark key="]" line="0" column="0" />
@@ -141,13 +139,7 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" timestamp="1548138116838">
-        <mark key="'" line="9" column="11" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" timestamp="1548138116838" />
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/config_test.go" timestamp="1539661000341">
         <mark key="[" line="47" column="43" />
         <mark key="]" line="8" column="32" />
@@ -300,7 +292,7 @@
         <mark key="]" line="6" column="1" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548083947589">
+      <file name="/Dummy.txt" timestamp="1548139868484">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/plotpoint_test.go" timestamp="1548074745066">
@@ -525,50 +517,50 @@
       <jump line="9" column="11" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ci8vZnVuYyBOZXdUYXNrKCkgVGFzayB7Cg==</text>
+      <register name="&quot;" type="8">
+        <text>PersistentFlags()</text>
       </register>
       <register name="-" type="4">
-        <text>s)</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>Vtn</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CXZpcGVyLkJpbmRQRmxhZygiRGVmYXVsdFNFRURSYW5nZS5TdGFydCIsbWFrZUNtZC5GbGFncygpLkxvb2t1cCgic3RhcnQiKSkK</text>
+      <register name="0" type="8">
+        <text>PersistentFlags()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci8vZnVuYyBOZXdUYXNrKCkgVGFzayB7Cg==</text>
+        <text encoding="base64">CWNvYnJhLk9uSW5pdGlhbGl6ZShpbml0Q29uZmlnKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUxvZ0RpciBzdHJpbmcKfQo=</text>
+        <text encoding="base64">CS8vcm9vdENtZC5QZXJzaXN0ZW50RmxhZ3MoKS5JbnQoInBDb3VudFVwIiwgMiwgIpCUgqaP44KwgsyVwJfxkJSCxYK3IikKCS8vCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vTWFjaGluZU5hbWUgc3RyaW5nCgkvL0xvZ0RpciBzdHJpbmcK</text>
+        <text encoding="base64">CUxvZ0RpciBzdHJpbmcKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXZhciBjIENvbmZpZwo=</text>
+        <text encoding="base64">Ci8vZnVuYyBOZXdUYXNrKCkgVGFzayB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyIGNvbmZpZyA9IENvbmZpZ3t9Cg==</text>
+        <text encoding="base64">CUxvZ0RpciBzdHJpbmcKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWxvZ3J1cy5JbmZvKGNmZ0ZpbGUpCg==</text>
+        <text encoding="base64">CS8vTWFjaGluZU5hbWUgc3RyaW5nCgkvL0xvZ0RpciBzdHJpbmcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CXZhciBjIENvbmZpZwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIGNvbmZpZyA9IENvbmZpZ3t9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWxvZ3J1cy5JbmZvKGNmZ0ZpbGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</text>
