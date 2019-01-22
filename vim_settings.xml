@@ -9,12 +9,12 @@
         <mark key="." line="64" column="32" />
         <mark key="^" line="69" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/simulationfile.go" timestamp="1548122788546">
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/simulationfile.go" timestamp="1548124389539">
         <mark key="'" line="15" column="4" />
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/transistor.go" timestamp="1548076859646">
         <mark key="[" line="1" column="0" />
@@ -26,6 +26,12 @@
         <mark key="]" line="1" column="113" />
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
+      </file>
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/config.go" timestamp="1548124571837">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+        <mark key="^" line="11" column="21" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/log.go" timestamp="1547975769383">
         <mark key="[" line="2" column="0" />
@@ -130,11 +136,11 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" timestamp="1548077442011">
-        <mark key="[" line="86" column="30" />
-        <mark key="]" line="96" column="30" />
-        <mark key="." line="96" column="30" />
-        <mark key="^" line="96" column="30" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" timestamp="1548124556182">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/config_test.go" timestamp="1539661000341">
         <mark key="[" line="47" column="43" />
@@ -391,7 +397,7 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/FileUtils.go" timestamp="1548083942865">
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/FileUtils.go" timestamp="1548124041781">
         <mark key="'" line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" timestamp="1541947386242">
@@ -402,7 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="23" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" />
       <jump line="34" column="35" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" />
       <jump line="1092" column="28" filename="C:/Go/src/cmd/go/internal/get/vcs.go" />
       <jump line="26" column="0" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extaract_test.go" />
@@ -502,13 +507,14 @@
       <jump line="20" column="0" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/config.go" />
       <jump line="9" column="4" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/simulationfile.go" />
       <jump line="25" column="0" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" />
+      <jump line="114" column="0" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CVBhdGhzIFtdc3RyaW5nCg==</text>
+        <text encoding="base64">CnR5cGUgU0VFRCBzdHJ1Y3QgewoJU3RhcnQgaW50CglFbmQgaW50Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>s)</text>
       </register>
       <register name="/" type="4">
         <text>logrus</text>
@@ -517,37 +523,37 @@
         <text encoding="base64">CXZpcGVyLkJpbmRQRmxhZygiUGxvdFBvaW50LlN0ZXAiLG1ha2VDbWQuRmxhZ3MoKS5Mb29rdXAoInN0ZXAiKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CVBhdGhzIFtdc3RyaW5nCg==</text>
+        <text encoding="base64">CnR5cGUgU0VFRCBzdHJ1Y3QgewoJU3RhcnQgaW50CglFbmQgaW50Cn0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXJldHVybiBydAo=</text>
+        <text encoding="base64">ZnVuYyAocyBTaW11bGF0aW9uRGlyZWN0b3JpZXMpIENvbXBhcmUodCBTaW11bGF0aW9uRmlsZQo=</text>
       </register>
-      <register name="3" type="8">
-        <text>pp PlotPoint,</text>
+      <register name="3" type="2">
+        <text encoding="base64">CVRhc2tEaXIgICAgICAgIHN0cmluZwoJRHN0RGlyICAgICAgICAgc3RyaW5nCglTcmNEaXIgICAgICAgICBzdHJpbmcKCVNsYWNrQ29uZmlnICAgIFNsYWNrQ29uZmlnCglQYXJhbGxlbENvbmZpZyBQYXJhbGxlbENvbmZpZwoJTG9nRGlyICAgICAgICAgc3RyaW5nCglNYWNoaW5lTmFtZSAgICBzdHJpbmcKCVBsb3RQb2ludCAgICAgIFBsb3RQb2ludAoJVGVtcGxhdGVzICAgICAgVGVtcGxhdGVzCg==</text>
       </register>
-      <register name="4" type="8">
-        <text>base string,</text>
+      <register name="4" type="2">
+        <text encoding="base64">cGFja2FnZSBjbWQKCmltcG9ydCAoCgkiZm10IgoJIm9zIgopCgp0eXBlIFRhc2sgc3RydWN0IHsKCURzdERpciAgICAgICAgICAgc3RyaW5nCglTcmNEaXIgICAgICAgICAgIHN0cmluZwoJVGFza05hbWVGaWxlTmFtZSBzdHJpbmcKCUF1dG9SZW1vdmUgICAgICAgYm9vbAoJU0VFRCAgICAgICAgICAgICBTRUVECglQbG90UG9pbnQgICAgICAgIFBsb3RQb2ludAoJUGFyYWxsZWxDb25maWcgICBQYXJhbGxlbENvbmZpZwoJVnRwICAgICAgICAgICAgICBUcmFuc2lzdG9yCglWdG4gICAgICAgICAgICAgIFRyYW5zaXN0b3IKCUZpbGVzICAgICAgICAgICAgW11TaW11bGF0aW9uRmlsZXMKCUJhc2VEaXIgICAgICAgICAgc3RyaW5nCn0KCnR5cGUgU0VFRCBzdHJ1Y3QgewoJU3RhcnQgaW50CglFbmQgICBpbnQKCVBhdGhzIFtdc3RyaW5nCn0KCi8vIENvbXBhcmUgZnVuYyBmb3IgU0VFRCBzdHJ1Y3QKZnVuYyAocyBTRUVEKSBDb21wYXJlKHQgU0VFRCkgYm9vbCB7CglyZXR1cm4gcy5FbmQgPT0gdC5FbmQgJiYgcy5TdGFydCA9PSB0LlN0YXJ0Cn0KCi8vIE5ld1Rhc2s6IINeg1iDToLwjeyC6YFDiPiQlJG9greCrILEg0WDUILpCmZ1bmMgTmV3VGFzayhkc3QsIHNyYywgZm5hbWUgc3RyaW5nLAoJc3N0YXJ0LCBzZW5kIGludCwKCW50aCwgbnNpZ21hLCBuZGV2LCBwdGgsIHBzaWdtYSwgcGRldiBmbG9hdDY0LAoJYXIgYm9vbCkgVGFzayB7CglyZXR1cm4gVGFza3sKCQlEc3REaXI6ICAgICAgICAgICBkc3QsCgkJU3JjRGlyOiAgICAgICAgICAgc3JjLAoJCVRhc2tOYW1lRmlsZU5hbWU6IGZuYW1lLAoJCVNFRUQ6IFNFRUR7CgkJCVN0YXJ0OiBzc3RhcnQsCgkJCUVuZDogICBzZW5kLAoJCX0sCgkJUGxvdFBvaW50OiBjb25maWcuUGxvdFBvaW50LAoJCVZ0cDogVHJhbnNpc3RvcnsKCQkJVGhyZXNob2xkOiBwdGgsCgkJCURldmlhdGlvbjogcGRldiwKCQkJU2lnbWE6ICAgICBwc2lnbWEsCgkJfSwKCQlWdG46IFRyYW5zaXN0b3J7CgkJCVRocmVzaG9sZDogbnRoLAoJCQlEZXZpYXRpb246IG5kZXYsCgkJCVNpZ21hOiAgICAgbnNpZ21hLAoJCX0sCgkJUGFyYWxsZWxDb25maWc6IGNvbmZpZy5QYXJhbGxlbENvbmZpZywKCQlBdXRvUmVtb3ZlOiAgICAgYXIsCgl9Cn0KCi8vIENvbXBhcmUgZnVuYyBmb3IgVGFzayBzdHJ1Y3QKZnVuYyAodCBUYXNrKSBDb21wYXJlKHMgVGFzaykgYm9vbCB7CgoJaWYgbGVuKHQuRmlsZXMpICE9IGxlbihzLkZpbGVzKSB7CgkJcmV0dXJuIGZhbHNlCgl9CgoJZm9yIGksIHYgOj0gcmFuZ2UgdC5GaWxlcyB7CgkJaWYgIXYuQ29tcGFyZShzLkZpbGVzW2ldKSB7CgkJCXJldHVybiBmYWxzZQoJCX0KCX0KCglyZXR1cm4gdC5Ec3REaXIgPT0gcy5Ec3REaXIgJiYKCQl0LlNFRUQuQ29tcGFyZShzLlNFRUQpICYmCgkJdC5UYXNrTmFtZUZpbGVOYW1lID09IHMuVGFza05hbWVGaWxlTmFtZSAmJgoJCXQuUGFyYWxsZWxDb25maWcuQ29tcGFyZShzLlBhcmFsbGVsQ29uZmlnKSAmJgoJCXQuU3JjRGlyID09IHMuU3JjRGlyICYmCgkJdC5WdHAuQ29tcGFyZShzLlZ0cCkgJiYKCQl0LlZ0bi5Db21wYXJlKHMuVnRuKSAmJgoJCXQuUGxvdFBvaW50LkNvbXBhcmUocy5QbG90UG9pbnQpICYmCgkJdC5BdXRvUmVtb3ZlID09IHMuQXV0b1JlbW92ZQoKfQoKZnVuYyAodCAqVGFzaykgTWtEaXJzKCkgZXJyb3IgewoJbG9nLkluZm8oIlRhc2suTWtEaXJzIikKCWxvZy5JbmZvKCJEc3Q6ICIsIHQuRHN0RGlyKQoKCWJhc2UgOj0gUGF0aEpvaW4odC5Ec3REaXIsICJSYW5nZVNFRUQiLCBmbXQuU3ByaW50ZigiVnRuJS40Zi1TaWdtYSUuNGYiLCB0LlZ0bi5UaHJlc2hvbGQsIHQuVnRuLlNpZ21hKSwKCQlmbXQuU3ByaW50ZigiVnRwJS40Zi1TaWdtYSUuNGYiLCB0LlZ0cC5UaHJlc2hvbGQsIHQuVnRwLlNpZ21hKSkKCglmb3IgcyA6PSB0LlNFRUQuU3RhcnQ7IHMgPD0gdC5TRUVELkVuZDsgcysrIHsKCQlwIDo9IFBhdGhKb2luKGJhc2UsIGZtdC5TcHJpbnRmKCJTRUVEJTA1ZC5jc3YiLCBzKSkKCQlGVS5UcnlNa0RpcihwKQoJCXQuU0VFRC5QYXRocyA9IGFwcGVuZCh0LlNFRUQuUGF0aHMsIHApCgl9Cgl0LkJhc2VEaXIgPSBiYXNlCgoJXywgZXJyIDo9IG9zLlN0YXQoYmFzZSkKCglyZXR1cm4gZXJyCn0KCmZ1bmMgKHQgKlRhc2spIE1rRmlsZXMoKSBlcnJvciB7Cglsb2cuSW5mbygiVGFzay5Na0ZpbGVzIikKCglhY2VQYXRoLCBlcnIgOj0gdC5QbG90UG9pbnQuTWtBQ0VTY3JpcHQodC5CYXNlRGlyKQoJaWYgZXJyICE9IG5pbCB7CgkJbG9nLkZhdGFsKGVycikKCX0KCglyZXR1cm4gbmlsCn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CglhY2VTY3JpcHQsIGVyciA6PSBwcC5Na0FDRVNjcmlwdChiYXNlKQoJaWYgZXJyICE9IG5pbCB7CgkJbG9nLkZhdGFsKGVycikKCX0KCQoJCg==</text>
+        <text encoding="base64">CVBhdGhzIFtdc3RyaW5nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWFjZVNjcmlwdCwgZXJyIDo9IHBwLk1rQUNFU2NyaXB0KCkK</text>
+        <text encoding="base64">CXJldHVybiBydAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dHlwZSBUcmFuc2lzdG9yIHN0cnVjdCB7CglUaHJlc2hvbGQgZmxvYXQ2NAoJU2lnbWEgICAgIGZsb2F0NjQKCURldmlhdGlvbiBmbG9hdDY0Cn0KCi8vIENvbXBhcmUgZnVuYyBmb3IgVHJhbnNpc3RvciBzdHJ1Y3QKZnVuYyAodCBUcmFuc2lzdG9yKSBDb21wYXJlKHMgVHJhbnNpc3RvcikgYm9vbCB7CglyZXR1cm4gdC5TaWdtYSA9PSBzLlNpZ21hICYmIHQuRGV2aWF0aW9uID09IHMuRGV2aWF0aW9uICYmIHQuVGhyZXNob2xkID09IHMuVGhyZXNob2xkCn0K</text>
+      <register name="7" type="8">
+        <text>pp PlotPoint,</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dHlwZSBTaW11bGF0aW9uRmlsZXMgc3RydWN0IHsKCUFkZEZpbGUgICAgICAgc3RyaW5nCglTUElTY3JpcHQgICAgIHN0cmluZwoJQUNFU2NyaXB0ICAgICBzdHJpbmcKCVJlc3VsdHNYTUwgICAgc3RyaW5nCglSZXN1bHRzTWFwWE1MIHN0cmluZwoJTW9kZWxGaWxlICAgICBzdHJpbmcKfQoKZnVuYyAocyBTaW11bGF0aW9uRmlsZXMpIENvbXBhcmUodCBTaW11bGF0aW9uRmlsZXMpIGJvb2wgewoJcmV0dXJuIHMuQUNFU2NyaXB0ID09IHQuQUNFU2NyaXB0ICYmCgkJcy5SZXN1bHRzTWFwWE1MID09IHQuUmVzdWx0c01hcFhNTCAmJgoJCXQuUmVzdWx0c1hNTCA9PSBzLlJlc3VsdHNYTUwgJiYKCQlzLlNQSVNjcmlwdCA9PSB0LlNQSVNjcmlwdCAmJgoJCXMuQWRkRmlsZSA9PSB0LkFkZEZpbGUgJiYKCQlzLk1vZGVsRmlsZSA9PSB0Lk1vZGVsRmlsZQp9Cg==</text>
+      <register name="8" type="8">
+        <text>base string,</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dHlwZSBUZW1wbGF0ZXMgc3RydWN0IHsKCUFkZEZpbGUgICAgICAgc3RyaW5nCglTUElGaWxlICAgICAgIHN0cmluZwoJUmVzdWx0c1hNTCAgICBzdHJpbmcKCVJlc3VsdHNNYXBYTUwgc3RyaW5nCn0K</text>
+        <text encoding="base64">CglhY2VTY3JpcHQsIGVyciA6PSBwcC5Na0FDRVNjcmlwdChiYXNlKQoJaWYgZXJyICE9IG5pbCB7CgkJbG9nLkZhdGFsKGVycikKCX0KCQoJCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
