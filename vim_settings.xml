@@ -188,11 +188,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/avv/cmd/resultsxml.go" timestamp="1548221659025">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="48" column="6" />
-        <mark key="." line="48" column="6" />
-        <mark key="^" line="16" column="36" />
+      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/avv/cmd/resultsxml.go" timestamp="1548227067727">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="94" column="71" />
+        <mark key="." line="94" column="71" />
+        <mark key="^" line="94" column="71" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/.gitignore" timestamp="1540913592540">
         <mark key="[" line="0" column="0" />
@@ -543,49 +543,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Object</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
         <text>Vtn</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CVhNTE5hbWUgeG1sLk5hbWUgYHhtbDoiY29sbGVjdGlvbiJgCg==</text>
+      <register name="0" type="8">
+        <text>XML</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXhtbC5EaXJlY3RpdmV7CgkJCgl9Cg==</text>
+        <text encoding="base64">CWdpU3RyaW5nIHN0cmluZyA9ICJnaVN0cmluZyIKCXRyYW4gc3RyaW5nID0gInRyYW4iCglyZXN1bHRGaWxlcyA9ICJyZXN1bHRGaWxlcyIKCXNhUmVzdWx0RmlsZSA9ICJzYVJlc3VsdEZpbGUiCglzYVJlc3VsdHMgPSAic2FSZXN1bHRzIgoJcmVzdWx0VHlwZSA9ICJyZXN1bHRUeXBlIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXhtbC5BdHRyewoJCU5hbWU6Cgl9Cgl9Cg==</text>
+        <text encoding="base64">CU1PTlRFX0NBUkxPPSJNT04iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXZhciBydCBjb2xsZWN0aW9uCgoJcmV0dXJuIHJ0Cg==</text>
+        <text encoding="base64">CXJlc3VsdEZpbGVzIDo9ICJyZXN1bHRGaWxlcyIKCXNhUmVzdWx0RmlsZSA6PSAic2FSZXN1bHRGaWxlIgoJZ2lTdHJpbmcgOj0gImdpU3RyaW5nIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCUNvbGxlY3Rpb25zOgo=</text>
+        <text encoding="base64">CglzYVJlc3VsdHMgOj0gInNhUmVzdWx0cyIKCWdpU3RyaW5nIDo9ICJnaVN0cmluZyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CW91dGVyIDo9IG9iamVjdHsKCQlWZXJzaW9uOiIxIiwKCQlUeXBlOiJzYVJlc3VsdHMiLAoJCU5hbWU6InNhUmVzdWx0cyIsCgl9Cg==</text>
+        <text encoding="base64">CXhtbC5EaXJlY3RpdmV7CgkJCgl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHlwZSBBdHRyaWJ1dGUgc3RydWN0IHsKfQo=</text>
+        <text encoding="base64">CXhtbC5BdHRyewoJCU5hbWU6Cgl9Cgl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHlwZSBBdHRyaWJ1dGUgc3RydWN0IHsKfQo=</text>
+        <text encoding="base64">CXZhciBydCBjb2xsZWN0aW9uCgoJcmV0dXJuIHJ0Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CVhNTE5hbWUgeG1sLk5hbWUgYHhtbDoiYXR0cmlidXRlImAK</text>
+        <text encoding="base64">CQkJCUNvbGxlY3Rpb25zOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWlmIF8sIGVyciA6PSBvcy5TdGF0KHQuU2ltdWxhdGlvbkZpbGVzLkFkZEZpbGUuUGF0aCk7IGVyciAhPSBuaWwgewoJCXJldHVybiBlcnIKCX0K</text>
+        <text encoding="base64">CW91dGVyIDo9IG9iamVjdHsKCQlWZXJzaW9uOiIxIiwKCQlUeXBlOiJzYVJlc3VsdHMiLAoJCU5hbWU6InNhUmVzdWx0cyIsCgl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
