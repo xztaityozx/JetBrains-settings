@@ -68,10 +68,11 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/runtask.go" timestamp="1548306569281">
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/runtask.go" timestamp="1548307588093">
         <mark key="[" line="9" column="1" />
-        <mark key="]" line="9" column="1" />
-        <mark key="." line="3" column="0" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="13" column="28" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/UHA/cmd/retry.go" timestamp="1547893186550">
         <mark key="[" line="236" column="0" />
@@ -261,8 +262,10 @@
         <mark key="]" line="6" column="1" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/runtask_test.go" timestamp="1548306656456">
-        <mark key="[" line="0" column="11" />
+      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/runtask_test.go" timestamp="1548307438353">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1548251825712">
         <mark key="[" line="0" column="0" />
@@ -496,7 +499,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dHlwZSBTaW11bGF0aW9uUmVzdWx0IHN0cnVjdCB7CglUYXNrICAgVGFzawoJU3RhdHVzIGJvb2wKCUVycm9yICBlcnJvcgp9Cg==</text>
+        <text encoding="base64">CQlGaW5pc2hUaW1lOnRpbWUuTm93KCksCg==</text>
       </register>
       <register name="-" type="4">
         <text>Test</text>
@@ -508,37 +511,37 @@
         <text encoding="base64">CUZVLlRyeU1rRGlyKGNvbmZpZy5EZWZhdWx0LlNpbXVsYXRpb25EaXJlY3Rvcmllcy5CYXNlRGlyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dHlwZSBTaW11bGF0aW9uUmVzdWx0IHN0cnVjdCB7CglUYXNrICAgVGFzawoJU3RhdHVzIGJvb2wKCUVycm9yICBlcnJvcgp9Cg==</text>
+        <text encoding="base64">CQlGaW5pc2hUaW1lOnRpbWUuTm93KCksCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHlwZSBSdW5UYXNrIHN0cnVjdCB7CglUYXNrcyAgICAgIFtdVGFzawoJQmVnaW5UaW1lICB0aW1lLlRpbWUKCUZpbmlzaFRpbWUgdGltZS5UaW1lCglSZXN1bHRzICAgIFtdU2ltdWxhdGlvblJlc3VsdAp9Cg==</text>
+        <text encoding="base64">dHlwZSBTaW11bGF0aW9uUmVzdWx0IHN0cnVjdCB7CglUYXNrICAgVGFzawoJU3RhdHVzIGJvb2wKCUVycm9yICBlcnJvcgp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHlwZSBSdW5UYXNrIHN0cnVjdCB7CglUYXNrcyAgICAgIFtdVGFzawoJQmVnaW5UaW1lICB0aW1lLlRpbWUKCUZpbmlzaFRpbWUgdGltZS5UaW1lCglSZXN1bHRzICAgIFtdU2ltdWxhdGlvblJlc3VsdAp9Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CS8vIEhlcmUgeW91IHdpbGwgZGVmaW5lIHlvdXIgZmxhZ3MgYW5kIGNvbmZpZ3VyYXRpb24gc2V0dGluZ3MuCgoJLy8gQ29icmEgc3VwcG9ydHMgUGVyc2lzdGVudCBGbGFncyB3aGljaCB3aWxsIHdvcmsgZm9yIHRoaXMgY29tbWFuZAoJLy8gYW5kIGFsbCBzdWJjb21tYW5kcywgZS5nLjoKCS8vIHJ1bkNtZC5QZXJzaXN0ZW50RmxhZ3MoKS5TdHJpbmcoImZvbyIsICIiLCAiQSBoZWxwIGZvciBmb28iKQoKCS8vIENvYnJhIHN1cHBvcnRzIGxvY2FsIGZsYWdzIHdoaWNoIHdpbGwgb25seSBydW4gd2hlbiB0aGlzIGNvbW1hbmQKCS8vIGlzIGNhbGxlZCBkaXJlY3RseSwgZS5nLjoKCS8vIHJ1bkNtZC5GbGFncygpLkJvb2xQKCJ0b2dnbGUiLCAidCIsIGZhbHNlLCAiSGVscCBtZXNzYWdlIGZvciB0b2dnbGUiKQo=</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>A longer description that spans multiple lines and likely contains examples</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">YW5kIHVzYWdlIG9mIHVzaW5nIHlvdXIgY29tbWFuZC4gRm9yIGV4YW1wbGU6CgpDb2JyYSBpcyBhIENMSSBsaWJyYXJ5IGZvciBHbyB0aGF0IGVtcG93ZXJzIGFwcGxpY2F0aW9ucy4KVGhpcyBhcHBsaWNhdGlvbiBpcyBhIHRvb2wgdG8gZ2VuZXJhdGUgdGhlIG5lZWRlZCBmaWxlcwp0byBxdWlja2x5IGNyZWF0ZSBhIENvYnJhIGFwcGxpY2F0aW9uLmAsCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YW5kIHVzYWdlIG9mIHVzaW5nIHlvdXIgY29tbWFuZC4gRm9yIGV4YW1wbGU6CgpDb2JyYSBpcyBhIENMSSBsaWJyYXJ5IGZvciBHbyB0aGF0IGVtcG93ZXJzIGFwcGxpY2F0aW9ucy4KVGhpcyBhcHBsaWNhdGlvbiBpcyBhIHRvb2wgdG8gZ2VuZXJhdGUgdGhlIG5lZWRlZCBmaWxlcwp0byBxdWlja2x5IGNyZWF0ZSBhIENvYnJhIGFwcGxpY2F0aW9uLmAsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWlmIF8sIGVyciA6PSBvcy5DcmVhdGUocCk7IGVyciAhPSBuaWwgewoJCWZ1LmxvZ2dlci5XYXJuKGVycikKCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpZiBfLCBlcnIgOj0gb3MuQ3JlYXRlKHApOyBlcnIgIT0gbmlsIHsKCQkJZnUubG9nZ2VyLkZhdGFsKGVycikKCQl9Cg==</text>
+        <text encoding="base64">CWlmIF8sIGVyciA6PSBvcy5DcmVhdGUocCk7IGVyciAhPSBuaWwgewoJCWZ1LmxvZ2dlci5XYXJuKGVycikKCX0K</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
