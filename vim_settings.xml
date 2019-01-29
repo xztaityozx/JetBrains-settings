@@ -69,9 +69,6 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/make.go" timestamp="1548146814412">
-        <mark key="'" line="51" column="75" />
-      </file>
       <file name="$USER_HOME$/Development/scala/microblog/app/utils/Utils.scala" timestamp="1545014574025">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -153,8 +150,11 @@
         <mark key="^" line="83" column="16" />
         <mark key="." line="83" column="16" />
       </file>
-      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/avv/cmd/task.go" timestamp="1548737543018">
-        <mark key="'" line="10" column="32" />
+      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/avv/cmd/task.go" timestamp="1548739916242">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="148" column="34" />
+        <mark key="]" line="164" column="5" />
+        <mark key="." line="152" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bb830db8-7d26-4b82-935e-8b2692728a6f/console.sql" timestamp="1544867323600">
         <mark key="[" line="0" column="0" />
@@ -396,7 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/.gitignore" />
       <jump line="2" column="10" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/stub/wv" />
       <jump line="64" column="29" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extaract_test.go" />
@@ -496,10 +495,11 @@
       <jump line="62" column="18" filename="$USER_HOME$/.go/src/github.com/xztaityozx/avv/cmd/runtask_test.go" />
       <jump line="48" column="0" filename="$USER_HOME$/.go/src/github.com/xztaityozx/avv/cmd/runtask_test.go" />
       <jump line="71" column="9" filename="$USER_HOME$/.go/src/github.com/xztaityozx/avv/cmd/simulate.go" />
+      <jump line="70" column="0" filename="$USER_HOME$/.go/src/github.com/xztaityozx/avv/cmd/task.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CS8vIE1ha2UgcmVzdWx0cy54bWwKCWlmIHBhdGgsIGVyciA6PSB0Lk1ha2VSZXN1bHRzWG1sKCk7IGVyciAhPSBuaWwgewoJCWxvZy5GYXRhbChlcnIpCgl9IGVsc2UgewoJCXQuU2ltdWxhdGlvbkZpbGVzLlJlc3VsdHNYTUwgPSBwYXRoCgl9CgoJLy8gTWFrZSByZXN1bHRzTWFwLnhtbAoJaWYgcGF0aCwgZXJyIDo9IHQuTWFrZU1hcFhtbCgpOyBlcnIgIT0gbmlsIHsKCQlsb2cuRmF0YWwoZXJyKQoJfSBlbHNlIHsKCQl0LlNpbXVsYXRpb25GaWxlcy5SZXN1bHRzTWFwWE1MID0gcGF0aAoJfQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">CQ==</text>
@@ -508,7 +508,7 @@
         <text>Vtn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJbG9nLldpdGhGaWVsZCgiY29tbWFuZCIsInNpbXVsYXRlIikuRmF0YWwoZXJyKQo=</text>
+        <text encoding="base64">CS8vIE1ha2UgcmVzdWx0cy54bWwKCWlmIHBhdGgsIGVyciA6PSB0Lk1ha2VSZXN1bHRzWG1sKCk7IGVyciAhPSBuaWwgewoJCWxvZy5GYXRhbChlcnIpCgl9IGVsc2UgewoJCXQuU2ltdWxhdGlvbkZpbGVzLlJlc3VsdHNYTUwgPSBwYXRoCgl9CgoJLy8gTWFrZSByZXN1bHRzTWFwLnhtbAoJaWYgcGF0aCwgZXJyIDo9IHQuTWFrZU1hcFhtbCgpOyBlcnIgIT0gbmlsIHsKCQlsb2cuRmF0YWwoZXJyKQoJfSBlbHNlIHsKCQl0LlNpbXVsYXRpb25GaWxlcy5SZXN1bHRzTWFwWE1MID0gcGF0aAoJfQo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IikKCQ==</text>
