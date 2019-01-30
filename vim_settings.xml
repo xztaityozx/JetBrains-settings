@@ -9,12 +9,6 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="60" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/simulationfile.go" timestamp="1548164081392">
-        <mark key="[" line="25" column="1" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/transistor.go" timestamp="1548248596145">
         <mark key="[" line="13" column="1" />
         <mark key="]" line="16" column="65" />
@@ -63,16 +57,9 @@
         <mark key="^" line="64" column="1" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/root.go" timestamp="1548245625252">
-        <mark key="'" line="68" column="98" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/runtask.go" timestamp="1548309282602">
-        <mark key="[" line="23" column="33" />
-        <mark key="]" line="35" column="15" />
-        <mark key="." line="35" column="15" />
-        <mark key="^" line="35" column="15" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/UHA/cmd/retry.go" timestamp="1547893186550">
         <mark key="[" line="236" column="0" />
@@ -138,12 +125,6 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/task.go" timestamp="1548239422102">
-        <mark key="[" line="53" column="26" />
-        <mark key="]" line="57" column="4" />
-        <mark key="^" line="57" column="4" />
-        <mark key="." line="57" column="4" />
-      </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/config_test.go" timestamp="1539661000341">
         <mark key="[" line="47" column="43" />
         <mark key="]" line="8" column="32" />
@@ -163,9 +144,9 @@
         <mark key="^" line="15" column="17" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/run.go" timestamp="1548306545446">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/owari/cmd/default.go" timestamp="1547555814098">
         <mark key="[" line="82" column="0" />
@@ -366,11 +347,7 @@
         <mark key="." line="5" column="37" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/make.go" timestamp="1548306109765">
-        <mark key="'" line="50" column="43" />
         <mark key="[" line="35" column="12" />
-        <mark key="]" line="37" column="27" />
-        <mark key="." line="37" column="27" />
-        <mark key="^" line="37" column="27" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/FileUtils.go" timestamp="1548251821796">
         <mark key="'" line="90" column="0" />
