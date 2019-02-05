@@ -28,10 +28,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/avv/cmd/task_test.go" timestamp="1549345354056">
+      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/avv/cmd/task_test.go" timestamp="1549346412902">
         <mark key="[" line="40" column="36" />
-        <mark key="]" line="40" column="36" />
-        <mark key="." line="40" column="36" />
+        <mark key="]" line="40" column="38" />
+        <mark key="." line="40" column="38" />
+        <mark key="^" line="40" column="38" />
       </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/join.go" timestamp="1542552465150">
         <mark key="[" line="75" column="0" />
@@ -307,7 +308,7 @@
         <mark key="^" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549344590859">
+      <file name="/Dummy.txt" timestamp="1549346431302">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/version.go" timestamp="1543897129275">
