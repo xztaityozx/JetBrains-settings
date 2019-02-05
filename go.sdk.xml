@@ -3,6 +3,7 @@
     <sdk-path>
       <set>
         <option value="/home/linuxbrew/.linuxbrew/Cellar/go/1.11.1/libexec" />
+        <option value="/home/linuxbrew/.linuxbrew/Cellar/go/1.11.4/libexec" />
         <option value="$USER_HOME$/linuxbrew/.linuxbrew/Cellar/go/1.11.4/libexec" />
         <option value="C:\Go" />
       </set>
