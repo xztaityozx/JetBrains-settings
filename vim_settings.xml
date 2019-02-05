@@ -9,6 +9,13 @@
         <mark key="^" line="35" column="13" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/avv/cmd/addfile_test.go" timestamp="1549347497395">
+        <mark key="'" line="40" column="9" />
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="31" column="34" />
+        <mark key="." line="31" column="34" />
+        <mark key="^" line="31" column="34" />
+      </file>
       <file name="$USER_HOME$/Development/scala/intern2020_Scala_TakemuraKenta/app/PostModel.scala" timestamp="1544866038424">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -28,7 +35,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/avv/cmd/task_test.go" timestamp="1549346412902">
+      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/avv/cmd/task_test.go" timestamp="1549347781337">
         <mark key="[" line="40" column="36" />
         <mark key="]" line="40" column="38" />
         <mark key="." line="40" column="38" />
@@ -267,11 +274,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/avv/cmd/dispatcher.go" timestamp="1549344522250">
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="48" />
-        <mark key="." line="158" column="48" />
-        <mark key="^" line="158" column="48" />
+      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/avv/cmd/dispatcher.go" timestamp="1549348543583">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/.go/src/github.com/xztaityozx/awx/cmd/version.go" timestamp="1541660660266">
         <mark key="[" line="29" column="52" />
@@ -308,7 +314,7 @@
         <mark key="^" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549346431302">
+      <file name="/Dummy.txt" timestamp="1549347641142">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.go/src/github.com/xztaityozx/go-cdx/cmd/version.go" timestamp="1543897129275">
@@ -376,6 +382,12 @@
         <mark key="." line="98" column="29" />
         <mark key="^" line="98" column="29" />
       </file>
+      <file name="$USER_HOME$/.go/src/github.com/xztaityozx/avv/cmd/dispatcher_test.go" timestamp="1549348101771">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/resultsxml.go" timestamp="1548237813448">
         <mark key="'" line="106" column="28" />
         <mark key="[" line="219" column="7" />
@@ -390,9 +402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="28" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract.go" />
-      <jump line="49" column="14" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extract.go" />
-      <jump line="115" column="28" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/multiextract.go" />
       <jump line="62" column="27" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/cmd/extaract_test.go" />
       <jump line="15" column="0" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/awx/.gitignore" />
@@ -490,10 +499,13 @@
       <jump line="39" column="8" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/make.go" />
       <jump line="71" column="98" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/root.go" />
       <jump line="56" column="43" filename="$USER_HOME$/Development/go/src/github.com/xztaityozx/avv/cmd/make.go" />
+      <jump line="40" column="9" filename="$USER_HOME$/.go/src/github.com/xztaityozx/avv/cmd/addfile_test.go" />
+      <jump line="42" column="0" filename="$USER_HOME$/.go/src/github.com/xztaityozx/avv/cmd/dispatcher_test.go" />
+      <jump line="40" column="0" filename="$USER_HOME$/.go/src/github.com/xztaityozx/avv/cmd/dispatcher_test.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmZ1bmMgKHIgUmVzdWx0KSBOZXh0KCkgSVRhc2sgewoJaWYgIXIuU3RhdHVzIHsKCQlyZXR1cm4gci5UYXNrLkdldFdyYXBwZXIoKQoJfQoKCWlmIHIuVGFzay5TdGFnZSA9PSBIU1BJQ0UgewoJCXIuVGFzay5TdGFnZSA9IFdhdmVWaWV3CgkJcmV0dXJuIEV4dHJhY3RUYXNrewoJCQlUYXNrOiByLlRhc2ssCgkJfQoJfQoKCXIuVGFzay5TdGFnZSA9IENvdW50VXAKCXJldHVybiBDb3VudFRhc2t7CgkJVGFzazogci5UYXNrLAoJfQp9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -502,43 +514,43 @@
         <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUZVLlRyeU1rRGlyKGNvbmZpZy5EZWZhdWx0LlNpbXVsYXRpb25EaXJlY3Rvcmllcy5CYXNlRGlyKQo=</text>
+        <text encoding="base64">CWN0eCwgY2FuIDo9IGNvbnRleHQuV2l0aENhbmNlbChjb250ZXh0LkJhY2tncm91bmQoKSkKCWRlZmVyIGNhbigpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuYyBUZXN0RmlsdGVyX0NvdW50VXAodCAqdGVzdGluZy5UKSB7Cglob21lLCBfIDo9IGhvbWVkaXIuRGlyKCkKCXNyYyA6PSBQYXRoSm9pbihob21lLCAiVGVzdERpciIpCglGVS5UcnlNa0RpcihzcmMpCglzcmMgPSBQYXRoSm9pbihzcmMsICJzcmMuY3N2IikKCUZVLldyaXRlRmlsZShzcmMsIGAKMTAsIDIxLCAzMiwgNDMKNTEsIDYyLCA4MywgOTQKYCkKCn0K</text>
+        <text encoding="base64">CmZ1bmMgKHIgUmVzdWx0KSBOZXh0KCkgSVRhc2sgewoJaWYgIXIuU3RhdHVzIHsKCQlyZXR1cm4gci5UYXNrLkdldFdyYXBwZXIoKQoJfQoKCWlmIHIuVGFzay5TdGFnZSA9PSBIU1BJQ0UgewoJCXIuVGFzay5TdGFnZSA9IFdhdmVWaWV3CgkJcmV0dXJuIEV4dHJhY3RUYXNrewoJCQlUYXNrOiByLlRhc2ssCgkJfQoJfQoKCXIuVGFzay5TdGFnZSA9IENvdW50VXAKCXJldHVybiBDb3VudFRhc2t7CgkJVGFzazogci5UYXNrLAoJfQp9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWwuSW5mbygiU3RhcnQgRGlzcGF0Y2hlciIpCg==</text>
+        <text encoding="base64">CmZ1bmMgKHAgUGlwZUxpbmUpIFBpcGVTdGFydChjdHggY29udGV4dC5Db250ZXh0LCBwaXApIChkb25lIFtdSVRhc2ssIGZhaWxlZCBbXVRhc2spIHsKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWwuSW5mbyh3b3JrZXJzLCAiIHdvcmtlcnMgd2FzIHN0YXJ0ZWQiKQo=</text>
+        <text encoding="base64">CXZhciBkbyA9IHRhc2tzCgl2YXIgcmV0cnkgW11JVGFzawoKCWZvciBsZW4oZG9uZSkgIT0gbGVuKHRhc2tzKSAmJiBjb25maWcuQXV0b1JldHJ5IHsKCQlyZXMgOj0gZC5EaXNwYXRjaChjdHgsIHBhcmFsbGVsLCBkbykKCQlmb3IgXywgciA6PSByYW5nZSByZXMgewoJCQluZXh0IDo9IHIuTmV4dCgpCgkJCWlmIHIuU3RhdHVzIHsKCQkJCWRvbmUgPSBhcHBlbmQoZG9uZSwgbmV4dCkKCQkJfSBlbHNlIHsKCQkJCXJldHJ5ID0gYXBwZW5kKHJldHJ5LCBuZXh0KQoJCQl9CgkJfQoJCWRvID0gcmV0cnkKCX0KCglmb3IgXywgciA6PSByYW5nZSByZXRyeSB7CgkJZmFpbGVkID0gYXBwZW5kKGZhaWxlZCwgci5TZWxmKCkpCgl9CgoJcmV0dXJuIGRvbmUsIGZhaWxlZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIHN0YXJ0IHdvcmtlcnMKCWwuSW5mbygiU3RhcnQgRGlzcGF0Y2hlciIpCglmb3IgaSA6PSAwOyBpIDwgd29ya2VyczsgaSsrIHsKCQlnbyBmdW5jKCkgeyBkLldvcmtlcihjdHgpIH0oKQoJfQoJbC5JbmZvKHdvcmtlcnMsICIgd29ya2VycyB3YXMgc3RhcnRlZCIpCg==</text>
+        <text encoding="base64">CWZhaWxlZCA9IFtdVGFza3t9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmlsCg==</text>
+        <text encoding="base64">CWRvbmUgPSBbXUlUYXNre30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlGaW5pc2hUaW1lOnRpbWUuTm93KCksCg==</text>
+        <text encoding="base64">CXNpbURpcyA6PSBOZXdEaXNwYXRjaGVyKCJIU1BJQ0UiKQoJd3ZEaXMgOj0gTmV3RGlzcGF0Y2hlcigiV2F2ZVZpZXciKQoJY3VEaXMgOj0gTmV3RGlzcGF0Y2hlcigiQ291bnRVcCIpCgllcnIgPSBuaWwKCgl2YXIgd2cgc3luYy5XYWl0R3JvdXAKCXdnLkFkZCgzKQoKCWdvIGZ1bmMoKSB7CgkJdmFyIGRvIFtdSVRhc2sKCQlmb3IgXywgdiA6PSByYW5nZSB0YXNrcyB7CgkJCWRvID0gYXBwZW5kKGRvLCB2KQoJCX0KCgkJZG8sIHJldHJ5IDo9IHAuUGlwZVN0YXJ0KGN0eCwgc2ltRGlzLCBjb25maWcuUGFyYWxsZWxDb25maWcuSFNQSUNFLCBkbykKCQlmYWlsZWQgPSBhcHBlbmQoZmFpbGVkLCByZXRyeS4uLikKCQl3Zy5Eb25lKCkKCgkJZG8sIHJldHJ5ID0gcC5QaXBlU3RhcnQoY3R4LCB3dkRpcywgY29uZmlnLlBhcmFsbGVsQ29uZmlnLldhdmVWaWV3LCBkbykKCQlmYWlsZWQgPSBhcHBlbmQoZmFpbGVkLCByZXRyeS4uLikKCQl3Zy5Eb25lKCkKCgkJZG8sIHJldHJ5ID0gcC5QaXBlU3RhcnQoY3R4LCBjdURpcywgY29uZmlnLlBhcmFsbGVsQ29uZmlnLkNvdW50VXAsIGRvKQoJCWZhaWxlZCA9IGFwcGVuZChmYWlsZWQsIHJldHJ5Li4uKQoKCQlmb3IgXywgciA6PSByYW5nZSBkbyB7CgkJCXN1Y2Nlc3MgPSBhcHBlbmQoc3VjY2Vzcywgci5TZWxmKCkpCgkJfQoKCQl3Zy5Eb25lKCkKCX0oKQoKCWNoIDo9IG1ha2UoY2hhbiBzdHJ1Y3R7fSkKCWRlZmVyIGNsb3NlKGNoKQoJZ28gZnVuYygpIHsKCQl3Zy5XYWl0KCkKCQljaCA8LSBzdHJ1Y3R7fXt9Cgl9KCkKCglzZWxlY3QgewoJY2FzZSA8LWN0eC5Eb25lKCk6CgkJcmV0dXJuIG5pbCwgbmlsLCBlcnJvcnMuTmV3KCJDYW5jZWxlZCBieSBjb250ZXh0XG4iKQoJY2FzZSA8LWNoOgoJfQoKCXJldHVybgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHlwZSBTaW11bGF0aW9uUmVzdWx0IHN0cnVjdCB7CglUYXNrICAgVGFzawoJU3RhdHVzIGJvb2wKCUVycm9yICBlcnJvcgp9Cg==</text>
+        <text encoding="base64">ZnVuYyBUZXN0UGlwZUxpbmVfU3RhcnQodCAqdGVzdGluZy5UKSB7CglhcyA6PSBhc3NlcnQuTmV3KHQpCgljdHgsIGNhbiA6PSBjb250ZXh0LldpdGhDYW5jZWwoY29udGV4dC5CYWNrZ3JvdW5kKCkpCglkZWZlciBjYW4oKQoJcCA6PSBQaXBlTGluZXt9Cn0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHlwZSBSdW5UYXNrIHN0cnVjdCB7CglUYXNrcyAgICAgIFtdVGFzawoJQmVnaW5UaW1lICB0aW1lLlRpbWUKCUZpbmlzaFRpbWUgdGltZS5UaW1lCglSZXN1bHRzICAgIFtdU2ltdWxhdGlvblJlc3VsdAp9Cg==</text>
+        <text encoding="base64">CXAuU3RhcnQoY3R4LCApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmZ1bmMgKGQgKkRpc3BhdGNoZXIpIFdvcmtlcihwYXJlbnQgY29udGV4dC5Db250ZXh0KSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
@@ -570,7 +582,6 @@
         <entry>start</entry>
       </history-search>
       <history-cmd>
-        <entry>action AceAction</entry>
         <entry>e ~/.idevimrc</entry>
         <entry>actionlist</entry>
         <entry>GotoTest</entry>
@@ -582,14 +593,15 @@
         <entry>source C:\Users\sldl77\.ideavimrc</entry>
         <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5zL3Avbi9n</entry>
-        <entry>action Back</entry>
         <entry>q</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry encoding="base64">JzwsJz5zL1Z0bi9WdHAvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3N0YXJ0L2VuZC9n</entry>
         <entry>action AceTargetAction</entry>
         <entry>action ReformatCode</entry>
         <entry>action CommentByLineComment</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry>action Back</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
